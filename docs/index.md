@@ -7,13 +7,13 @@ hero:
   text: "A website for use during our DnD Campaign."
   tagline: Git gud, noobz.
   image:
-    src: ./images/mountain.webp
+    src: ./images/message.webp
     alt: Dice
 ---
 
 <!-- Hero Actions Row -->
 <div class="action-row">
-  <a href="/markdown-examples" class="action-button">
+  <a href="/characterpage" class="action-button">
     <img src="./images/ascend_button.svg" alt="Ascend" class="feature-image" />
   </a>
 </div>

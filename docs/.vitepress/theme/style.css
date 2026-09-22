@@ -90,6 +90,71 @@
  * Component: Home
  * -------------------------------------------------------------------------- */
 
+/* --- Content Typography Polish (Refined for Smoothness) --- */
+
+h1,
+h2,
+h3 {
+  font-family: fantasy, serif;
+  font-weight: 500; /* Lightened from 700 to remove "blockiness" */
+  /* A very soft glow rather than a drop shadow for a more organic feel */
+  text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.35);
+  -webkit-font-smoothing: antialiased; /* Smoother rendering on macOS/Chrome */
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  /* Muted gold to moss for a more "baked into the page" look */
+  background: linear-gradient(to right, #c5a36d, #8a9a5b);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 1.8em;
+}
+
+h2 {
+  /* Softer cream to sage */
+  background: linear-gradient(to right, #e6e2cf, #a3b18a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 1.5em;
+}
+
+h3 {
+  /* Soft white to pale gold */
+  background: linear-gradient(to right, #ffffff, #d4af37);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 1.2em;
+}
+
+/* Body text refinement */
+p,
+li {
+  color: #e6e6e6; /* Slightly softer off-white */
+  line-height: 1.7; /* Increased leading for a more breathable feel */
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1); /* Almost imperceptible depth */
+}
+
+/* Callout Box Refinement (Softened edges) */
+.vp-cta {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.03) !important;
+  border-radius: 4px; /* Subtle rounding to match the parchment curve */
+}
+
+:root {
+  --vp-nav-bg-color: color-mix(in srgb, var(--vp-c-bg) 65%, transparent);
+  --vp-nav-backdrop-filter: saturate(180%) blur(8px);
+}
+
+:root {
+  --vp-sidebar-bg-color: #1c4335;
+  --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
+}
+
 :root {
   --vp-home-hero-name-color: transparent;
   /* 1. Name Gradient */
@@ -105,22 +170,29 @@
   /* 2. Text Gradient (Unique) */
   --vp-home-hero-text-gradient: linear-gradient(
     90deg,
-    #2e4b76 5%,
+    #69762e 5%,
     #496679 100%
   );
 
   /* 3. Tagline Gradient (Unique) */
   --vp-home-hero-tagline-gradient: linear-gradient(80deg, #1caf1c 30%, #1fe2e2);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #358342 5%,
-    #3b92b4 100%
+  --vp-home-hero-image-background-image: radial-gradient(
+    circle at center,
+    #f2e8cf 0%,
+    /* The "Parchment" Center (Creamy off-white) */ #d4b98a 10%,
+    /* Aged Tan/Gold transition */ #6c7e5d 70%,
+    /* Mossy Green transition */ #2d3d2d 100%
+      /* Deep Forest Shadow (Background color) */
   );
-  --vp-home-hero-image-filter: blur(44px);
+
+  /* To make it look truly "complex" and high-end, we add a slight overlay
+   that mimics the texture of aged paper without needing an actual image file. */
+  --vp-home-hero-image-filter: blur(40px) contrast(1.1) brightness(0.9);
 }
 
 /* These rules live OUTSIDE the root variables */
+
 .VPHomeHero .name {
   font-size: 4rem;
   font-family: fantasy;
