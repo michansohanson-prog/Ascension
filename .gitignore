@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+dist/
+.DS_Store
+
+# VitePress & Build outputs
+.vitepress/theme/.vitepress/
+docs/.vitepress/.github/
+.output/
+.vercel/
+.netlify/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Resources (as requested)
+resources/
