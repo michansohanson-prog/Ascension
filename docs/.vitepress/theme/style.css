@@ -167,6 +167,27 @@
  * Component: Custom Block
  * -------------------------------------------------------------------------- */
 
+/**
+ * Component: Hero Action Row
+ * -------------------------------------------------------------------------- */
+
+.action-row {
+  display: flex;
+  justify-content: center; /* Centers them under the hero text */
+  gap: 4rem; /* Adjust this to your preferred spacing */
+  flex-wrap: wrap; /* Makes them stack on mobile */
+  margin: 0rem 0;
+}
+
+.action-button {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.action-button:hover {
+  transform: scale(1.05); /* A slight pop on hover */
+}
+
 :root {
   --vp-custom-block-tip-border: transparent;
   --vp-custom-block-tip-text: var(--vp-c-text-1);

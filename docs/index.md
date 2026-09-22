@@ -7,24 +7,16 @@ hero:
   text: "A website for use during our DnD Campaign."
   tagline: Git gud, noobz.
   image:
-    src: ./images/cyber_dnd_logo.svg
-    atl: Dice
-  actions:
-    - theme: brand
-      text: Ascend
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Barvin Vox
-    details: A sleepy wittle bear
-  - title: Blaise de La Mer
-    details: A Pirate Bird.
-  - title: Goblin
-    details: Will rip your eyes out and shove 'em down your pants so you can watch him kick the crap out of you.
+    src: ./images/mountain.webp
+    alt: Dice
 ---
+
+<!-- Hero Actions Row -->
+<div class="action-row">
+  <a href="/markdown-examples" class="action-button">
+    <img src="./images/ascend_button.svg" alt="Ascend" class="feature-image" />
+  </a>
+</div>
 
 <div class="feature-row">
   <img src="./images/Barvin.webp" alt="Barvin" class="feature-image" />
