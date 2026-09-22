@@ -4,8 +4,11 @@ dist/
 .DS_Store
 
 # VitePress & Build outputs
+# Ignore the main build output for the docs folder
+docs/.vitepress/dist/
+# Ignore VitePress cache and internal storage
+.vitepress/cache/
 .vitepress/theme/.vitepress/
-docs/.vitepress/.github/
 .output/
 .vercel/
 .netlify/
