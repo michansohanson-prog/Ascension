@@ -7,7 +7,7 @@ hero:
   text: "A website for use during our DnD Campaign."
   tagline: Git gud, noobz.
   image:
-    src: ./docs/assets/message.webp
+    src: /message.webp
     alt: message
 ---
 
