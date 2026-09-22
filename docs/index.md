@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Ascension"
-  text: "A website for use during our DnD Campaign."
+  text: "A website for use during our DnD Campaign.  Very preliminary."
   tagline: Git gud, noobz.
   image:
     src: ./images/message.webp
