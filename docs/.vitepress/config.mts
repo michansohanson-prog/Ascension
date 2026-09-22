@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Characters", link: "/CharacterPage.md" },
+      { text: "Wiki", link: "/wiki.md" },
     ],
 
     sidebar: [
