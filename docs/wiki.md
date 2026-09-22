@@ -22,11 +22,11 @@ _A high-level summary of the current state of existence._
 
 ### The Landscape
 
-[Insert a brief description here about the general climate—is it dying? Is it magically unstable? Describe the "vibe" of the world.]
+The land is a fractured mosaic of decaying grandeur and untamed wilds. Magic feels heavy here—less like an art and more like a lingering infection in the soil. From the smog-choked industrial ruins to the silent, overgrown forests, every acre tells a story of what happened before the collapse.
 
 ### Current State of Affairs
 
-[Describe what is happening right now. A Great War? A magical plague? A crumbling empire?]
+The Great Stagnation has taken hold. Empires have withered into city-states governed by desperate warlords or shadowy merchant syndicates. Resources are scarce, and "civilization" is currently defined by who owns the last remaining wells and fertile valleys.
 
 ---
 
@@ -34,9 +34,9 @@ _A high-level summary of the current state of existence._
 
 _The bones of the past that haunt our present._
 
-- **The Age of [Name]:** [Brief summary of a major era]
-- **The Cataclysm:** [How did things get so "fucked up"? Describe the pivotal turning point.]
-- **Relics of the Old World:** [Mention specific items or places that represent lost glory.]
+- **The Age of Ruin:** The era following the collapse of organized global governance.
+- **The Cataclysm:** The pivotal turning point where magical stability broke, leading to the fractured world we inhabit today.
+- **Relics of the Old World:** Scattered fragments of pre-collapse technology and high magic that still pulse with dangerous energy.
 
 ---
 
@@ -48,7 +48,6 @@ _Who is fighting, and who is winning?_
 | :----------------------- | :------------- | :------------------- | :----------- |
 | **The Iron Remnant**     | Lawful Neutral | Reclaiming the ruins | Moderate     |
 | **The Whispering Grove** | Chaotic Evil   | Consumption of life  | High         |
-| **[Faction Name]**       | [Alignment]    | [Goal]               | [Level]      |
 
 ::: tip
 Keep an eye on your interactions with these groups. Every favor has a price, and most prices are paid in blood or secrets.
@@ -60,20 +59,20 @@ Keep an eye on your interactions with these groups. Every favor has a price, and
 
 _Use the sidebar or the links below to navigate the sub-sections._
 
-| Category      | Content                                        | Link                      |
-| :------------ | :--------------------------------------------- | :------------------------ |
-| **People**    | The heroes and villains of our story.          | [Characters](/characters) |
-| **Geography** | Maps, towns, and dangerous wildernesses.       | [Locations](/locations)   |
-| **Mechanics** | House rules, homebrew items, and unique feats. | [Rules](/rules)           |
-| **Bestiary**  | The monsters lurking in the shadows.           | [Monsters](/monsters)     |
+**People** | The heroes and villains of our story.
+_(Coming Soon)_
+
+**Geography** | Maps, towns, and dangerous wildernesses.
+_(Coming Soon)_
+
+**Bestiary** | The monsters lurking in the shadows.
+_(Coming Soon)_
 
 ---
 
 ## 📂 Archive & Resources
 
-- [World Map (PDF/Image)](./images/world_map.png)
-- [Timeline of Events](link-to-timeline)
-- [Music & Atmosphere Playlist](Link to Spotify/Youtube)
+- [Atmosphere Playlist](https://open.spotify.com/playlist/your-link-here)
 
 ::: details
 **Hidden Lore (DM Eyes Only)**
