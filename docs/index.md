@@ -13,7 +13,7 @@ hero:
 
 <!-- Hero Actions Row -->
 <div class="action-row">
-  <a href="/characterpage" class="action-button">
+  <a href="./characterpage" class="action-button">
     <img src="./images/ascend_button.svg" alt="Ascend" class="feature-image" />
   </a>
 </div>

@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Ascension",
   description: "A website for use during our DnD Campaign.",
+  base: "/Ascension/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -18,8 +19,8 @@ export default defineConfig({
           { text: "Characters", link: "/CharacterPage.md" },
           {
             text: "Wiki",
-            link: "/wiki", // This makes the header clickable to your hub
-            collapsed: true, // Keeps it tidy until expanded
+            link: "/wiki",
+            collapsed: true,
             items: [
               { text: "NPCs" },
               { text: "Locations" },
