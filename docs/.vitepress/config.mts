@@ -21,7 +21,7 @@ export default defineConfig({
           {
             text: "Wiki",
             link: "/wiki",
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: "NPCs" },
               { text: "Locations" },

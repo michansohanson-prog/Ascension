@@ -335,10 +335,10 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
 }
 /* Sidebar Text */
 .VPSidebarItem.level-0.has-active > .item > .text[data-v-3db96182] {
-  color: #699e83;
+  color: #727473 !important;
 }
 .VPSidebarItem.level-0 .text[data-v-3db96182] {
-  color: #adb6a6;
+  color: #adb6a6 !important;
 }
 /* "On this page links color" */
 
@@ -351,11 +351,11 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
   color: #5e5605 !important; /* Replace #FF0000 with your desired color */
 }
 .menu-text {
-  color: #a7a357;
+  color: #a7a357 !important;
 }
 /* and the Mobile Dropdown for the "On this page" */
 .top-link[data-v-0661805f] {
-  color: #6d6508;
+  color: #6d6508 !important;
 }
 
 div[class*="VPLocalNavOutlineDropdown"] .outline-link {
