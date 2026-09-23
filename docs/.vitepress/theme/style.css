@@ -437,7 +437,7 @@ a.VPLink.link.pager-link.prev span.desc {
 a.VPLink.link.pager-link.prev span.title {
   color: #060c6a;
 }
-
+/* details admonition */
 details.details.custom-block summary {
   color: #cfd9df;
 }
