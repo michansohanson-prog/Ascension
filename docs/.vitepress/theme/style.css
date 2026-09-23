@@ -321,7 +321,7 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
 
 :root {
   /* Replace this hex code with your preferred "unique" color */
-  --vp-nav-text-color: #051d0b;
+  --vp-nav-text-color: #b1b67f;
 }
 
 /* This targets both the Title (Ascension) and all Navbar Links (Home, Characters, Wiki) */
