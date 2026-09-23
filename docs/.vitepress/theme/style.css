@@ -146,16 +146,6 @@ li {
 }
 
 :root {
-  --vp-nav-bg-color: color-mix(in srgb, var(--vp-c-bg) 65%, transparent);
-  --vp-nav-backdrop-filter: saturate(180%) blur(8px);
-}
-
-:root {
-  --vp-sidebar-bg-color: #1c4335;
-  --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
-}
-
-:root {
   --vp-home-hero-name-color: transparent;
   /* 1. Name Gradient */
   /* First % stop determines where the color becomes dominant*/
@@ -163,7 +153,7 @@ li {
   /* The range between the two values is the blend section*/
   --vp-home-hero-name-background: linear-gradient(
     100deg,
-    #4d9c83 5%,
+    #184839 5%,
     #77797b 100%
   );
 
@@ -197,7 +187,7 @@ li {
   font-size: 2.5rem;
   font-family: fantasy;
   font-style: oblique;
-  padding-right: 0rem;
+  padding-right: 2rem;
   background: var(--vp-home-hero-name-background);
   -webkit-background-clip: text;
   background-clip: text;
@@ -234,10 +224,6 @@ li {
     --vp-home-hero-image-filter: blur(68px);
   }
 }
-
-/**
- * Component: Custom Block
- * -------------------------------------------------------------------------- */
 
 /**
  * Component: Hero Action Row (the button)
@@ -317,25 +303,28 @@ Positions: center, top, bottom, left, right, top left, top right, bottom left, b
 Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
 */
 }
-/* --- Custom Navigation Color --- */
-
+/* --- Custom Navigation Text Color --- */
 :root {
   /* Replace this hex code with your preferred "unique" color */
   --vp-nav-text-color: #b1b67f;
 }
-
 /* This targets both the Title (Ascension) and all Navbar Links (Home, Characters, Wiki) */
 .VPNav a {
   color: var(--vp-nav-text-color) !important;
   transition: color 0.2s ease;
 }
-
 /* Optional: Hover effect for interactivity */
 .VPNav a:hover {
   opacity: 0.8;
 }
+/* Custom Navbar Background*/
+:root {
+  /* Choose a "Parchment" or "Moss" base color for the bar */
+  --vp-nav-bg-color: #1a4838; /* A soft, aged parchment tone */
+}
 
-/* Ensure the active page (Home, in your case) still looks distinct if you want it to */
-.VPNav .VPNavMenuLink.active span {
-  font-weight: bold;
+/* Custom Sidebar Background */
+:root {
+  --vp-sidebar-bg-color: #1c4335;
+  --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
 }
