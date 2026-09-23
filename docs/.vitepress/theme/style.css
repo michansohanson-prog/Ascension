@@ -95,38 +95,38 @@
 h1,
 h2,
 h3 {
-  font-family: fantasy, serif;
-  font-weight: 500; /* Lightened from 700 to remove "blockiness" */
-  /* A very soft glow rather than a drop shadow for a more organic feel */
+  /* Use a more reliable Serif stack for an organic feel */
+  font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
+
+  /* 400 is a standard "Regular" weight - often much less blocky than 500/700 */
+  font-weight: 400;
+
+  /* Letter spacing is the secret to making text look 'premium' and not blocky */
+  letter-spacing: 0.02em;
+
+  /* Keeps that soft organic bloom you liked */
   text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.35);
-  -webkit-font-smoothing: antialiased; /* Smoother rendering on macOS/Chrome */
+
+  /* Ensures smooth edges on all devices */
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 h1 {
-  /* Muted gold to moss for a more "baked into the page" look */
-  background: linear-gradient(to right, #c5a36d, #8a9a5b);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  font-size: 1.8em;
+  /* A warm, muted gold for maximum pop without being overwhelming */
+  color: #c5a36d;
+  font-size: large;
 }
 
 h2 {
-  /* Softer cream to sage */
-  background: linear-gradient(to right, #e6e2cf, #a3b18a);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  /* A softer cream/off-white to contrast with the H1 */
+  color: #dac24d;
   font-size: 1.5em;
 }
 
 h3 {
-  /* Soft white to pale gold */
-  background: linear-gradient(to right, #ffffff, #d4af37);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  /* A bright, warm white/champagne for clarity */
+  color: #766d39;
   font-size: 1.2em;
 }
 
@@ -327,4 +327,54 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
 :root {
   --vp-sidebar-bg-color: #1c4335;
   --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
+}
+/* Sidebar Text */
+.VPSidebarItem.level-0.has-active > .item > .text[data-v-3db96182] {
+  color: #699e83;
+}
+.VPSidebarItem.level-0 .text[data-v-3db96182] {
+  color: #adb6a6;
+}
+/* "On this page links color" */
+
+.VPDocOutlineItem a {
+  color: inherit !important;
+  text-decoration: inherit !important;
+}
+/* Target the correct class for the "On this page" header */
+.outline-title {
+  color: #5e5605 !important; /* Replace #FF0000 with your desired color */
+}
+.menu-text {
+  color: #a7a357;
+}
+/* and the Mobile Dropdown for the "On this page" */
+.top-link[data-v-0661805f] {
+  color: #6d6508;
+}
+
+div[class*="VPLocalNavOutlineDropdown"] .outline-link {
+  color: #aca452 !important; /* Or use 'inherit' if preferred */
+  text-decoration: inherit !important;
+  display: inline-block !important;
+}
+
+/* --- Fix for ghost grey block (aside-curtain) on bottom right --- */
+.aside-curtain {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Catch-all to ensure all "curtain" elements are removed */
+[class*="curtain"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+.vp-doc .custom-block.warning {
+  background: linear-gradient(90deg, #310000 30%, #a20000);
 }
