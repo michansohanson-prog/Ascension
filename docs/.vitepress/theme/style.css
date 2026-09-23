@@ -69,6 +69,11 @@
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
+/* Default Paragraph Text Style */
+.vp-doc p {
+  color: #bdd4ca;
+  font-size: 1.1rem;
+}
 
 /**
  * Component: Button
