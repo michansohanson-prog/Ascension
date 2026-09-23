@@ -153,19 +153,19 @@ li {
   /* The range between the two values is the blend section*/
   --vp-home-hero-name-background: linear-gradient(
     100deg,
-    #184839 5%,
-    #77797b 100%
+    #70837d 5%,
+    #ececec 100%
   );
 
   /* 2. Text Gradient (Unique) */
   --vp-home-hero-text-gradient: linear-gradient(
     90deg,
     #69762e 5%,
-    #496679 100%
+    #a5b6c2 100%
   );
 
   /* 3. Tagline Gradient (Unique) */
-  --vp-home-hero-tagline-gradient: linear-gradient(80deg, #1caf1c 30%, #1fe2e2);
+  --vp-home-hero-tagline-gradient: linear-gradient(80deg, #33c333 30%, #ad261f);
 
   --vp-home-hero-image-background-image: radial-gradient(
     circle at center,
@@ -416,4 +416,28 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
   div[class*="VPNavAppearance"] .text {
     color: #051be9 !important;
   }
+}
+
+/* Next Page and Previous Page buttons */
+a.VPLink.link.pager-link.next {
+  background: linear-gradient(90deg, #671e1e 30%, #45bb53) !important;
+}
+a.VPLink.link.pager-link.next span.desc {
+  color: #a4e2d2;
+}
+a.VPLink.link.pager-link.next span.title {
+  color: #060c6a;
+}
+a.VPLink.link.pager-link.prev {
+  background: linear-gradient(90deg, #45bb53 0%, #671e1e) !important;
+}
+a.VPLink.link.pager-link.prev span.desc {
+  color: #a4e2d2;
+}
+a.VPLink.link.pager-link.prev span.title {
+  color: #060c6a;
+}
+
+details.details.custom-block summary {
+  color: #cfd9df;
 }

@@ -69,12 +69,3 @@ _(Coming Soon)_
 _(Coming Soon)_
 
 ---
-
-## 📂 Archive & Resources
-
-- [Atmosphere Playlist](https://open.spotify.com/playlist/your-link-here)
-
-::: details
-**Hidden Lore (DM Eyes Only)**
-[Use this section for secret plot hooks or things the players shouldn't see yet during a standard read.]
-:::
