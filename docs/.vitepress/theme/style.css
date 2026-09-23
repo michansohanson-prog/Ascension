@@ -398,3 +398,15 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
 .VPNavAppearance .text[data-v-e0b66432] {
   color: #051be9;
 }
+
+@media (max-width: 768px) {
+  .VPNavScreen[data-v-b2c6164f] {
+    background: linear-gradient(90deg, #002e31 30%, #0071a2);
+  }
+  .appearance[data-v-b2c6164f] {
+    background: linear-gradient(90deg, #1fa8cd 0%, #0069a2);
+  }
+  .VPNavAppearance .text[data-v-e0b66432] {
+    color: #051be9;
+  }
+}
