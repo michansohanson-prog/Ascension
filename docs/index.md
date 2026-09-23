@@ -19,7 +19,9 @@ hero:
 </div>
 
 <div class="feature-row">
-  <img src="./images/Barvin.webp" alt="Barvin" class="feature-image" />
-  <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
-  <img src="./images/Placeholder.webp" alt="Goblin" class="feature-image" />
+  <a href="./Characters/Barvin">
+    <img src="./images/Barvin.webp" alt="Barvin" class="feature-image" />
+  </a>
+    <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
+    <img src="./images/Placeholder.webp" alt="Goblin" class="feature-image" />
 </div>

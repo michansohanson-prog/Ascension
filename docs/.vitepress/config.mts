@@ -17,7 +17,18 @@ export default defineConfig({
       {
         text: "Where the fuck are you going?",
         items: [
-          { text: "Characters", link: "/CharacterPage.md" },
+          {
+            text: "Characters",
+            link: "/CharacterPage.md",
+            collapsed: false,
+            items: [
+              { text: "Barvin", link: "/Characters/Barvin.md" },
+              { text: "Blaise" },
+              { text: "Cassius" },
+              { text: "Noa" },
+              { text: "Sicarious" },
+            ],
+          },
           {
             text: "Wiki",
             link: "/wiki",
