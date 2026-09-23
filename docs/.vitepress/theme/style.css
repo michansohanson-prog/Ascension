@@ -184,7 +184,7 @@ li {
 /* These rules live OUTSIDE the root variables */
 /* HomeHero Text Style */
 .VPHomeHero .name {
-  font-size: 2.5rem;
+  font-size: 6rem;
   font-family: fantasy;
   font-style: oblique;
   padding-right: 2rem;
@@ -193,6 +193,11 @@ li {
   background-clip: text;
   color: transparent;
   display: inline-block;
+}
+@media (max-width: 768px) {
+  .VPHomeHero .name {
+    font-size: 2.5rem;
+  }
 }
 /* HomeHero sub-header Text Style */
 .VPHomeHero .text {
