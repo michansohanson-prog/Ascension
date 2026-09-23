@@ -24,7 +24,7 @@ On this continent, gods have always existed with the people as visible elemental
 
 ### God-Touched Magic
 
-People are frequently 'god-touched' by the magic around them, often possessing an extra element of power. For example, a person might have flame abilities instead of standard racial traits (like Mikey, who is a flame-touched Aaracokra).
+People are frequently 'god-touched' by the magic around them, often possessing an extra element of power. For example, a person might have flame abilities instead of standard racial traits (like Mikey, who is a flame-touched Aarakocra).
 
 ---
 
