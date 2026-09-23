@@ -399,14 +399,19 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
   color: #051be9;
 }
 
+/* --- Mobile-only pullout nav screen (Robust Selectors) --- */
 @media (max-width: 768px) {
-  .VPNavScreen[data-v-b2c6164f] {
-    background: linear-gradient(90deg, #002e31 30%, #0071a2);
+  /* Using [class*="..."] targets the component regardless of the data-v ID */
+  div[class*="VPNavScreen"] {
+    background: linear-gradient(90deg, #002e31 30%, #0071a2) !important;
   }
-  .appearance[data-v-b2c6164f] {
-    background: linear-gradient(90deg, #1fa8cd 0%, #0069a2);
+
+  div[class*="appearance"] {
+    background: linear-gradient(90deg, #1fa8cd 0%, #0069a2) !important;
   }
-  .VPNavAppearance .text[data-v-e0b66432] {
-    color: #051be9;
+
+  /* Targets the text inside the appearance block specifically */
+  div[class*="VPNavAppearance"] .text {
+    color: #051be9 !important;
   }
 }
