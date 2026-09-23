@@ -7,23 +7,23 @@ description: Meet the protagonists of our story.
 
 ## Blaise de La Mer
 
-_Aarakocra Bard_
+_Aarakocra Bard (The Skyward Swashbuckler)_
 
 ::: info
-**Origin:** Urusha (The "Las Vegas" of the continent)
-Blaise hails from Urusha, a city devoted to the twin gods Hurun and Nurun. He grew up surrounded by parties, organized crime, and high-tech advancements.
+**Origin:** Zanzibahar (Port City of Goddess Bahare)
+Hailing from the sun-drenched docks of Zanzibahar, Blaise is a pirate who traded the high seas for the high notes. As an Aarakocra with keen hawk-like instincts, he navigates both the treacherous currents of trade routes and the complex social waters of maritime life—usually while looking for the next big score (or just a really good snack).
 :::
 
 ::: tip
-_Pro-tip:_ Don't ask him to hit the high notes unless you want your ears to ring for at least twenty minutes.
+_Pro-tip:_ If you see him squinting at the horizon like an apex predator, he's either spotting a merchant vessel to "liberate" or simply trying to remember where he left his favorite shiny trinket.
 :::
 
 ::: warning
-**Caution:** He might try to perch on your shoulder. This is not a request; it is a bird thing.
+**Caution:** His pirate instincts are sharp; if you have something shiny, it is technically considered public property by his standards.
 :::
 
 ::: danger
-**Danger:** His "bardic inspiration" is mostly just him screaming very loudly in your general direction.
+**Danger:** Don't mistake his friendly chirps for peace. A bird of prey with a lute is still a bird of prey—just one that provides high-quality background music while he sweeps the area.
 :::
 
 ::: details
