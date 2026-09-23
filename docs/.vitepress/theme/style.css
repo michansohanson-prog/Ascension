@@ -334,11 +334,11 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
   --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
 }
 /* Sidebar Text */
-.VPSidebarItem.level-0.has-active > .item > .text[data-v-3db96182] {
-  color: #727473 !important;
+.VPSidebarItem.level-0 > .item > .text[data-v-3db96182] {
+  color: #c5aca8 !important;
 }
 .VPSidebarItem.level-0 .text[data-v-3db96182] {
-  color: #adb6a6 !important;
+  color: #c1e6d0 !important;
 }
 /* "On this page links color" */
 
@@ -380,6 +380,21 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
   pointer-events: none !important;
 }
 
+/* Custom blocks in the .md pages */
 .vp-doc .custom-block.warning {
+  background: linear-gradient(90deg, #312600 30%, #a28a00);
+}
+.vp-doc .custom-block.danger {
   background: linear-gradient(90deg, #310000 30%, #a20000);
+}
+
+/* Mobile-only pullout nav screen (for dark mode etc) */
+.VPNavScreen[data-v-b2c6164f] {
+  background: linear-gradient(90deg, #002e31 30%, #0071a2);
+}
+.appearance[data-v-b2c6164f] {
+  background: linear-gradient(90deg, #1fa8cd 0%, #0069a2);
+}
+.VPNavAppearance .text[data-v-e0b66432] {
+  color: #051be9;
 }
