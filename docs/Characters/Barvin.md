@@ -39,10 +39,6 @@ I don't like bees.
 
 ![Conc Force](./BarvinConcussiveForce.webp)
 
-### Smack the Bee!
-
-[Quarterstaff](./BarvinQuarterstaff.webp)
-
 ### Thunderclap
 
 ![Thunderclap](./BarvinThunderclap.webp)
