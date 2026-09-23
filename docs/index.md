@@ -25,3 +25,7 @@ hero:
     <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
     <img src="./images/Placeholder.webp" alt="Goblin" class="feature-image" />
 </div>
+
+Placeholder Image
+
+<img src="./images/Mountain.webp" alt="Ascension" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
