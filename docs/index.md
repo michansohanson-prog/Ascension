@@ -28,4 +28,4 @@ hero:
 
 Placeholder Image
 
-<img src="./images/Mountain.webp" alt="Ascension" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<img src="./images/Ascension.webp" alt="Ascension" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
