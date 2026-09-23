@@ -10,8 +10,8 @@ description: Meet the protagonists of our story.
 _Aarakocra Bard_
 
 ::: info
-**Origin:** A very high-up tree. Probably.
-Blaise is an avian musician who specializes in making bird noises that people occasionally describe as "music."
+**Origin:** Urusha (The "Las Vegas" of the continent)
+Blaise hails from Urusha, a city devoted to the twin gods Hurun and Nurun. He grew up surrounded by parties, organized crime, and high-tech advancements.
 :::
 
 ::: tip
@@ -28,7 +28,7 @@ _Pro-tip:_ Don't ask him to hit the high notes unless you want your ears to ring
 
 ::: details
 **Background Lore:**
-How the hell should I know?
+[PLACEHOLDER: Blaise’s backstory is currently classified as 'Too Much Drama for the Wiki'.]
 :::
 
 ## Noa
@@ -36,8 +36,8 @@ How the hell should I know?
 _Wizard_
 
 ::: info
-**Origin:** A library that was possibly haunted by a very grumpy ghost.
-Noa spends her time yelling at reality until it does what she wants, usually in exchange for snacks or silence.
+**Origin:** [REDACTED]
+Noa is a wizard whose specific home city remains a mystery to all but her closest allies.
 :::
 
 ::: tip
@@ -54,7 +54,7 @@ _Pro-tip:_ If the air starts glowing blue, it’s probably a good time to take a
 
 ::: details
 **Background Lore:**
-I honestly have no idea.
+[PLACEHOLDER: Noa's history was probably deleted by a very grumpy wizard.]
 :::
 
 ## Sicarious
@@ -62,7 +62,7 @@ I honestly have no idea.
 _Rogue_
 
 ::: info
-**Origin:** A dark alleyway that was way too clean to be safe.
+**Origin:** [REDACTED]
 Sicarious is exceptionally good at being in places he isn't supposed to be, and making sure nobody notices him while he does it.
 :::
 
@@ -80,7 +80,7 @@ _Pro-tip:_ If you see him, he has already seen you. It’s not a competition; he
 
 ::: details
 **Background Lore:**
-Some secrets are better left unasked.
+[PLACEHOLDER: Sicarious would like to remind you that 'Secrets are for Sale'.]
 :::
 
 ## Cassius
@@ -88,8 +88,8 @@ Some secrets are better left unasked.
 _Cleric_
 
 ::: info
-**Origin:** A very intense prayer circle in a very drafty chapel.
-Cassius talks to the "Big Guy" and expects things to happen. He is mostly here to make sure everyone stays on the right side of the cosmic balance.
+**Origin:** Urusha (The "Las Vegas" of the continent)
+Cassius comes from Urusha, a land defined by its technological advancements and organized crime, all under the watchful eyes of Hurun and Nurun.
 :::
 
 ::: tip
@@ -106,7 +106,7 @@ _Pro-tip:_ Try not to make him angry; his deity has a very specific set of griev
 
 ::: details
 **Background Lore:**
-The divine mystery remains... mysterious.
+[PLACEHOLDER: Cassius's records are currently being audited by a very confused deity.]
 :::
 
 ## Barvin
@@ -114,8 +114,8 @@ The divine mystery remains... mysterious.
 _Thunder-infused Open-Hand Monk_
 
 ::: info
-**Origin:** A mountain peak where lightning strikes once a week just to be "edgy."
-Barvin hits things very hard and makes a lot of loud noises while doing it. It's simple, effective, and very noisy.
+**Origin:** Rockfall (Refugee from the Fall of Enziret)
+Barvin is a refugee who fled the mountain eruption, carrying with him a violent transformation caused by lightning and deep connections to the echoing tremors of the gods.
 :::
 
 ::: tip
@@ -132,7 +132,7 @@ _Pro-tip:_ If you hear thunder but the sky is clear, Barvin is probably nearby. 
 
 ::: details
 **Background Lore:**
-Why would I tell you? You'd just want to be hit by the thunder anyway.
+Born blind to poor farmers, Barvin was nearly destroyed by a cult ritual before being transformed by a lightning strike that left him with enhanced vibration sensing and an internal "God-Echo." After years of wandering as a monk exile and pit fighter, he now seeks silence in the refugee hub of Rockfall.
 :::
 
 ---
