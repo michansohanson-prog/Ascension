@@ -192,9 +192,9 @@ li {
 }
 
 /* These rules live OUTSIDE the root variables */
-
+/* HomeHero Text Style */
 .VPHomeHero .name {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-family: fantasy;
   font-style: oblique;
   padding-right: 0rem;
@@ -204,7 +204,7 @@ li {
   color: transparent;
   display: inline-block;
 }
-
+/* HomeHero sub-header Text Style */
 .VPHomeHero .text {
   font-size: 1.5rem;
   background: var(--vp-home-hero-text-gradient);
@@ -213,7 +213,7 @@ li {
   color: transparent;
   display: inline-block;
 }
-
+/* HomeHero tagline */
 .VPHomeHero .tagline {
   font-size: 2rem;
   background: var(--vp-home-hero-tagline-gradient);
@@ -240,7 +240,7 @@ li {
  * -------------------------------------------------------------------------- */
 
 /**
- * Component: Hero Action Row
+ * Component: Hero Action Row (the button)
  * -------------------------------------------------------------------------- */
 
 .action-row {
@@ -267,8 +267,9 @@ li {
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+/* button size */
 .feature-image {
-  height: 300px;
+  height: 16rem;
   width: auto;
   border-radius: 8px;
   margin: 1rem 0;
@@ -287,12 +288,12 @@ li {
   transform: scale(1.03);
 }
 
-/* The Row Container */
+/* The Row Container - character images at botom on landing page */
 .feature-row {
   display: flex; /* Makes them sit side-by-side */
   justify-content: center; /* Centers the row horizontally */
   align-items: center; /* Aligns them vertically in the middle */
-  gap: 12rem; /* Adds consistent spacing between images */
+  gap: 2rem; /* Adds consistent spacing between images */
   flex-wrap: wrap; /* IMPORTANT: Stacks them on mobile screens */
   margin: 2rem 0; /* Adds some space above and below the row */
 }
@@ -300,7 +301,7 @@ li {
 /* Adjusting the image class to work inside a flex row */
 .feature-row .feature-image {
   margin: 0; /* Removes the top/bottom margin we had before */
-  height: 300px; /* You can adjust this size as needed */
+  height: 8rem; /* You can adjust this size as needed */
   width: auto;
 }
 
