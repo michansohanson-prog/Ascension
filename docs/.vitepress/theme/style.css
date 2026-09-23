@@ -333,14 +333,16 @@ Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
   --vp-sidebar-bg-color: #1c4335;
   --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
 }
-/* Sidebar Text */
-.VPSidebarItem.level-0 > .item > .text[data-v-3db96182] {
+/* Sidebar colors */
+/* Target direct child text in Level-0 items */
+.VPSidebarItem.level-0 > .item > .text {
   color: #c5aca8 !important;
 }
-.VPSidebarItem.level-0 .text[data-v-3db96182] {
+
+/* Target nested text in Level-0 items */
+.VPSidebarItem.level-0 .text {
   color: #c1e6d0 !important;
 }
-/* "On this page links color" */
 
 .VPDocOutlineItem a {
   color: inherit !important;
