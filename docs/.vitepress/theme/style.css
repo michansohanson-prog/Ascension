@@ -194,10 +194,10 @@ li {
 /* These rules live OUTSIDE the root variables */
 
 .VPHomeHero .name {
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-family: fantasy;
   font-style: oblique;
-  padding-right: 2rem;
+  padding-right: 0rem;
   background: var(--vp-home-hero-name-background);
   -webkit-background-clip: text;
   background-clip: text;
@@ -315,4 +315,26 @@ Shapes: circle, ellipse (default)
 Positions: center, top, bottom, left, right, top left, top right, bottom left, bottom right, or at X% Y%
 Syntax: radial-gradient(shape [at position], color1 stop%, color2 stop%)
 */
+}
+/* --- Custom Navigation Color --- */
+
+:root {
+  /* Replace this hex code with your preferred "unique" color */
+  --vp-nav-text-color: #051d0b;
+}
+
+/* This targets both the Title (Ascension) and all Navbar Links (Home, Characters, Wiki) */
+.VPNav a {
+  color: var(--vp-nav-text-color) !important;
+  transition: color 0.2s ease;
+}
+
+/* Optional: Hover effect for interactivity */
+.VPNav a:hover {
+  opacity: 0.8;
+}
+
+/* Ensure the active page (Home, in your case) still looks distinct if you want it to */
+.VPNav .VPNavMenuLink.active span {
+  font-weight: bold;
 }
