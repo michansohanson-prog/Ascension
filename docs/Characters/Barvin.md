@@ -38,37 +38,52 @@
 
 ---
 
+## ✨ Personality & Traits
+
+Barvin is a gentle and strangely hopeful soul, often characterized by a "dopey charm." This demeanor is not true innocence but rather a protective armor designed to mask the hollow space he carries within. He is naive, quick to trust, and slow to understand complex social nuances—though it is remarkably hard to deceive him.
+
+He lives in a constant state of apology, often trying to help even when he doesn't fully grasp what is happening around him. A side effect of his unique nature is a history of mild narcolepsy; he frequently falls asleep without warning and occasionally sleepwalks. However, beneath this gentle exterior, a latent power stirs: whenever danger rises, the internal "thunder" within him begins to wake.
+
 ## 📜 Lore & History
 
 ### I. Origins: The Isolated Years
 
-Barvin was born to dirt-poor farmers, Merrik and Velda Vox, in a dilapidated shack deep in the countryside. Born blind, he was treated as a burden by his parents; they beat him for his lack of attention and constant daydreaming, and starved him for being slow to work, eventually locking him in a cellar.
+Barvin was born to Merrik and Velda Vox on a small farm deep in the isolated countryside outside of Mayua. His family were dirt-poor farmers who lived in self-imposed isolation, driven by a radical "sovereign citizen" desire for total independence from outside influence. They lived in a dilapidated shack that was little more than a sun-bleached shell on the verge of collapse.
 
-He learned to "see" through vibrations—the buzz of insects, the creak of floorboards, and the tremor of heartbeats. He grew up believing everyone perceived the world this way. His only friend was **Talann**, a girl next door who taught him to walk quietly, distinguish lies via voice vibrations, and what music was. She vanished when Barvin was nine.
+Barvin was born blind and constantly struggled with daydreaming. Because he could not see, he often didn't know if he was asleep or awake; he would frequently wake up to find himself miles away from safety. This lack of awareness terrified his parents, who viewed him as a burden—and ultimately as "unworthy" and "tainted." They beat him for failing to pay attention and starved him because they viewed him as an unproductive consumer who wasted the precious food they struggled to produce. He didn't complain or fight back, which only unsettled them further; they eventually began locking him in a cellar to keep his wandering out of sight.
+
+He learned to perceive the world through sounds and vibrations—the buzz of insects, the creak of floorboards, and even the tremor of another's heartbeat. He grew up believing everyone perceived reality this way, while also believing that hunger, pain, and desertion were perfectly normal conditions of life.
+
+His only friend was **Talann**, a girl from next door who taught him to walk quietly, discern truth from lies by voice vibrations, and what music felt like. They spent afternoons making up songs—she with her half-rotted lute and he thumping rhythms on rocks with his walking stick. When she vanished at age nine, his parents claimed she had run off. Barvin believed them, though no neighbors would speak of it, and his memory of her has since faded.
 
 ### II. The Trauma & Transformation
 
-At age 11, during a massive storm, Barvin's parents—members of a secret cult who knew the story of Taranis Guthrie's ascendence—attempted to call upon the twin Gods Hurun and Nurun. The ritual involved carving symbols into his skin to "fix" him. Instead, something from the thunderhead responded. Lightning shattered the barn; Barvin took a bloody knife, cut himself free, and fled into the woods.
+At age eleven, during a massive storm, his parents—members of a secret cult who knew of the twin Gods Hurun and Nurun—dragged him into their barn. They were obsessed with how these twin gods had once healed Taranis Guthrie, who had been paralyzed in a wheelchair; they believed that the twins might "fix" Barvin as well.
 
-A massive bolt of lightning struck him in the forest, fundamentally changing him:
+They tied him down onto a hay bale and began carving symbols of their god into his skin with a knife. Something answered from the thunderhead—not the deity they sought, but something flickering like a dying lantern. As it approached, lightning shattered the barn. In the confusion, Barvin seized the bloody knife, cut himself free, and fled into the woods.
 
-- **Enhanced Hearing:** He can now read vibrations with incredible detail through earth and air.
-- **The God-Echo:** He carries an echo of terror and a constant rumble inside his chest.
+Sensing this presence for the first time, real terror struck him. He ran until he reached a large field where a massive bolt of lightning struck him point-blank. He did not die or burn; instead, the air around him exploded outward, flattening nearby crops. When he eventually woke miles away in the city proper, his perception had fundamentally shifted. He could now "read" vibrations with terrifying detail—feeling the pulse of the earth and the secrets of the air. It overwhelmed and amazed him to truly "see" for the first time, yet it left him with a permanent echo of terror rumbling inside his chest.
 
 ### III. The Order of the Resonant Path
 
-He was taken in by monks who sensed a "wound" rather than a blessing. He struggled with their meditations, eventually causing a thunderclap during a session that shattered temple buildings and killed a student. Fearing him, the monks expelled him.
+Barvin was taken in by the Order of the Resonant Path near Enziret. They sensed something fractured inside of him—not a blessing or a curse, but a wound. Despite this, he was allowed to train with the monks.
+
+While he was adept at fighting due to his lack of fear, he struggled deeply with their discipline; he would fall asleep during meditations and forget complex forms. He was often picked on by other students because he apologized so readily and trusted people too easily—a trait that frequently led others to take advantage of him.
+
+However, his deepened perception gave him distinct advantages: he could hear footsteps through stone and "see" intent through the tension in a person's posture. Occasionally, when striking with true focus, the air around him would crack like a thunderclap. The monks were both curious and fearful, whispering that he felt "hollow," as if something else were listening through him.
+
+One night, during a meditation exercise, Barvin collapsed into a deep sleep while standing upright. As internal pressure built like water against a dam, it reached critical mass. A thunderclap—like a mountain cracking in half—ripped through the air, shattering stone buildings and toppling statues. The shockwave killed one student instantly and left many others broken with shattered bones. Terrified of his power, the monks expelled him, telling him that "whatever echoes inside of you is waking up."
 
 ### IV. The Wandering Years & Current Status
 
-Seeking to quiet the noise, Barvin traveled across the continent:
+Barvin spent years running from city to city:
 
-- **Zanzibahar:** Worked the docks; heard sailors whisper that storms change direction when he sleeps.
-- **Urusha:** Fought in underground pits for spectacle.
-- **Nyalima:** Refused entry due to his "backward" internal rhythm.
-- **Mayua:** Followed by curious fey creatures.
+- **Zanzibahar:** He worked the docks, listening to the ocean through the sand while sailors whispered that storms changed direction when he slept.
+- **Urusha:** He fought in underground pits for spectacle, marveling at the fear his thunderous fists inspired.
+- **Nyalima:** The priests of Nyota refused him entry, claiming his internal rhythm was "backward," like a drumbeat played backward—an echo with no source.
+- **Mayua:** He returned to the farmlands of his birth (never approaching his home), where he found himself followed by curious or afraid fey creatures moving through the soil.
 
-**Current Status:** Following the fall of God King Enzi, Barvin heard a unique scream and felt his internal "hollow space" tear open. He awoke as a refugee in **Rockfall**, realizing that whatever is inside him reacts to the deaths of the gods.
+**Current Status:** While heading toward Enziret, hoping for some peace, Barvin felt the earth shake as a mountain erupted. As it happened, he heard a scream unlike anything in his lifetime—the fall of God King Enzi. In that moment, the hollow space inside him tore open wide. He woke as a refugee in **Rockfall**, surrounded by refugees whispering about Enzi's death and something crawling through the smoke. Barvin now knows with certainty: whatever echoes within him is connected to the gods themselves—to their lives, or to whatever kills them.
 
 ---
 
