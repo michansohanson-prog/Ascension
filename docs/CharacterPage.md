@@ -5,7 +5,7 @@ description: Meet the protagonists of our story.
 
 # Characters
 
-## Blaise de La Mer
+## [Blaise de La Mer](./Characters/Blaise)
 
 _Aarakocra Bard (The Skyward Swashbuckler)_
 
@@ -31,7 +31,7 @@ _Pro-tip:_ If you see him squinting at the horizon like an apex predator, he's e
 [PLACEHOLDER: Blaise’s backstory is currently classified as 'Too Much Drama for the Wiki'.]
 :::
 
-## Noa
+## [Noa](./Characters/Noa)
 
 _Wizard_
 
@@ -57,7 +57,7 @@ _Pro-tip:_ If the air starts glowing blue, it’s probably a good time to take a
 [PLACEHOLDER: Noa's history was probably deleted by a very grumpy wizard.]
 :::
 
-## Sicarious
+## [Sicarious](./Characters/Sicarious)
 
 _Rogue_
 
@@ -83,7 +83,7 @@ _Pro-tip:_ If you see him, he has already seen you. It’s not a competition; he
 [PLACEHOLDER: Sicarious would like to remind you that 'Secrets are for Sale'.]
 :::
 
-## Cassius
+## [Cassius](./Characters/Cassius)
 
 _Cleric_
 
@@ -109,7 +109,7 @@ _Pro-tip:_ Try not to make him angry; his deity has a very specific set of griev
 [PLACEHOLDER: Cassius's records are currently being audited by a very confused deity.]
 :::
 
-## Barvin
+## [Barvin](./Characters/Barvin)
 
 _Thunder-infused Open-Hand Monk_
 
