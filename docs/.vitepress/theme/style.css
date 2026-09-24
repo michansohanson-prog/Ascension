@@ -24,7 +24,7 @@ header::before,
   .VPSidebar ul,
   .VPSidebar li {
     text-align: left !important;
-    padding-left: 3rem !important;
+    padding-left: 2rem !important;
   }
   /* Ensure navigation items themselves aren't centered by a flexbox */
   .VPSidebar .vp-nav-item,
@@ -32,11 +32,16 @@ header::before,
     display: block !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    padding-left: 0 !important;
+    padding-left: 1rem !important;
   }
   /* If there's a sub-menu container, make sure it also aligns left */
   .VPSidebar .sub-nav {
     padding-left: 1rem !important; /* Indent nested items slightly */
+  }
+}
+@media (min-width: 2500px) {
+  .VPSidebarItem.level-0 .text {
+    font-size: 2rem;
   }
 }
 
