@@ -24,7 +24,7 @@ header::before,
   .VPSidebar ul,
   .VPSidebar li {
     text-align: left !important;
-    padding-left: 2rem !important; /* Adjust this number to change the gap from the very edge */
+    padding-left: 3rem !important;
   }
   /* Ensure navigation items themselves aren't centered by a flexbox */
   .VPSidebar .vp-nav-item,
