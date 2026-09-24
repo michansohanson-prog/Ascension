@@ -114,8 +114,8 @@ _Pro-tip:_ Try not to make him angry; his deity has a very specific set of griev
 _Thunder-infused Open-Hand Monk_
 
 ::: info
-**Origin:** Rockfall (Refugee from the Fall of Enziret)
-Barvin is a refugee who fled the mountain eruption, carrying with him a violent transformation caused by lightning and deep connections to the echoing tremors of the gods.
+**Origin:** Unknown (On the countriside, far from civilization)
+Barvin came from an isolated farming community far away from Enzi's influence.
 :::
 
 ::: tip
