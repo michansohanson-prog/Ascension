@@ -41,7 +41,7 @@ header::before,
 }
 @media (min-width: 2500px) {
   .VPSidebarItem.level-0 .text {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 }
 

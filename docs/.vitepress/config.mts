@@ -18,15 +18,23 @@ export default defineConfig({
         text: "Where the fuck are you going?",
         items: [
           {
+            text: "Session Recaps",
+            collapsed: false,
+            items: [
+              { text: "Session 1", link: "/Sessions/Session1.md" },
+              { text: "Session 2", link: "/Sessions/Session2.md" },
+            ],
+          },
+          {
             text: "Characters",
             link: "/CharacterPage.md",
             collapsed: false,
             items: [
               { text: "Barvin", link: "/Characters/Barvin.md" },
-              { text: "Blaise" },
-              { text: "Cassius" },
-              { text: "Noa" },
-              { text: "Sicarious" },
+              { text: "Blaise", link: "/Characters/Blaise.md" },
+              { text: "Cassius", link: "/Characters/Cassius.md" },
+              { text: "Noa", link: "/Characters/Noa.md" },
+              { text: "Sicarious", link: "/Characters/Sicarious.md" },
             ],
           },
           {
@@ -34,10 +42,10 @@ export default defineConfig({
             link: "/wiki",
             collapsed: false,
             items: [
-              { text: "NPCs" },
-              { text: "Locations" },
-              { text: "Enemies" },
-              { text: "Items" },
+              { text: "NPCs", link: "/NPCs/NPCs.md" },
+              { text: "Locations", link: "/Locations/Locations.md" },
+              { text: "Enemies", link: "Enemies/Enemies.md" },
+              { text: "Items", link: "Items/Items.md" },
             ],
           },
         ],
