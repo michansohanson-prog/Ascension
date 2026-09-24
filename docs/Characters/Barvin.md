@@ -42,13 +42,13 @@
 
 ### I. Origins: The Isolated Years
 
-Barvin was born to dirt-poor farmers, Merrik and Velda Vox, in a dilapidated shack deep in the countryside. Born blind, he was treated as a burden by his parents; they beat him for lack of attention and starved him for being slow to work, eventually locking him in a cellar.
+Barvin was born to dirt-poor farmers, Merrik and Velda Vox, in a dilapidated shack deep in the countryside. Born blind, he was treated as a burden by his parents; they beat him for his lack of attention and constant daydreaming, and starved him for being slow to work, eventually locking him in a cellar.
 
 He learned to "see" through vibrations—the buzz of insects, the creak of floorboards, and the tremor of heartbeats. He grew up believing everyone perceived the world this way. His only friend was **Talann**, a girl next door who taught him to walk quietly, distinguish lies via voice vibrations, and what music was. She vanished when Barvin was nine.
 
 ### II. The Trauma & Transformation
 
-At age 11, during a massive storm, Barvin's parents—members of a secret cult for the Ascendant Taranis Gutherie—attempted to carve symbols into his skin to "fix" him. Instead, something from the thunderhead responded. Lightning shattered the barn; Barvin took a bloody knife, cut himself free, and fled into the woods.
+At age 11, during a massive storm, Barvin's parents—members of a secret cult who knew the story of Taranis Guthrie's ascendence—attempted to call upon the twin Gods Hurun and Nurun. The ritual involved carving symbols into his skin to "fix" him. Instead, something from the thunderhead responded. Lightning shattered the barn; Barvin took a bloody knife, cut himself free, and fled into the woods.
 
 A massive bolt of lightning struck him in the forest, fundamentally changing him:
 
