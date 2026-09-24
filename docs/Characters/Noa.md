@@ -1,6 +1,6 @@
 # Noa
 
-![Noa Image](./Noa.webp)
+insert image
 
 ---
 

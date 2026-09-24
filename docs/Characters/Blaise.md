@@ -1,6 +1,6 @@
 # Blaise de La Mer
 
-![Blaise Image](./Blaise.webp)
+insert image
 
 ---
 

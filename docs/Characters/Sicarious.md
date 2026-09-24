@@ -1,6 +1,6 @@
 # Sicarious
 
-![Sicarious Image](./Sicarious.webp)
+insert image
 
 ---
 
