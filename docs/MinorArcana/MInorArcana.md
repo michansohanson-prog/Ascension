@@ -7,7 +7,7 @@ description: A directory of minor arcana within the world.
 
 This page documents the Minor Arcana we discover on our journey.
 
-## [Unknown]
+## Unknown
 
 - **Status:** [Unknown]
 - **Origin:** [Unknown]
