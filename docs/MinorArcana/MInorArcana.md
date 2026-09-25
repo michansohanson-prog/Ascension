@@ -13,5 +13,3 @@ This page documents the Minor Arcana we discover on our journey.
 - **Origin:** [Unknown]
 - **Description:** [Unknown]
 - **Notes:** [Unknown]
-
----
