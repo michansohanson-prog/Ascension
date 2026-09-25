@@ -51,6 +51,17 @@ _Twin Gods of Progress_
 
 ---
 
+## Minor Arcana
+
+### The Lesser Deities & Spirits
+
+- **Status:** [Unknown]
+- **Origin:** [Unknown]
+- **Description:** A collective of lesser deities and spirits who oversee the mundane but essential facets of existence—from the seasoning of a meal to the weaving of cloth. While they lack the overwhelming elemental presences of the Dragon-Gods, their influence is felt in every household and workshop across the continent.
+- **Notes:** [PLACEHOLDER: Specific information on individual minor gods will be added here as it becomes available.]
+
+---
+
 ## Rockfall Residents (Friendly)
 
 ### The Refugees
