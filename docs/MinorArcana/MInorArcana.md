@@ -1,5 +1,5 @@
 ---
-title: NPCs
+title: Minor Arcana
 description: A directory of minor arcana within the world.
 ---
 
