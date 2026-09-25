@@ -240,19 +240,19 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
 
 /* Custom blocks in the .md pages */
 .vp-doc .custom-block.info {
-  background: linear-gradient(90deg, #b0b09d 30%, #c6be90);
+  background: linear-gradient(90deg, #c2c2bb 30%, #939384);
 }
 .vp-doc .custom-block.tip {
-  background: linear-gradient(90deg, #99b17f 30%, #89ba34);
+  background: linear-gradient(90deg, #a8bc87 30%, #89ba34);
 }
 .vp-doc .custom-block.warning {
-  background: linear-gradient(90deg, #a99757 30%, #a28a00);
+  background: linear-gradient(90deg, #b3ab8f 30%, #a28a00);
 }
 .vp-doc .custom-block.danger {
   background: linear-gradient(90deg, #bf8484 30%, #9c1010);
 }
 .vp-doc .custom-block.details {
-  background: linear-gradient(90deg, #90729b 30%, #541c94);
+  background: linear-gradient(90deg, #928199 30%, #541c94);
 }
 
 /* --- Mobile-only pullout nav screen (Robust Selectors) --- */

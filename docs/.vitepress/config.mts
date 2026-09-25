@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Characters", link: "/CharacterPage.md" },
-      { text: "Wiki", link: "/wiki.md" },
+      { text: "Lore", link: "/Lore.md" },
     ],
 
     sidebar: [
@@ -38,10 +38,12 @@ export default defineConfig({
             ],
           },
           {
-            text: "Wiki",
-            link: "/wiki",
+            text: "Lore",
+            link: "/Lore",
             collapsed: false,
             items: [
+              { text: "Gods", link: "/Gods/Gods" },
+              { text: "Minor Arcana", link: "/MinorArcana/MinorArcana" },
               { text: "NPCs", link: "/NPCs/NPCs" },
               { text: "Locations", link: "/Locations/Locations" },
               { text: "Enemies", link: "Enemies/Enemies" },
