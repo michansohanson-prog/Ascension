@@ -43,7 +43,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "Gods", link: "/Gods/Gods" },
-              { text: "Minor Arcana", link: "/Minorarcana/Minorarcana" },
+              { text: "Minor Arcana", link: "/Minorarcana/Minor" },
               { text: "NPCs", link: "/NPCs/NPCs" },
               { text: "Locations", link: "/Locations/Locations" },
               { text: "Enemies", link: "Enemies/Enemies" },
