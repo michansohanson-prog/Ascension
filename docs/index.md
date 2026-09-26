@@ -14,7 +14,7 @@ hero:
 <!-- Hero Actions Row -->
 <div class="action-row">
   <a href="/Ascension/Lore/" class="action-button">
-    <img src="./images/D20.webp" alt="Ascend" class="feature-image" />
+    <img src="./images/D20v2.webp" alt="Ascend" class="feature-image" />
   </a>
 </div>
 
