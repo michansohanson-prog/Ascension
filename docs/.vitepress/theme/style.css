@@ -291,3 +291,186 @@ a.VPLink.link.pager-link.prev span.desc {
 a.VPLink.link.pager-link.prev span.title {
   color: #060c6a;
 }
+/* ============================================
+   TABLE STYLING FOR CHARACTER STATISTICS
+   ============================================ */
+
+/* Base table styles - targets all tables in the doc layout */
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* Header row styling */
+.vp-doc table th {
+  background: linear-gradient(90deg, #c2c2bb 30%, #939384);
+  color: #041403;
+  font-weight: bold;
+  padding: 0.75rem;
+  text-align: left;
+  border: 1px solid #8b7355;
+  font-size: 0.95rem;
+}
+
+/* Alternating row colors (zebra stripes) */
+.vp-doc table tr:nth-child(even) {
+  background-color: rgba(139, 115, 85, 0.08);
+}
+
+/* All cells */
+.vp-doc table td {
+  padding: 0.75rem;
+  border: 1px solid #8b7355;
+  color: #0d2c18;
+  vertical-align: middle;
+}
+
+/* First column (stat names) - make bold */
+.vp-doc table th:first-child,
+.vp-doc table td:first-child {
+  font-weight: 600;
+  width: 12%;
+  color: #041403;
+}
+
+/* Center-align numeric columns */
+.vp-doc table th:nth-child(2),
+.vp-doc table td:nth-child(2),
+.vp-doc table th:nth-child(3),
+.vp-doc table td:nth-child(3) {
+  text-align: center;
+  width: 15%;
+}
+
+/* Right-align calculation/source columns */
+.vp-doc table th:last-child,
+.vp-doc table td:last-child {
+  text-align: left;
+  font-style: italic;
+  color: #5d4242;
+  font-size: 0.9rem;
+  width: 21%;
+}
+
+/* Hover effect on rows */
+.vp-doc table tr:hover {
+  background-color: rgba(32, 44, 135, 0.12);
+}
+
+/* Style for "Pending" and "TBD" cells */
+.vp-doc table td[contenteditable="true"],
+.vp-doc table td[data-pending="true"] {
+  background-color: rgba(255, 215, 0, 0.1);
+  font-style: italic;
+  color: #8b6914;
+  border-left: 3px solid rgba(255, 215, 0, 0.5);
+}
+
+/* Progression table specific styles */
+.vp-doc table.progression-table {
+  border: 2px solid #48e28b;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.vp-doc table.progression-table th {
+  background: linear-gradient(90deg, #202c87 30%, #48e28b);
+  color: white;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+.vp-doc table.progression-table td {
+  border-bottom: 1px solid rgba(139, 115, 85, 0.3);
+}
+
+.vp-doc table.progression-table td:first-child {
+  font-weight: 600;
+  color: #041403;
+}
+
+.vp-doc table.progression-table td:nth-child(2),
+.vp-doc table.progression-table td:nth-child(3),
+.vp-doc table.progression-table td:nth-child(4) {
+  text-align: center;
+  color: #5d4242;
+}
+
+.vp-doc table.progression-table td:nth-child(5) {
+  text-align: center;
+  font-weight: 500;
+}
+
+.vp-doc table.progression-table td:nth-child(6) {
+  text-align: left;
+  font-style: italic;
+  color: #2c8f66;
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .vp-doc table {
+    font-size: 0.85rem;
+    border-width: 1px;
+  }
+
+  .vp-doc table th,
+  .vp-doc table td {
+    padding: 0.5rem;
+  }
+
+  .vp-doc table th {
+    font-size: 0.85rem;
+  }
+
+  .vp-doc table td:first-child {
+    width: 10%;
+  }
+
+  .vp-doc table td:nth-child(2),
+  .vp-doc table td:nth-child(3) {
+    width: 13%;
+  }
+
+  .vp-doc table td:last-child {
+    width: 25%;
+  }
+}
+
+/* ============================================
+   TEST CLASS - Add this to your markdown table
+   ============================================ */
+
+/* Add this class to your table like: <table class="char-stats-table"> */
+.char-stats-table {
+  border: 2px solid #48e28b;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.char-stats-table th {
+  background: linear-gradient(90deg, #202c87 30%, #48e28b);
+  color: white;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 2px solid #48e28b;
+}
+
+.char-stats-table td {
+  vertical-align: middle;
+}
+
+.char-stats-table td[contenteditable="true"],
+.char-stats-table td[data-pending="true"] {
+  background-color: rgba(255, 215, 0, 0.12);
+  color: #8b6914;
+  font-style: italic;
+  border-left: 3px solid rgba(255, 215, 0, 0.5);
+}

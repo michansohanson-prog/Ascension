@@ -7,7 +7,7 @@ description: The Beginning of the Journey
 
 ## 📋 Overview
 
-- **Date:** [Insert Date]
+- **Date:** October 9, 2026 [pending]
 - **Location:** Rockfall / Enziret Border
 - **Primary Objective:** [Unknown at this time]
 - **Party Status:** [Active / Healthy]
