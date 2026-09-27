@@ -304,15 +304,21 @@ a.VPLink.link.pager-link.prev span.title {
   background: rgba(255, 255, 255, 0.03);
 }
 
-/* Header row styling */
+/* Header row styling - parchment/leather inspired gradient */
 .vp-doc table th {
-  background: linear-gradient(90deg, #c2c2bb 30%, #939384);
-  color: #041403;
+  background: linear-gradient(
+    90deg,
+    #8b7355 0%,
+    #a68b60 50%,
+    #6b5745 100%
+  ) !important;
+  color: #1a1a1a !important;
   font-weight: bold;
   padding: 0.75rem;
   text-align: left;
   border: 1px solid #8b7355;
   font-size: 0.95rem;
+  border-bottom: 2px solid #8b7355;
 }
 
 /* Alternating row colors (zebra stripes) */
@@ -333,7 +339,12 @@ a.VPLink.link.pager-link.prev span.title {
 .vp-doc table td:first-child {
   font-weight: 600;
   width: 12%;
-  color: #041403;
+  color: #2a3d2e;
+  background: linear-gradient(
+    180deg,
+    rgba(139, 115, 85, 0.15),
+    rgba(107, 87, 69, 0.08)
+  );
 }
 
 /* Center-align numeric columns */
@@ -343,6 +354,11 @@ a.VPLink.link.pager-link.prev span.title {
 .vp-doc table td:nth-child(3) {
   text-align: center;
   width: 15%;
+  background: linear-gradient(
+    180deg,
+    rgba(139, 115, 85, 0.1),
+    rgba(107, 87, 69, 0.05)
+  );
 }
 
 /* Right-align calculation/source columns */
@@ -353,36 +369,55 @@ a.VPLink.link.pager-link.prev span.title {
   color: #5d4242;
   font-size: 0.9rem;
   width: 21%;
+  background: linear-gradient(
+    180deg,
+    rgba(139, 115, 85, 0.05),
+    rgba(107, 87, 69, 0.02)
+  );
 }
 
-/* Hover effect on rows */
+/* Hover effect on rows - parchment glow */
 .vp-doc table tr:hover {
-  background-color: rgba(32, 44, 135, 0.12);
+  background-color: rgba(139, 115, 85, 0.15) !important;
+  box-shadow: inset 0 0 10px rgba(139, 115, 85, 0.2);
 }
 
-/* Style for "Pending" and "TBD" cells */
+/* Style for "Pending" and "TBD" cells - amber parchment glow */
 .vp-doc table td[contenteditable="true"],
 .vp-doc table td[data-pending="true"] {
-  background-color: rgba(255, 215, 0, 0.1);
+  background-color: rgba(255, 215, 0, 0.12) !important;
   font-style: italic;
-  color: #8b6914;
-  border-left: 3px solid rgba(255, 215, 0, 0.5);
+  color: #8b6914 !important;
+  border-left: 3px solid rgba(255, 215, 0, 0.5) !important;
+  padding-left: 0.8rem !important;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 215, 0, 0.15),
+    rgba(255, 165, 0, 0.08)
+  );
 }
 
-/* Progression table specific styles */
+/* Progression table specific styles - enhanced parchment theme */
 .vp-doc table.progression-table {
-  border: 2px solid #48e28b;
+  border: 2px solid #8b7355;
   border-radius: 8px;
   overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .vp-doc table.progression-table th {
-  background: linear-gradient(90deg, #202c87 30%, #48e28b);
-  color: white;
+  background: linear-gradient(
+    90deg,
+    #6b5745 0%,
+    #8b7355 50%,
+    #4a3d31 100%
+  ) !important;
+  color: #1a1a1a !important;
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-weight: 600;
+  border-bottom: 2px solid #8b7355;
 }
 
 .vp-doc table.progression-table td {
@@ -391,7 +426,7 @@ a.VPLink.link.pager-link.prev span.title {
 
 .vp-doc table.progression-table td:first-child {
   font-weight: 600;
-  color: #041403;
+  color: #1a1a1a !important;
 }
 
 .vp-doc table.progression-table td:nth-child(2),
@@ -412,11 +447,135 @@ a.VPLink.link.pager-link.prev span.title {
   color: #2c8f66;
 }
 
-/* Responsive design for mobile */
+/* ============================================
+   ENHANCED STYLING - Add to ALL tables
+   ============================================ */
+
+/* Add glowing border to all tables */
+.vp-doc table {
+  border: 2px solid #8b7355;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Enhanced header styling - parchment/leather gradient */
+.vp-doc table th {
+  background: linear-gradient(
+    90deg,
+    #8b7355 0%,
+    #a68b60 50%,
+    #6b5745 100%
+  ) !important;
+  color: #1a1a1a !important;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 2px solid #8b7355;
+  font-weight: 600;
+}
+
+/* Enhanced pending cell styling */
+.vp-doc table td[data-pending="true"] {
+  background-color: rgba(255, 215, 0, 0.15) !important;
+  color: #8b6914 !important;
+  font-style: italic;
+  border-left: 4px solid rgba(255, 215, 0, 0.6) !important;
+  padding-left: 0.8rem !important;
+}
+
+/* Enhanced hover effects */
+.vp-doc table tr:hover {
+  background-color: rgba(139, 115, 85, 0.18) !important;
+  box-shadow: inset 0 0 10px rgba(139, 115, 85, 0.2);
+}
+
+/* Progression table enhancements */
+.vp-doc table.progression-table {
+  border: 2px solid #8b7355 !important;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(139, 115, 85, 0.2);
+}
+
+.vp-doc table.progression-table th {
+  background: linear-gradient(
+    90deg,
+    #6b5745 0%,
+    #8b7355 50%,
+    #4a3d31 100%
+  ) !important;
+  color: #1a1a1a !important;
+  font-size: 1rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  font-weight: 600 !important;
+  border-bottom: 2px solid #8b7355 !important;
+}
+
+.vp-doc table.progression-table td {
+  border-bottom: 1px solid rgba(139, 115, 85, 0.3) !important;
+}
+
+.vp-doc table.progression-table td:first-child {
+  font-weight: 600;
+  color: #1a1a1a !important;
+}
+
+.vp-doc table.progression-table td:nth-child(2),
+.vp-doc table.progression-table td:nth-child(3),
+.vp-doc table.progression-table td:nth-child(4) {
+  text-align: center;
+  color: #5d4242 !important;
+}
+
+.vp-doc table.progression-table td:nth-child(5) {
+  text-align: center;
+  font-weight: 500 !important;
+}
+
+.vp-doc table.progression-table td:nth-child(6) {
+  text-align: left;
+  font-style: italic;
+  color: #2c8f66 !important;
+}
+
+/* Add glowing corner accents */
+.vp-doc table::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid rgba(139, 115, 85, 0.4);
+  border-radius: 0 12px 12px 0;
+  pointer-events: none;
+}
+
+/* Add decorative underline to headers */
+.vp-doc table th::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #8b7355, transparent);
+  margin: 0 auto 0.3rem auto;
+}
+
+/* ============================================
+   RESPONSIVE DESIGN FOR MOBILE
+   ============================================ */
+
 @media (max-width: 768px) {
   .vp-doc table {
     font-size: 0.85rem;
-    border-width: 1px;
+    border-width: 1.5px;
+    margin: 1rem 0;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Keep table together */
   }
 
   .vp-doc table th,
@@ -440,37 +599,4 @@ a.VPLink.link.pager-link.prev span.title {
   .vp-doc table td:last-child {
     width: 25%;
   }
-}
-
-/* ============================================
-   TEST CLASS - Add this to your markdown table
-   ============================================ */
-
-/* Add this class to your table like: <table class="char-stats-table"> */
-.char-stats-table {
-  border: 2px solid #48e28b;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-.char-stats-table th {
-  background: linear-gradient(90deg, #202c87 30%, #48e28b);
-  color: white;
-  font-size: 1.1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  border-bottom: 2px solid #48e28b;
-}
-
-.char-stats-table td {
-  vertical-align: middle;
-}
-
-.char-stats-table td[contenteditable="true"],
-.char-stats-table td[data-pending="true"] {
-  background-color: rgba(255, 215, 0, 0.12);
-  color: #8b6914;
-  font-style: italic;
-  border-left: 3px solid rgba(255, 215, 0, 0.5);
 }
