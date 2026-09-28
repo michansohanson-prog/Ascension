@@ -13,9 +13,15 @@ hero:
 
 <!-- Hero Actions Row -->
 <div class="action-row">
+  <a href="./Characters/Noa">
+    <img src="./images/Placeholder.webp" alt="Noa" class="feature-image" />
+    </a>
   <a href="/Ascension/Lore/" class="action-button">
     <img src="./images/D20Qwen.webp" alt="Ascend" class="feature-image" />
   </a>
+    <a href="./Characters/Cassius">
+    <img src="./images/Placeholder.webp" alt="Cassius" class="feature-image" />
+    </a>
 </div>
 
 <div class="feature-row">
@@ -25,9 +31,12 @@ hero:
   <a href="./Characters/Blaise">
     <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
     </a>
-    <img src="./images/Placeholder.webp" alt="Goblin" class="feature-image" />
+    <a href="./Characters/Sicarious">
+    <img src="./images/Sicarious.webp" alt="Goblin" class="feature-image" />
+    </a>
 </div>
-
-Placeholder Image
+<br>
+<br>
+<br>
 
 <img src="./images/Ascension.webp" alt="Ascension" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />

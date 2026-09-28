@@ -152,13 +152,18 @@ h3 {
 .action-row {
   display: flex;
   justify-content: center; /* Centers them under the hero text */
-  gap: 4rem; /* Adjust this to your preferred spacing */
+  align-items: center;
+  gap: 0.6rem; /* Adjust this to your preferred spacing */
   flex-wrap: wrap; /* Makes them stack on mobile */
   margin: 0rem 0;
-  height: 9rem;
+  height: 8rem;
 }
 .action-row .feature-image {
-  height: 10rem;
+  height: 7rem;
+  width: auto;
+  margin: 2rem 0;
+  cursor: pointer;
+  display: block;
 }
 /* Homepage 2nd row images */
 .feature-row {
@@ -169,7 +174,7 @@ h3 {
   margin: 2rem 0; /* Adds some space above and below the row */
   width: auto;
   height: 4rem;
-  gap: 1rem;
+  gap: 0.2rem;
 }
 /* Feature Row */
 .feature-image {
