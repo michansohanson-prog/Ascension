@@ -43,7 +43,7 @@
   - Rope: 50 ft.
 - Darts x 10 (Class)
 - Hunting Trap (Background)
-- Trophy (Background)
+- Trophy: a tarnished lute string from home (Background)
 - Traveler's Clothes (Background)
 - 20 GP (+10 Background +10 Explorer's Pack)
 
