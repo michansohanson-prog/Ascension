@@ -4,24 +4,97 @@
 
 ## 📊 Core Statistics (Level 1)
 
-### Attributes & Modifiers
+## Attributes, Modifiers, and Saving Throws
 
-| Stat    | Value | Modifier | Calculation / Source      |
-| :------ | :---- | :------- | :------------------------ |
-| **STR** | 10    | +0       | Base 10 + 0 Racial        |
-| **DEX** | 16    | +3       | Base 15 + 1 Variant Human |
-| **CON** | 14    | +2       | Base 14 + 0 Racial        |
-| **INT** | 8     | -1       | Base 8 + 0 Racial         |
-| **WIS** | 16    | +3       | Base 15 + 1 Variant Human |
-| **CHA** | 8     | -1       | Base 8 + 0 Racial         |
+| Stat    | Value        | Modifier | Saving Throw        |
+| :------ | :----------- | :------- | :------------------ |
+| **STR** | 10           | +0       | +2 (+2 PROF)        |
+| **DEX** | 16 (+1 Race) | +3       | +5 (+3 DEX +2 PROF) |
+| **CON** | 14           | +2       | +2                  |
+| **INT** | 8            | -1       | -1                  |
+| **WIS** | 16 (+1 Race) | +3       | +3                  |
+| **CHA** | 8            | -1       | -1                  |
+
+## Skills
+
+| Skill                     | Bonus                             |
+| :------------------------ | :-------------------------------- |
+| **Acrobatics** (DEX)      | +5 (+3 DEX +2 PROF [Class])       |
+| **Animal Handling** (WIS) | +3                                |
+| **Arcana** (Int)          | -1                                |
+| **Athletics** (Str)       | +2 (+0 Str + 2 PROF [Background]) |
+| **Deception** (Cha)       | -1                                |
+| **History** (Int)         | -1                                |
+| **Insight** (WIS)         | +5 (+3 WIS + 2 PROF [Class])      |
+| **Intimidation** (Cha)    | -1                                |
+| **Investigation** (Int)   | -1                                |
+| **Medicine** (WIS)        | +3                                |
+| **Nature** (Int)          | -1                                |
+| **Perception** (WIS)      | +3                                |
+| **Performance** (Cha)     | -1                                |
+| **Persuasion** (Cha)      | -1                                |
+| **Religion** (Int)        | -1                                |
+| **Sleight of Hand** (DEX) | +3                                |
+| **Stealth** (DEX)         | +5 (+3 DEX + 2 PROF [Race Bonus]) |
+| **Survival** (WIS)        | +5 (+3 WIS +2 PROF [Background])  |
+
+> **Passives:** Passive Perception: 13 (10 Base +3 WIS Mod) | Passive Insight: 15 (10 Base +3 WIS Mod +2 PROF)
+
+## Combat Statistics
+
+| Combat Statistics |                                               |
+| :---------------- | :-------------------------------------------- |
+| Hit Points        | 10 (1d8 base +2 CON)                          |
+| Armor Class       | 16 (Unarmored Devense: 10 Base +3 DEX +3 WIS) |
+| Initiative        | +8 (+3 DEX +5 ALERT)                          |
+| Speeed            | 30 ft. (+0 Unarmored Movement)                |
+| Martial Arts      | 1d4 DMG                                       |
+| Ki Points         | 0                                             |
+| Technique Points  | 0                                             |
+| Proficiency Bonus | +2                                            |
+| Attack Bonus      | +5 (+3 DEX +2 PROF)                           |
+| Ki Save DC        | 13 (8 +WIS +2 PROF)                           |
+| Tech Save DC      | 13 (8 +3 DEX +2 PROF)                         |
+| Spell Save DC     | 13 (8 +3 DEX +2 PROF)                         |
+
+## Class Features & Proficiencies
+
+| Feature                 |                                                                  |
+| :---------------------- | :--------------------------------------------------------------- |
+| Hit Dice                | 1d8 + CON                                                        |
+| Armor Proficiency       | None                                                             |
+| Weapon Proficiency      | Simple weapons, Shortswords                                      |
+| Tools (CLASS)           | Cartographer's tools                                             |
+| Instrument (BACKGROUND) | Drums/Percussion                                                 |
+| Saving Throws           | STR and DEX (CLASS)                                              |
+| Skills                  | Acrobatics, Insight (CLASS)                                      |
+| Alert (BACKGROUND)      | +5 bonus to Initiative                                           |
+|                         | Can't be surprised while you are conscious                       |
+|                         | Other creatures don't gain advantage on attack rolls against you |
+|                         | as a result of being unseen by you                               |
+| Unarmored Defense       | AC = 10 +DEX +WIS                                                |
+| Martial Arts            | Unarmed or Monk weapons use DEX for ATK and DMG                  |
+|                         | Use Martial Arts dice for DMG                                    |
+|                         | Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK  |
+| Ki                      | Replenish on Long Rest                                           |
+|                         | Must spend 30 min meditating                                     |
+| Flurry of Blows         | Cost: 1 Ki Point                                                 |
+|                         | Immediately after ATK, make two Unarmed Strikes as Bonus Action  |
+|                         | Open Hand unlocks additional effects at lvl 3                    |
+| Patient Defense         | Cost: 1 Ki Point                                                 |
+|                         | Take the Dodge action as a Bonus Action this turn                |
+| Step of the Wind        | Cost: 1 Ki Point                                                 |
+|                         | Take the Disengage or Dash action as a Bonus Action this turn    |
+|                         | Jump distance is doubled                                         |
+| Unarmored Movement      | Unlocked at Level 3                                              |
+|                         | Speed increases by 10 feet when Unarmored                        |
+|                         | Additional speed bonus and features as you level up              |
 
 ## 🧬 Race & Background Features
 
 ### Variant Human
 
--**Bonus ASI:** +1 to two ability scores (DEX AND WIS)
-
-- **Bonus Feat: Alert** (+5 Initiative; cannot be surprised by enemy ambush, sudden combat, creatures attempting to hide and attack, or failed Perception checks).
+- **Bonus ASI:** +1 to two ability scores (DEX AND WIS)
 
 - **Bonus Skill Proficiency:** Stealth
 
@@ -50,89 +123,19 @@
 - Traveler's Clothes (Background)
 - 20 GP (+10 Background +10 Explorer's Pack)
 
-## Combat Statistics
-
-- **Armor Class:** 16 (Unarmored Defense: 10 Base +3 Dex +3 Wis)
-- **Hit Points:** 10 (1d8 base + 2 Con modifier)
-- **Speed:** 30 ft. (+0 ft from Unarmored Movement)
-- **Initiative:** +8 (+3 Dex +5 Alert feat)
-- **Proficiency Bonus:** +2
-- **Ki Points:** 0
-- **Technique Points:** 0
-- **Martial Arts:** 1d4
-
-### Saving Throws
-
-| Save             | Bonus        |
-| :--------------- | :----------- |
-| **STRENGTH**     | +2 (+2 Prof) |
-| **DEXTERITY**    | +5 (+2 Prof) |
-| **CONSTITUTION** | +2           |
-| **INTELLIGENCE** | -1           |
-| **WISDOM**       | +3           |
-| **CHARISMA**     | -1           |
-
-### Skills
-
-| Skill                     | Bonus                             |
-| :------------------------ | :-------------------------------- |
-| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [Class])       |
-| **Animal Handling** (Wis) | +3                                |
-| **Arcana** (Int)          | -1                                |
-| **Athletics** (Str)       | +2 (+0 Str + 2 Prof [Background]) |
-| **Deception** (Cha)       | -1                                |
-| **History** (Int)         | -1                                |
-| **Insight** (Wis)         | +5 (+3 Wis + 2 Prof [Class])      |
-| **Intimidation** (Cha)    | -1                                |
-| **Investigation** (Int)   | -1                                |
-| **Medicine** (Wis)        | +3                                |
-| **Nature** (Int)          | -1                                |
-| **Perception** (Wis)      | +3                                |
-| **Performance** (Cha)     | -1                                |
-| **Persuasion** (Cha)      | -1                                |
-| **Religion** (Int)        | -1                                |
-| **Sleight of Hand** (Dex) | +3                                |
-| **Stealth** (Dex)         | +5 (+3 Dex + 2 Prof [Race Bonus]) |
-| **Survival** (Wis)        | +5 (+3 Wis +2 Prof [Background])  |
-
-> **Passives:** Passive Perception: 13 (10 Base +3 Wis Mod) | Passive Insight: 15 (10 Base +3 Wis Mod +2 Prof)
-
 ## ⚔️ Action Menu & Techniques
-
-- **Attack Bonus:** +5 (+3 Dex +2 Prof)
-- **Technique Attack Bonus:** +5 (+3 Dex + 2 Prof)
-- **Technique Save DC:** 13 (8 +3 Dex +2 Prof)
-- **Spell Save DC:** 13 (8 +3 Wis +2 Prof)
 
 ### Unarmed Strike (Core Skill)
 
-- 1d4 + 3 (Dex)
+- 1d4 + 3 (DEX)
   ![Unarmed](./BarvinUnarmed.webp)
   _Deal 1d4 bludgeoning damage per strike. As a Monk, you can perform a bonus action Unarmed Strike after using the Attack action with your Monk Weapon or an Unarmed Strike._
 
 ### Smack the Bee! (Quarterstaff Attack)
 
-- 1d6 + 3 (Dex)
+- 1d6 + 3 (DEX)
   ![Quarterstaff](./BarvinQuarterstaff.webp)
   _I don't like bees._
-
-### Flurry of Blows
-
-- **Cost:** 1 Ki point
-- **Bonus:** Immediately after taking the Attack action, spend 1 Ki to make Two Unarmed Strikes as a Bonus Action
-- **Additional Effects Unlocked at Level 3**
-
-### Patient Defense
-
-- **Cost:** 1 Ki point
-- **Bonus:** Take the Dodge action as a Bonus Action on this turn
-
-### Step of the Wind
-
-- **Cost:** 1 Ki point
-- **Bonus:**
-  - Take the Disengage or Dash action as a Bonus Action this turn
-  - Jump distance is doubled
 
 ### Thunderclap (AOE Cantrip)
 
@@ -285,6 +288,6 @@ Barvin does not "see" in the traditional sense. He processes information through
 | :----------------------------- | :------ | :---------------------------------- |
 | **Final Ki Pool**              | 16      |                                     |
 | **Technique Points Available** | 4       |                                     |
-| **AC (Unarmored Defense)**     | 20      | Base 10 + 5 Dex + 5 Wis             |
+| **AC (Unarmored Defense)**     | 20      | Base 10 + 5 DEX + 5 WIS             |
 | **Hit Points**                 | 170-190 | Based on d8 progression and CON mod |
 | **Speed**                      | 60 ft.  |                                     |

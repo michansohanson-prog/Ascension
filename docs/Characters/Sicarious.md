@@ -51,7 +51,17 @@ insert image
 
 **Passives:** Passive Perception: 10 (10 Base +0 Wis Mod) | Passive Insight: 12 (10 Base +0 Wis Mod +2 Prof)
 
-### Class Features - Proficiencies
+| Combat Statistics |                            |
+| :---------------- | :------------------------- |
+| Hit Points        | 10 (1d8 base +2 CON)       |
+| Armor Class       | 15 (12 Light Armor +3 DEX) |
+| Initiative        | +3 (+3 DEX)                |
+| Speed             | 35 ft. (Fleet of Foot)     |
+| Sneak Attack      | +1d6 Extra Damage          |
+| Technique Points  | 0                          |
+| Proficiency Bonus | +2                         |
+
+### Class Features & Proficiencies
 
 - **Hit Dice:** 1d8 per rogue level (+CON at level-up)
 - **Armor:** Light Armor
@@ -65,20 +75,16 @@ insert image
   - Investigation
 - **Expertise:** - UNDECIDED!!!
   - Choose 2 skill proficiencies (or one skill proficiency and proficiency with thieves' tools) and Double the Proficiency bonus. At Level 6, choose two more.
+- **Thieves' Cant:**
+  - Super secret thieves' language. Takes 4x longer to communiate in this cant. You also understand the secret signs and symbols.
+- **Cunning Action:** (UNLOCKED AT LEVEL 2)
+- **Roguish Archetype:** (UNLOCKED AT LEVEL 3)
 
-### Combat Statistics
+### Crossbow Expert (Feat)
 
-- **Armor Class:** 15 (12 Light Armor +3 Dex)
-- **Hit Points:** 10 (1d8 base + 2 Con modifier)
-- **Speed:** 35 ft. (Fleet of Foot)
-- **Initiative:** +3 (+3 Dex)
-- **Proficiency Bonus:** +2
-- **Sneak Attack:** +1d6 Extra Damage
-- **Technique Points:** 0?
-
-### Gear
-
-- **Thieves' Tools**
+- You ignore the loading property of crossbows with which you are proficient.
+- Being within 5 feet of hostile creature doesn't impose disadvantage on your ranged attack rolls.
+- When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
 ## 🧬 Race & Background Features
 
@@ -96,7 +102,11 @@ insert image
 - **Trance:** Meditate for 4 hours = Long Rest (Elf)
 - **Languages:** Common and Elvish (Elf)
 
-### Background
+### Gear (NEED TO DECIDE ON BACKGROUND AND WEAPONS ETC)
+
+- **Thieves' Tools**
+
+### Background (NEED TO DECIDE)
 
 ## ⚔️ Action Menu & Techniques
 
@@ -112,14 +122,6 @@ insert image
 ### Sneak Attack
 
 - Once per turn, deal an extra 1d6 damage if yo have advantage on the attack roll. Must use finesse or ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-
-### Thieves' Cant
-
-- Super secret thieves' language. Takes 4x longer to communiate in this cant. You also understand the secret signs and symbols.
-
-### Cunning Action (UNLOCKED AT LEVEL 2)
-
-### Roguish Archetype (UNLOCKED AT LEVEL 3)
 
 ### Cantrips & Magic
 
