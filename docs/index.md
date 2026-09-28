@@ -17,7 +17,7 @@ hero:
     <img src="./images/Placeholder.webp" alt="Noa" class="feature-image" />
     </a>
   <a href="/Ascension/Lore/" class="action-button">
-    <img src="./images/D20Qwen.webp" alt="Ascend" class="feature-image" />
+    <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" />
   </a>
     <a href="./Characters/Cassius">
     <img src="./images/Placeholder.webp" alt="Cassius" class="feature-image" />
