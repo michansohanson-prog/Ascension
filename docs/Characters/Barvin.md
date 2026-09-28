@@ -26,13 +26,37 @@
 
 ### Saving Throws & Skills
 
-| Save    | Bonus     | Skill          | Bonus                             |
-| :------ | :-------- | :------------- | :-------------------------------- |
-| **STR** | +2 (Prof) | **Acrobatics** | +5 (+3 Dex + 2 Prof)              |
-| **DEX** | +5 (Prof) | **Athletics**  | +2 (+0 Str + 2 Prof [Background]) |
-| **CON** | +2        | **Insight**    | +5 (+3 Wis + 2 Prof)              |
-| **INT** | -1        | **Stealth**    | +5 (+3 Dex + 2 Prof [Race Bonus]) |
-| **WIS** | +3        | **Survival**   | +5 (+3 Wis + 2 Prof [Background]) |
+| Save             | Bonus     |
+| :--------------- | :-------- |
+| **STRENGTH**     | +2 (Prof) |
+| **DEXTERITY**    | +5 (Prof) |
+| **CONSTITUTION** | +2        |
+| **INTELLIGENCE** | -1        |
+| **WISDOM**       | +3        |
+| **CHARISMA**     | -1        |
+
+### Skills
+
+| Skill               | Bonus                             |
+| :------------------ | :-------------------------------- |
+| **Acrobatics**      | +5 (+3 Dex +2 Prof)               |
+| **Animal Handling** | +3                                |
+| **Arcana**          | -1                                |
+| **Athletics**       | +2 (+0 Str + 2 Prof [Background]) |
+| **Deception**       | -1                                |
+| **History**         | -1                                |
+| **Insight**         | +5 (+3 Wis + 2 Prof)              |
+| **Intimidation**    | -1                                |
+| **Investigation**   | -1                                |
+| **Medicine**        | +3                                |
+| **Nature**          | -1                                |
+| **Perception**      | +3                                |
+| **Performance**     | -1                                |
+| **Persuasion**      | -1                                |
+| **Religion**        | -1                                |
+| **Sleight of Hand** | +3                                |
+| **Stealth**         | +5 (+3 Dex + 2 Prof [Race Bonus]) |
+| **Survival**        | +5 (+3 Wis +2 Prof [Background])  |
 
 > **Passives:** Passive Perception: 13 (10 Base + 3 Wis Mod) | Passive Insight: 15 (10 Base + 3 Wis Mod + 2 Prof)
 

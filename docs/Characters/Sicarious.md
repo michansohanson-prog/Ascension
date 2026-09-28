@@ -8,21 +8,21 @@ insert image
 
 ### Attributes & Modifiers
 
-| Stat    | Value     | Modifier | Calculation / Source           |
-| :------ | :-------- | :------- | :----------------------------- |
-| **STR** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **DEX** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CON** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **INT** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **WIS** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CHA** | [Pending] | [TBD]    | To be determined by the Oracle |
+| Stat    | Value | Modifier | Calculation / Source           |
+| :------ | :---- | :------- | :----------------------------- |
+| **STR** | 8     | -1       | To be determined by the Oracle |
+| **DEX** | 16    | +3       | To be determined by the Oracle |
+| **CON** | 14    | +2       | To be determined by the Oracle |
+| **INT** | 15    | +2       | To be determined by the Oracle |
+| **WIS** | 11    | +0       | To be determined by the Oracle |
+| **CHA** | 10    | +0       | To be determined by the Oracle |
 
 ### Combat Statistics
 
-- **Armor Class:** [Pending]
-- **Hit Points:** [Pending]
-- **Speed:** 30 ft.
-- **Initiative:** [Pending]
+- **Armor Class:** ???
+- **Hit Points:** ????
+- **Speed:** 35 ft.
+- **Initiative:** +3
 
 ### Saving Throws & Skills
 
