@@ -366,21 +366,6 @@ a.VPLink.link.pager-link.prev span.title {
   );
 }
 
-/* Right-align calculation/source columns */
-.vp-doc table th:last-child,
-.vp-doc table td:last-child {
-  text-align: left;
-  font-style: italic;
-  color: #5d4242;
-  font-size: 0.9rem;
-  width: 21%;
-  background: linear-gradient(
-    180deg,
-    rgba(139, 115, 85, 0.05),
-    rgba(107, 87, 69, 0.02)
-  );
-}
-
 /* Hover effect on rows - parchment glow */
 .vp-doc table tr:hover {
   background-color: rgba(139, 115, 85, 0.15) !important;
@@ -406,7 +391,7 @@ a.VPLink.link.pager-link.prev span.title {
 .vp-doc table.progression-table {
   border: 2px solid #8b7355;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: auto;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -460,7 +445,7 @@ a.VPLink.link.pager-link.prev span.title {
 .vp-doc table {
   border: 2px solid #8b7355;
   border-radius: 12px;
-  overflow: hidden;
+  overflow: auto;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
@@ -499,7 +484,7 @@ a.VPLink.link.pager-link.prev span.title {
 .vp-doc table.progression-table {
   border: 2px solid #8b7355 !important;
   border-radius: 10px;
-  overflow: hidden;
+  overflow: auto;
   box-shadow: 0 6px 18px rgba(139, 115, 85, 0.2);
 }
 

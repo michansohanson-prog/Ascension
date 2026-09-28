@@ -2,8 +2,6 @@
 
 ![Barvin Stats](./Barvin.webp)
 
----
-
 ## 📊 Core Statistics (Level 1)
 
 ### Attributes & Modifiers
@@ -17,50 +15,171 @@
 | **WIS** | 16    | +3       | Base 15 + 1 Variant Human |
 | **CHA** | 8     | -1       | Base 8 + 0 Racial         |
 
-### Combat Statistics
+## 🧬 Race & Background Features
+
+### Variant Human
+
+- **Bonus Feat: Alert** (+5 Initiative; cannot be surprised by enemy ambush, sudden combat, creatures attempting to hide and attack, or failed Perception checks).
+- **Bonus Skill:** Stealth
+
+### Outlander (Background)
+
+- **Skill Proficiencies:** Athletics, Survival
+- **Feature: Wanderer** (Perfect memory for geography; ability to find food/water easily).
+- **Tool Proficiencies:** One musical instrument: **_Drums/Percussion_**.
+- **Languages:** One extra language of choice. **_Draconic_**
+
+### Gear
+
+- Quarterstaff (Class)
+- Explorer's Pack (Class)
+  - Backpack
+  - Bedroll
+  - Mess Kit
+  - Tinderbox
+  - Torches x 10
+  - Rations x 10
+  - Waterskin
+  - Rope: 50 ft.
+- Darts x 10 (Class)
+- Hunting Trap (Background)
+- Trophy (Background)
+- Traveler's Clothes (Background)
+- 20 GP (+10 Background +10 Explorer's Pack)
+
+## Combat Statistics
 
 - **Armor Class:** 16 (Unarmored Defense: 10 Base + 3 Dex + 3 Wis)
-- **Hit Points:** 10 (8 d8 base + 2 Con modifier)
-- **Speed:** 30 ft.
-- **Initiative:** +8 (+3 Dex mod +5 Alert feat)
+- **Hit Points:** 10 (1d8 base + 2 Con modifier)
+- **Speed:** 30 ft. (+0 ft from Unarmored Movement)
+- **Initiative:** +8 (+3 Dex +5 Alert feat)
+- **Proficiency Bonus:** +2
+- **Ki Points:** 0
+- **Technique Points:** 0
+- **Martial Arts:** 1d4
 
-### Saving Throws & Skills
+### Saving Throws
 
-| Save             | Bonus     |
-| :--------------- | :-------- |
-| **STRENGTH**     | +2 (Prof) |
-| **DEXTERITY**    | +5 (Prof) |
-| **CONSTITUTION** | +2        |
-| **INTELLIGENCE** | -1        |
-| **WISDOM**       | +3        |
-| **CHARISMA**     | -1        |
+| Save             | Bonus        |
+| :--------------- | :----------- |
+| **STRENGTH**     | +2 (+2 Prof) |
+| **DEXTERITY**    | +5 (+2 Prof) |
+| **CONSTITUTION** | +2           |
+| **INTELLIGENCE** | -1           |
+| **WISDOM**       | +3           |
+| **CHARISMA**     | -1           |
 
 ### Skills
 
-| Skill               | Bonus                             |
-| :------------------ | :-------------------------------- |
-| **Acrobatics**      | +5 (+3 Dex +2 Prof)               |
-| **Animal Handling** | +3                                |
-| **Arcana**          | -1                                |
-| **Athletics**       | +2 (+0 Str + 2 Prof [Background]) |
-| **Deception**       | -1                                |
-| **History**         | -1                                |
-| **Insight**         | +5 (+3 Wis + 2 Prof)              |
-| **Intimidation**    | -1                                |
-| **Investigation**   | -1                                |
-| **Medicine**        | +3                                |
-| **Nature**          | -1                                |
-| **Perception**      | +3                                |
-| **Performance**     | -1                                |
-| **Persuasion**      | -1                                |
-| **Religion**        | -1                                |
-| **Sleight of Hand** | +3                                |
-| **Stealth**         | +5 (+3 Dex + 2 Prof [Race Bonus]) |
-| **Survival**        | +5 (+3 Wis +2 Prof [Background])  |
+| Skill                     | Bonus                             |
+| :------------------------ | :-------------------------------- |
+| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [Class])       |
+| **Animal Handling** (Wis) | +3                                |
+| **Arcana** (Int)          | -1                                |
+| **Athletics** (Str)       | +2 (+0 Str + 2 Prof [Background]) |
+| **Deception** (Cha)       | -1                                |
+| **History** (Int)         | -1                                |
+| **Insight** (Wis)         | +5 (+3 Wis + 2 Prof [Class])      |
+| **Intimidation** (Cha)    | -1                                |
+| **Investigation** (Int)   | -1                                |
+| **Medicine** (Wis)        | +3                                |
+| **Nature** (Int)          | -1                                |
+| **Perception** (Wis)      | +3                                |
+| **Performance** (Cha)     | -1                                |
+| **Persuasion** (Cha)      | -1                                |
+| **Religion** (Int)        | -1                                |
+| **Sleight of Hand** (Dex) | +3                                |
+| **Stealth** (Dex)         | +5 (+3 Dex + 2 Prof [Race Bonus]) |
+| **Survival** (Wis)        | +5 (+3 Wis +2 Prof [Background])  |
 
 > **Passives:** Passive Perception: 13 (10 Base + 3 Wis Mod) | Passive Insight: 15 (10 Base + 3 Wis Mod + 2 Prof)
 
----
+## ⚔️ Action Menu & Techniques
+
+- **Attack Bonus:** +5 (+3 Dex +2 Prof)
+- **Technique Attack Bonus:** +5 (+3 Dex + 2 Prof)
+- **Technique Save DC:** 13 (8 +3 Dex +2 Prof)
+- **Spell Save DC:** 13 (8 +3 Wis +2 Prof)
+
+### Unarmed Strike (Core Skill)
+
+- 1d4 + 3 (Dex)
+  ![Unarmed](./BarvinUnarmed.webp)
+  _Deal 1d4 bludgeoning damage per strike. As a Monk, you can perform a bonus action Unarmed Strike after using the Attack action with your Monk Weapon or an Unarmed Strike._
+
+### Smack the Bee! (Quarterstaff Attack)
+
+- 1d6 + 3 (Dex)
+  ![Quarterstaff](./BarvinQuarterstaff.webp)
+  _I don't like bees._
+
+### Flurry of Blows
+
+- **Cost:** 1 Ki point
+- **Bonus:** Immediately after taking the Attack action, spend 1 Ki to make Two Unarmed Strikes as a Bonus Action
+- **Additional Effects Unlocked at Level 3**
+
+### Patient Defense
+
+- **Cost:** 1 Ki point
+- **Bonus:** Take the Dodge action as a Bonus Action on this turn
+
+### Step of the Wind
+
+- **Cost:** 1 Ki point
+- **Bonus:**
+  - Take the Disengage or Dash action as a Bonus Action this turn
+  - Jump distance is doubled
+
+### Thunderclap (AOE Cantrip)
+
+- **Casting Time:** 1 Action
+- **Cost:** 1 Action
+- **Range/Area:** 5 ft radius (Audible up to 100 feet.)
+- **CON** Save
+- **Damage:** 1d6 Thunder damage on fail
+  ![Thunderclap](./BarvinThunderclap.webp)
+  _Scales to +1d6 at lvl 5, +2d6 at lvl 11, +3d6 at lvl 17._
+
+### Wind Bullet (Ranged Technique)
+
+- **Casting Time:** 1 Attack Action (Counts as Monk Weapon???)
+- **Cost:** 1 Tech Point (Replaces 1 attack)
+- **Range:** 120 feet (must be able to see)
+- **Bonus:** If target is not aware of your current location, add 1d4 to **Attack** roll
+- **Damage:** 3d12 Piercing damage on hit.
+  ![Wind Bullet](./BarvinWindBullet.webp)
+  _A rapid air bullet (no sound)._
+
+### Concussive Force (Short-Range CC Technique)
+
+- **Casting Time:** 1 Attack Action (Counts as Monk Weapon???)
+- **Cost:** 1 Tech Point (Replaces 1 attack)
+- **Range:** 10 feet (Audible up to 300 feet.)
+- **CON** Save
+- **Damage:**
+  - 4d6 Thunder DMG
+  - Knocked back 15 feet
+  - Knocked prone
+  - Deafened until the end of your next turn
+
+![Conc Force](./BarvinConcussiveForce.webp)
+_Loud AF._
+
+### Electrifying Dash (Movement Technique)
+
+- **Casting Time:** Instantaneous (start of turn)
+- **Duration:** Until the end of turn
+- **Cost:** 1 Tech Point
+- **Bonus:**
+  - +20 Movement Speed
+  - Don't provoke Opportunity Attacks
+- **DEX** Save
+- **Damage:** 1d8 Lightning on fail (Half DMG on Save)
+  - Damage is calculated at end of turn against any creature that was withing 5 feet of you since you invoked this technique
+
+![ElectricDash](./BarvinElecDash.webp)
+_Fast AF._
 
 ## ✨ Personality & Traits
 
@@ -111,65 +230,6 @@ Barvin spent years running from city to city:
 
 ---
 
-## ⚔️ Action Menu & Techniques
-
-**Technique Attack Bonus:** +5 (+3 Dex + 2 Prof) | **Technique Save DC:** 13 (8 + Proficiency + Dex Mod)
-
-### Core Skills
-
-- **Unarmed Strike**
-  ![Unarmed](./BarvinUnarmed.webp)
-  _Dexterity-based attacks; deal 1d4 unarmed damage per strike. As a Monk, you can perform a bonus action strike._
-- **Smack the Bee! (Quarterstaff Attack)**
-  ![Quarterstaff](./BarvinQuarterstaff.webp)
-  _This is your primary weapon attack using a Quarterstaff. It uses Martial Arts rules: Dexterity-based attacks with a +5 bonus to hit, dealing 1d4 damage per strike. You may also use your bonus action to make an additional strike._
-
-### Cantrips & Magic
-
-- **Thunderclap**
-  ![Thunderclap](./BarvinThunderclap.webp)
-  - **Casting Time:** 1 Action | **Range/Area:** 5 ft burst | **Components:** S | **Duration:** Instantaneous
-  - **Effect:** Create a thunderous sound audible up to 100 feet. Creatures within range make a **CON Save** or take **1d6 thunder damage**. (Scales to +1d6 at lvl 5, +2d6 at lvl 11, +3d6 at lvl 17).
-
-### Techniques - Ranged
-
-- **Wind Bullet**
-  ![Wind Bullet](./BarvinWindBullet.webp)
-  _Action: Replace one attack with a rapid air bullet (no sound)._
-  - **Range/Target:** Ranged Technique Attack against a visible creature within 120 feet.
-  - **Effect:** +1d4 to the attack roll if target is unaware of location. On hit, takes **3d12 piercing damage**.
-
-- **Concussive Force**
-  ![Conc Force](./BarvinConcussiveForce.webp)
-  _Spend 1 Technique Point to invoke._
-  - **Action:** Replace one attack with a thunderous blast/roar within 10 feet.
-  - **Effect:** Target makes **CON Save**. On failure, takes **4d6 thunder damage**, is knocked back 15 feet, knocked prone, and is deafened until the end of your next turn. _Note: Emits a boom audible out to 300 ft._
-
-### Techniques - Movement
-
-- **Electrifying Dash**
-  ![ElectricDash](./BarvinElecDash.webp)
-  _Spend 1 Technique Point to invoke while taking the Dash action._
-  - **Effect:** Move like a bolt of lightning (**+20ft speed**); movement does not provoke opportunity attacks.
-  - **AOE:** At end of turn, each creature within 5ft since invoking must make **DEX Save** or take **1d8 lightning damage** (half on success).
-
----
-
-## 🧬 Race & Background Features
-
-### VARIANT HUMAN
-
-- **Bonus Feat: Alert** (+5 Initiative; cannot be surprised by enemy ambush, sudden combat, creatures attempting to hide and attack, or failed Perception checks).
-- **Bonus Skill:** Stealth
-
-### OUTLANDER (Background)
-
-- **Feature: Wanderer** (Perfect memory for geography; ability to find food/water easily).
-- **Tool Proficiencies:** One musical instrument: **_drums_**.
-- **Languages:** One extra language of choice. **_DECIDE!!!_**
-
----
-
 ## 👁️ Sensory Mechanics
 
 Barvin does not "see" in the traditional sense. He processes information through:
@@ -184,34 +244,30 @@ Barvin does not "see" in the traditional sense. He processes information through
 
 ## 📈 Progression & End-Game Stats **_(PRELIMINARY)_**
 
-### KI & TECHNIQUE POINT PROGRESSION TABLE
+| LEVEL | PROF BNS | MARTIAL ARTS | KI POINTS | TECH POINTS | UNARMORED MVT | FEATURES                                | TECHNIQUES                                       |
+| :---- | :------- | :----------- | :-------- | :---------- | :------------ | :-------------------------------------- | :----------------------------------------------- |
+| 1     | +2       | 1d4          | 0         | 0           | +0 ft.        | Unarmored Defense, Martial Arts         | Thunderclap                                      |
+| 2     | +2       | 1d4          | 2         | 0           | +10 ft.       | Ki, Unarmored Movement                  |                                                  |
+| 3     | +2       | 1d4          | 2         | 1           | +10 ft.       | Way of the Open Hand, Deflect Missiles  | Wind Bullet, Concussive Force, Electrifying Dash |
+| 4     | +2       | 1d4          | 3         | 1           | +10 ft.       | ASI, Slow Fall                          |                                                  |
+| 5     | +3       | 1d6          | 3         | 2           | +10 ft.       | Extra Attack, Stunning Strike           | Zephyr Rush                                      |
+| 6     | +3       | 1d6          | 4         | 2           | +15 ft.       | Ki-Empowered Strikes, Wholeness of Body |                                                  |
+| 7     | +3       | 1d6          | 5         | 2           | +15 ft.       | Evasion, Stillness of Mind              |                                                  |
+| 8     | +3       | 1d6          | 6         | 2           | +15 ft.       | ASI                                     |                                                  |
+| 9     | +4       | 1d6          | 7         | 2           | +15 ft.       | Unarmored Mvt Improvement               |                                                  |
+| 10    | +4       | 1d6          | 8         | 2           | +20 ft.       | Purity of Body                          |                                                  |
+| 11    | +4       | 1d8          | 8         | 3           | +20 ft.       | Tranquility                             | Twisting Strike                                  |
+| 12    | +4       | 1d8          | 9         | 3           | +20 ft.       | ASI                                     |                                                  |
+| 13    | +5       | 1d8          | 10        | 3           | +20 ft.       | Tongue of the Sun and Moon              |                                                  |
+| 14    | +5       | 1d8          | 11        | 3           | +25 ft.       | Diamond Soul                            |                                                  |
+| 15    | +5       | 1d8          | 12        | 3           | +25 ft.       | Timeless Body                           |                                                  |
+| 16    | +5       | 1d8          | 13        | 3           | +25 ft.       | ASI                                     |                                                  |
+| 17    | +6       | 1d10         | 13        | 4           | +25 ft.       | Quivering Palm                          | Air Vortex                                       |
+| 18    | +6       | 1d10         | 14        | 4           | +30 ft.       | Empty Body                              |                                                  |
+| 19    | +6       | 1d10         | 15        | 4           | +30 ft.       | ASI                                     |                                                  |
+| 20    | +6       | 1d10         | 16        | 4           | +30 ft.       | Perfect Self                            |                                                  |
 
-_Sacrifice Mechanic: At levels 3, 5, 11, and 17, you permanently sacrifice 1 max Ki point to gain +1 Technique Point._
-
-| LEVEL | BASE KI | KI LOST | FINAL KI | TECH PTS | TECHNIQUES KNOWN |
-| :---- | :------ | :------ | :------- | :------- | :--------------- |
-| 1     | 0       | 0       | 0        | 0        | 0                |
-| 2     | 2       | 0       | 2        | 0        | 0                |
-| 3     | 3       | 1       | 2        | 1        | 3 (CF, ED, WB)   |
-| 4     | 4       | 1       | 3        | 1        | 3                |
-| 5     | 5       | 2       | 3        | 2        | 4 (add ZR)       |
-| 6     | 6       | 2       | 4        | 2        | 4                |
-| 7     | 7       | 2       | 5        | 2        | 4                |
-| 8     | 8       | 2       | 6        | 2        | 4                |
-| 9     | 9       | 2       | 7        | 2        | 4                |
-| 10    | 10      | 2       | 8        | 2        | 4                |
-| 11    | 11      | 3       | 8        | 3        | 5 (add TS)       |
-| 12    | 12      | 3       | 9        | 3        | 5                |
-| 13    | 13      | 3       | 10       | 3        | 5                |
-| 14    | 14      | 3       | 11       | 3        | 5                |
-| 15    | 15      | 3       | 12       | 3        | 5                |
-| 16    | 16      | 3       | 13       | 3        | 5                |
-| 17    | 17      | 4       | 13       | 4        | 6 (add AV)       |
-| 18    | 18      | 4       | 14       | 4        | 6                |
-| 19    | 19      | 4       | 15       | 4        | 6                |
-| 20    | 20      | 4       | 16       | 4        | 6                |
-
-### VIII. FINAL STAT BLOCK (LEVEL 20)
+### VIII. FINAL STAT BLOCK (LEVEL 20) _(Preliminary)_
 
 | Attribute | Value | Modifier | Calculation / Source                              |
 | :-------- | :---- | :------- | :------------------------------------------------ |
@@ -219,13 +275,13 @@ _Sacrifice Mechanic: At levels 3, 5, 11, and 17, you permanently sacrifice 1 max
 | **DEX**   | 20    | +5       | Base 15 + 1 Variant Human + 4 ASI [Levels 4, 8]   |
 | **CON**   | 14    | +2       | Base 14 + 0 Racial                                |
 | **INT**   | 8     | -1       | Base 8 + 0 Racial                                 |
-| **WIS**   | 20    | +3       | Base 15 + 1 Variant Human + 4 ASI [Levels 12, 16] |
+| **WIS**   | 20    | +5       | Base 15 + 1 Variant Human + 4 ASI [Levels 12, 16] |
 | **CHA**   | 8     | -1       | Base 8 + 0 Racial                                 |
 
-| Combat & Resource Totals       | Value  | Details                             |
-| :----------------------------- | :----- | :---------------------------------- |
-| **Final Ki Pool**              | 16     |                                     |
-| **Technique Points Available** | 4      |                                     |
-| **AC (Unarmored Defense)**     | 20     | Base 10 + 5 Dex + 5 Wis             |
-| **Hit Points**                 | 128    | Based on d8 progression and CON mod |
-| **Speed**                      | 30 ft. |                                     |
+| Combat & Resource Totals       | Value   | Details                             |
+| :----------------------------- | :------ | :---------------------------------- |
+| **Final Ki Pool**              | 16      |                                     |
+| **Technique Points Available** | 4       |                                     |
+| **AC (Unarmored Defense)**     | 20      | Base 10 + 5 Dex + 5 Wis             |
+| **Hit Points**                 | 170-190 | Based on d8 progression and CON mod |
+| **Speed**                      | 60 ft.  |                                     |
