@@ -1,4 +1,4 @@
-# Barvin Vox
+# Barvin Vox - Monk
 
 ![Barvin Stats](./Barvin.webp)
 
@@ -19,8 +19,11 @@
 
 ### Variant Human
 
+-**Bonus ASI:** +1 to two ability scores (DEX AND WIS)
+
 - **Bonus Feat: Alert** (+5 Initiative; cannot be surprised by enemy ambush, sudden combat, creatures attempting to hide and attack, or failed Perception checks).
-- **Bonus Skill:** Stealth
+
+- **Bonus Skill Proficiency:** Stealth
 
 ### Outlander (Background)
 
@@ -29,7 +32,7 @@
 - **Tool Proficiencies:** One musical instrument: **_Drums/Percussion_**.
 - **Languages:** One extra language of choice. **_Draconic_**
 
-### Gear
+### Gear ???
 
 - Quarterstaff (Class)
 - Explorer's Pack (Class)
@@ -49,7 +52,7 @@
 
 ## Combat Statistics
 
-- **Armor Class:** 16 (Unarmored Defense: 10 Base + 3 Dex + 3 Wis)
+- **Armor Class:** 16 (Unarmored Defense: 10 Base +3 Dex +3 Wis)
 - **Hit Points:** 10 (1d8 base + 2 Con modifier)
 - **Speed:** 30 ft. (+0 ft from Unarmored Movement)
 - **Initiative:** +8 (+3 Dex +5 Alert feat)
@@ -92,7 +95,7 @@
 | **Stealth** (Dex)         | +5 (+3 Dex + 2 Prof [Race Bonus]) |
 | **Survival** (Wis)        | +5 (+3 Wis +2 Prof [Background])  |
 
-> **Passives:** Passive Perception: 13 (10 Base + 3 Wis Mod) | Passive Insight: 15 (10 Base + 3 Wis Mod + 2 Prof)
+> **Passives:** Passive Perception: 13 (10 Base +3 Wis Mod) | Passive Insight: 15 (10 Base +3 Wis Mod +2 Prof)
 
 ## ⚔️ Action Menu & Techniques
 
