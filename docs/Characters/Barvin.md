@@ -32,7 +32,7 @@
 - **Tool Proficiencies:** One musical instrument: **_Drums/Percussion_**.
 - **Languages:** One extra language of choice. **_Draconic_**
 
-### Gear ???
+### Gear
 
 - Quarterstaff (Class)
 - Explorer's Pack (Class)
@@ -179,7 +179,7 @@ _Loud AF._
   - Don't provoke Opportunity Attacks
 - **DEX** Save
 - **Damage:** 1d8 Lightning on fail (Half DMG on Save)
-  - Damage is calculated at end of turn against any creature that was withing 5 feet of you since you invoked this technique
+  - Damage is calculated at end of turn against any creature that was within 5 feet of you since you invoked this technique
 
 ![ElectricDash](./BarvinElecDash.webp)
 _Fast AF._

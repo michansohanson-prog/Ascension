@@ -15,6 +15,71 @@ insert image
 | **WIS** | 11    | +0       | Base 10 +1 Racial    |
 | **CHA** | 10    | +0       |                      |
 
+### Saving Throws
+
+| Save             | Bonus        |
+| :--------------- | :----------- |
+| **STRENGTH**     | -1           |
+| **DEXTERITY**    | +5 (+2 Prof) |
+| **CONSTITUTION** | +2           |
+| **INTELLIGENCE** | +4 (+2 Prof) |
+| **WISDOM**       | +0           |
+| **CHARISMA**     | +0           |
+
+### Skills- !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
+
+| Skill                     | Bonus                       |
+| :------------------------ | :-------------------------- |
+| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [Class]) |
+| **Animal Handling** (Wis) | +0                          |
+| **Arcana** (Int)          | +2                          |
+| **Athletics** (Str)       | -1                          |
+| **Deception** (Cha)       | +0                          |
+| **History** (Int)         | +2                          |
+| **Insight** (Wis)         | +0                          |
+| **Intimidation** (Cha)    | +0                          |
+| **Investigation** (Int)   | +4 (+2 Int +2 Prof [Class]) |
+| **Medicine** (Wis)        | +0                          |
+| **Nature** (Int)          | +2                          |
+| **Perception** (Wis)      | +2 (+0 Wis +2 Prof [Race])  |
+| **Performance** (Cha)     | +0                          |
+| **Persuasion** (Cha)      | +0                          |
+| **Religion** (Int)        | +2                          |
+| **Sleight of Hand** (Dex) | +5 (+3 Dex +2 Prof[Class])  |
+| **Stealth** (Dex)         | +5 (+3 Dex +2 Prof [Class]) |
+| **Survival** (Wis)        | +0                          |
+
+**Passives:** Passive Perception: 10 (10 Base +0 Wis Mod) | Passive Insight: 12 (10 Base +0 Wis Mod +2 Prof)
+
+### Class Features - Proficiencies
+
+- **Hit Dice:** 1d8 per rogue level (+CON at level-up)
+- **Armor:** Light Armor
+- **Weapons:** Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
+- **Tools:** Thieves' tools
+- **Saving Throws:** DEX and INT
+- **Skills:**
+  - Acrobatics
+  - Sleight of Hand
+  - Stealth
+  - Investigation
+- **Expertise:** - UNDECIDED!!!
+  - Choose 2 skill proficiencies (or one skill proficiency and proficiency with thieves' tools) and Double the Proficiency bonus. At Level 6, choose two more.
+
+### Combat Statistics
+
+- **Armor Class:** 15 (12 Light Armor +3 Dex)
+- **Hit Points:** 10 (1d8 base + 2 Con modifier)
+- **Speed:** 35 ft. (Fleet of Foot)
+- **Initiative:** +3 (+3 Dex)
+- **Proficiency Bonus:** +2
+- **Sneak Attack:** +1d6 Extra Damage
+- **Technique Points:** 0?
+
+### Gear
+
+- **Thieves' Tools**
+
 ## 🧬 Race & Background Features
 
 ### Wood Elf
@@ -31,68 +96,7 @@ insert image
 - **Trance:** Meditate for 4 hours = Long Rest (Elf)
 - **Languages:** Common and Elvish (Elf)
 
-### Gear
-
-- **Thieves' Tools**
-
-### Combat Statistics
-
-- **Armor Class:** 15 (12 Light Armor +3 Dex)
-- **Hit Points:** 10 (1d8 base + 2 Con modifier)
-- **Speed:** 35 ft. (Fleet of Foot)
-- **Initiative:** +3 (+3 Dex)
-- **Proficiency Bonus:** +2
-- **Sneak Attack:** +1d6 Extra Damage
-- **Technique Points:** 0?
-
-### Class Features - Proficiencies
-
-- **Hit Dice:** 1d8 per rogue level (+CON at level-up)
-- **Armor:** Light Armor
-- **Weapons:** Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
-- **Tools:** Thieves' tools
-- **Saving Throws:** DEX and INT
-- **Skills:**
-  - Acrobatics
-  - Sleight of Hand
-  - Stealth
-  - Investigation
-
-### Saving Throws & Skills
-
-| Save             | Bonus        |
-| :--------------- | :----------- |
-| **STRENGTH**     | -1           |
-| **DEXTERITY**    | +5 (+2 Prof) |
-| **CONSTITUTION** | +2           |
-| **INTELLIGENCE** | +4 (+2 Prof) |
-| **WISDOM**       | +0           |
-| **CHARISMA**     | +0           |
-
-### Skills- !!Still need to decide on Expertise!! Pick 2 to gain Prof (or 1 + Thieves' Tools)
-
-| Skill                     | Bonus                        |
-| :------------------------ | :--------------------------- |
-| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [Class])  |
-| **Animal Handling** (Wis) | +0                           |
-| **Arcana** (Int)          | +2                           |
-| **Athletics** (Str)       | -1                           |
-| **Deception** (Cha)       | +0                           |
-| **History** (Int)         | +2                           |
-| **Insight** (Wis)         | +0                           |
-| **Intimidation** (Cha)    | +0                           |
-| **Investigation** (Int)   | +4 (+2 Int +2 Prof [Class])  |
-| **Medicine** (Wis)        | +0                           |
-| **Nature** (Int)          | +2                           |
-| **Perception** (Wis)      | +2 (+0 Wis +2 Prof [Race])   |
-| **Performance** (Cha)     | +0                           |
-| **Persuasion** (Cha)      | +0                           |
-| **Religion** (Int)        | +2                           |
-| **Sleight of Hand** (Dex) | +5 (+3 Dex +2 Prof[Class])   |
-| **Stealth** (Dex)         | +5 (+3 Dex + 2 Prof [Class]) |
-| **Survival** (Wis)        | +0                           |
-
-> **Passives:** Passive Perception: 10 (10 Base 0 Wis Mod) | Passive Insight: 12 (10 Base +0 Wis Mod +2 Prof)
+### Background
 
 ## ⚔️ Action Menu & Techniques
 
@@ -104,10 +108,6 @@ insert image
 ### Melee Weapon Attack
 
 ### Crossbow Attack
-
-### Expertise - UNDECIDED!!!
-
-- Choose 2 skill proficiencies (or one skill proficiency and proficiency with thieves' tools) and Double the Proficiency bonus. At Level 6, choose two more.
 
 ### Sneak Attack
 
