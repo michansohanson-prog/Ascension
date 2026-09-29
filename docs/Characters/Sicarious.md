@@ -1,6 +1,6 @@
 # Sicarious - Rogue (Level 1)
 
-insert image
+![Sicarious](./Sicarious.webp)
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
