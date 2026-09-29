@@ -64,12 +64,12 @@ insert image
 
 ### Cantrips & Magic
 
-- [Pending]: [Awaiting mechanical definition]
+- Pending: Awaiting mechanical definition
 
 ### Techniques - Ranged
 
-- [Pending]: Locked
-- [Pending]: Locked
+- Pending: Locked
+- Pending: Locked
 
 ## Class Features & Proficiencies
 
@@ -87,14 +87,14 @@ insert image
 
 ## 🧬 Race & Background Features
 
-### [Race]
+### Race
 
 ### Mysterious (Background)
 
 - **ASI:** Pending
-- **[Feature]:** Pending
-- **[Feature]:** Pending
-- **[Feature]:** Pending
+- **Feature:** Pending
+- **Feature:** Pending
+- **Feature:** Pending
 - **Sensory Mechanics:** Perceives magical ley lines and "echoes" of deleted history.
 
 ## Gear (NEED TO DECIDE ON WEAPONS ETC)
@@ -114,7 +114,7 @@ Noa is a wizard of enigmatic tastes and mysterious motives. She maintains a stri
 
 ### I. Origins: The Redacted Realm
 
-Noa's specific home city remains a mystery to all but her closest allies. Her origins are currently [REDACTED] by the archives of the Order.
+Noa's specific home city remains a mystery to all but her closest allies. Her origins are currently REDACTED by the archives of the Order.
 
 ### II. Arcane Exploration
 
