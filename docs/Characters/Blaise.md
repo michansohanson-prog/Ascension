@@ -4,59 +4,59 @@ insert image
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value     | Modifier | Saving Throw |
-| :------ | :-------- | :------- | :----------- |
-| **STR** | [Pending] | [TBD]    | [TBD]        |
-| **DEX** | [Pending] | [TBD]    | [TBD]        |
-| **CON** | [Pending] | [TBD]    | [TBD]        |
-| **INT** | [Pending] | [TBD]    | [TBD]        |
-| **WIS** | [Pending] | [TBD]    | [TBD]        |
-| **CHA** | [Pending] | [TBD]    | [TBD]        |
+| Stat    | Value   | Modifier | Saving Throw |
+| :------ | :------ | :------- | :----------- |
+| **STR** | Pending | TBD      | TBD          |
+| **DEX** | Pending | TBD      | TBD          |
+| **CON** | Pending | TBD      | TBD          |
+| **INT** | Pending | TBD      | TBD          |
+| **WIS** | Pending | TBD      | TBD          |
+| **CHA** | Pending | TBD      | TBD          |
 
 ### Skills
 
-| Skill                     | Bonus     |
-| :------------------------ | :-------- |
-| **Acrobatics** (Dex)      | [Pending] |
-| **Animal Handling** (Wis) | [Pending] |
-| **Arcana** (Int)          | [Pending] |
-| **Athletics** (Str)       | [Pending] |
-| **Deception** (Cha)       | [Pending] |
-| **History** (Int)         | [Pending] |
-| **Insight** (Wis)         | [Pending] |
-| **Intimidation** (Cha)    | [Pending] |
-| **Investigation** (Int)   | [Pending] |
-| **Medicine** (Wis)        | [Pending] |
-| **Nature** (Int)          | [Pending] |
-| **Perception** (Wis)      | [Pending] |
-| **Performance** (Cha)     | [Pending] |
-| **Persuasion** (Cha)      | [Pending] |
-| **Religion** (Int)        | [Pending] |
-| **Sleight of Hand** (Dex) | [Pending] |
-| **Stealth** (Dex)         | [Pending] |
-| **Survival** (Wis)        | [Pending] |
-| **Passive Perception**    | [Pending] |
-| **Passive Insight**       | [Pending] |
+| Skill                     | Bonus   |
+| :------------------------ | :------ |
+| **Acrobatics** (Dex)      | Pending |
+| **Animal Handling** (Wis) | Pending |
+| **Arcana** (Int)          | Pending |
+| **Athletics** (Str)       | Pending |
+| **Deception** (Cha)       | Pending |
+| **History** (Int)         | Pending |
+| **Insight** (Wis)         | Pending |
+| **Intimidation** (Cha)    | Pending |
+| **Investigation** (Int)   | Pending |
+| **Medicine** (Wis)        | Pending |
+| **Nature** (Int)          | Pending |
+| **Perception** (Wis)      | Pending |
+| **Performance** (Cha)     | Pending |
+| **Persuasion** (Cha)      | Pending |
+| **Religion** (Int)        | Pending |
+| **Sleight of Hand** (Dex) | Pending |
+| **Stealth** (Dex)         | Pending |
+| **Survival** (Wis)        | Pending |
+| **Passive Perception**    | Pending |
+| **Passive Insight**       | Pending |
 
 | Combat Statistics |                         |
 | :---------------- | :---------------------- |
-| Hit Points        | [Pending]               |
-| Armor Class       | [Pending]               |
-| Initiative        | [Pending]               |
+| Hit Points        | Pending                 |
+| Armor Class       | Pending                 |
+| Initiative        | Pending                 |
 | Speed             | 30 ft. (Fly Speed: TBD) |
-| Spellcasting      | [Pending]               |
-| Technique Points  | [Pending]               |
+| Spellcasting      | Pending                 |
+| Technique Points  | Pending                 |
 | Proficiency Bonus | +2                      |
-| Attack Bonus      | [Pending]               |
-| Tech Save DC      | [Pending]               |
-| Spell Save DC     | [Pending]               |
+| Attack Bonus      | Pending                 |
+| Tech Save DC      | Pending                 |
+| Spell Save DC     | Pending                 |
 
 ## ⚔️ Action Menu & Techniques
 
-- **Attack Bonus:** [Pending]
-- **Technique Attack Bonus:** [Pending]
-- **Technique Save DC:** [Pending]
-- **Spell Save DC:** [Pending]
+- **Attack Bonus:** Pending
+- **Technique Attack Bonus:** Pending
+- **Technique Save DC:** Pending
+- **Spell Save DC:** Pending
 
 ### Sword Bard Maneuvers (Melee)
 
@@ -64,18 +64,18 @@ insert image
 
 ### Flame-Touched Abilities
 
-- **Flame Flare:** [Locked]
-- **Skyward Strike:** [Locked]
+- **Flame Flare:** Locked
+- **Skyward Strike:** Locked
 
 ## Class Features & Proficiencies
 
 | Feature            |                                     |
 | :----------------- | :---------------------------------- |
 | Hit Dice           | 1d8 + CON                           |
-| Armor Proficiency  | [Pending]                           |
+| Armor Proficiency  | Pending                             |
 | Weapon Proficiency | Simple Weapons, Swords, Shortswords |
 | Tools              | Sailing, Navigator's Tools          |
-| Saving Throws      | [Pending]                           |
+| Saving Throws      | Pending                             |
 | Skills             | Performance, History, Insight       |
 |                    | Acrobatics, Survival (CLASS)        |
 | Spellcasting       | Bardic Spells                       |
@@ -90,8 +90,8 @@ insert image
 
 ### Pirate (Background)
 
-- **ASI:** [Pending]
-- **Flight Speed:** [Pending] ft. (Aarakocra Flight)
+- **ASI:** Pending
+- **Flight Speed:** Pending ft. (Aarakocra Flight)
 - **Keen Sight:** Hawk-like instincts for observation and identifying shiny objects.
 - **Maritime Knowledge:** Expertise in Zanzibahar trade routes.
 - **Tool Proficiencies:** Sailing, Navigator's Tools.
@@ -100,11 +100,11 @@ insert image
 ## Gear (NEED TO DECIDE ON WEAPONS ETC)
 
 - Sword (Shortsword or similar)
-- Clarinet / Musical Instrument
-- [Pending]
-- [Pending]
-- [Pending]
-- [Pending]
+- Lute / Musical Instrument
+- Pending
+- Pending
+- Pending
+- Pending
 
 ## ✨ Personality & Traits
 
@@ -132,26 +132,26 @@ _(Data currently being archived by the Guild of Fire)_
 
 | LEVEL | PROF BNS | SPELL LVL | FEATURES                         | ELEMANCY |
 | :---- | :------- | :-------- | :------------------------------- | :------- |
-| 1     | +2       | -         | Bardic Inspiration, Spellcasting | [TBD]    |
-| 2     | +2       | 1         | Jack of All Trades, Song of Rest | [TBD]    |
-| 3     | +2       | 2         | College of Swords Features       | [TBD]    |
-| 4     | +2       | 2         | Ability Score Improvement        | [TBD]    |
-| 5     | +3       | 3         | Parry                            | [TBD]    |
-| 6     | +3       | 3         | Reckless Attack                  | [TBD]    |
-| 7     | +3       | 4         | —                                | [TBD]    |
-| 8     | +3       | 4         | Ability Score Improvement        | [TBD]    |
-| 9     | +4       | 5         | Song of Rest (d8)                | [TBD]    |
-| 10    | +4       | 5         | Magical Secrets                  | [TBD]    |
-| 11    | +4       | 6         | —                                | [TBD]    |
-| 12    | +4       | 6         | Ability Score Improvement        | [TBD]    |
-| 13    | +5       | 7         | Song of Rest (d10)               | [TBD]    |
-| 14    | +5       | 8         | Magical Secrets                  | [TBD]    |
-| 15    | +5       | 9         | Bardic Inspiration (d12)         | [TBD]    |
-| 16    | +5       | 9         | Ability Score Improvement        | [TBD]    |
-| 17    | +6       | 10        | Song of Rest (d12)               | [TBD]    |
-| 18    | +6       | 10        | Magical Secrets                  | [TBD]    |
-| 19    | +6       | 11        | Ability Score Improvement        | [TBD]    |
-| 20    | +6       | 12        | Superior Inspiration             | [TBD]    |
+| 1     | +2       | -         | Bardic Inspiration, Spellcasting | TBD      |
+| 2     | +2       | 1         | Jack of All Trades, Song of Rest | TBD      |
+| 3     | +2       | 2         | College of Swords Features       | TBD      |
+| 4     | +2       | 2         | Ability Score Improvement        | TBD      |
+| 5     | +3       | 3         | Parry                            | TBD      |
+| 6     | +3       | 3         | Reckless Attack                  | TBD      |
+| 7     | +3       | 4         | —                                | TBD      |
+| 8     | +3       | 4         | Ability Score Improvement        | TBD      |
+| 9     | +4       | 5         | Song of Rest (d8)                | TBD      |
+| 10    | +4       | 5         | Magical Secrets                  | TBD      |
+| 11    | +4       | 6         | —                                | TBD      |
+| 12    | +4       | 6         | Ability Score Improvement        | TBD      |
+| 13    | +5       | 7         | Song of Rest (d10)               | TBD      |
+| 14    | +5       | 8         | Magical Secrets                  | TBD      |
+| 15    | +5       | 9         | Bardic Inspiration (d12)         | TBD      |
+| 16    | +5       | 9         | Ability Score Improvement        | TBD      |
+| 17    | +6       | 10        | Song of Rest (d12)               | TBD      |
+| 18    | +6       | 10        | Magical Secrets                  | TBD      |
+| 19    | +6       | 11        | Ability Score Improvement        | TBD      |
+| 20    | +6       | 12        | Superior Inspiration             | TBD      |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20)
 
