@@ -68,23 +68,23 @@
 
 ## Class Features & Proficiencies
 
-| Feature          |                                                                                                                                                                                                                     |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Hit Dice         | 1d8 + CON                                                                                                                                                                                                           |
-| Armor PROF       | None                                                                                                                                                                                                                |
-| Weapon PROF      | Simple weapons, Shortswords                                                                                                                                                                                         |
-| Tools (CLASS)    | Cartographer's tools                                                                                                                                                                                                |
-| Instrument (BKG) | Drums/Percussion                                                                                                                                                                                                    |
-| Saving Throws    | STR and DEX (CLASS)                                                                                                                                                                                                 |
-| Skills           | Acrobatics, Insight (CLASS)                                                                                                                                                                                         |
-| Alert (BKG)      | +5 bonus to Initiative<br>Can't be surprised while you are conscious<br>Can't be surprised while you are conscious<br>Other creatures don't gain ADV on ATK rolls against you<br>as a result of being unseen by you |
-| Unarmored DEF    | AC = 10 +DEX +WIS                                                                                                                                                                                                   |
-| Martial Arts     | Unarmed or Monk weapons use DEX for ATK and DMG<br>Use Martial Arts dice for DMG<br>Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK                                                                 |
-| Ki               | Replenish on Long Rest<br>Must spend 30 min meditating                                                                                                                                                              |
-| Flurry of Blows  | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
-| Patient DEF      | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
-| Step of the Wind | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
-| Unarmored MVT    | Unlocked at Level 3<br>Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                             |
+| Feature            |                                                                                                                                                                                                                     |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Hit Dice           | 1d8 + CON                                                                                                                                                                                                           |
+| Armor Proficiency  | None                                                                                                                                                                                                                |
+| Weapon Proficiency | Simple weapons, Shortswords                                                                                                                                                                                         |
+| Tools              | Cartographer's tools (CLASS)                                                                                                                                                                                        |
+| Instrument         | Drums/Percussion (BKG)                                                                                                                                                                                              |
+| Saving Throws      | STR and DEX                                                                                                                                                                                                         |
+| Skills             | Acrobatics, Insight (CLASS)                                                                                                                                                                                         |
+| Alert (BKG)        | +5 bonus to Initiative<br>Can't be surprised while you are conscious<br>Can't be surprised while you are conscious<br>Other creatures don't gain ADV on ATK rolls against you<br>as a result of being unseen by you |
+| Unarmored DEF      | AC = 10 +DEX +WIS                                                                                                                                                                                                   |
+| Martial Arts       | Unarmed or Monk weapons use DEX for ATK and DMG<br>Use Martial Arts dice for DMG<br>Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK                                                                 |
+| Ki                 | Replenish on Long Rest<br>Must spend 30 min meditating                                                                                                                                                              |
+| Flurry of Blows    | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
+| Patient DEF        | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
+| Step of the Wind   | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
+| Unarmored MVT      | Unlocked at Level 3<br>Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                             |
 
 ## 🧬 Race & Background Features
 
@@ -241,28 +241,28 @@ Barvin does not "see" in the traditional sense. He processes information through
 
 ## 📈 Monk Progression Table
 
-| LEVEL | PROF BNS | MARTIAL ARTS | KI POINTS | TECH POINTS | UNARMORED MVT | FEATURES                                | TECHNIQUES                                       |
-| :---- | :------- | :----------- | :-------- | :---------- | :------------ | :-------------------------------------- | :----------------------------------------------- |
-| 1     | +2       | 1d4          | 0         | 0           | +0 ft.        | Unarmored Defense, Martial Arts         | Thunderclap                                      |
-| 2     | +2       | 1d4          | 2         | 0           | +10 ft.       | Ki, Unarmored Movement                  |                                                  |
-| 3     | +2       | 1d4          | 2         | 1           | +10 ft.       | Way of the Open Hand, Deflect Missiles  | Wind Bullet, Concussive Force, Electrifying Dash |
-| 4     | +2       | 1d4          | 3         | 1           | +10 ft.       | ASI, Slow Fall                          |                                                  |
-| 5     | +3       | 1d6          | 3         | 2           | +10 ft.       | Extra Attack, Stunning Strike           | Zephyr Rush                                      |
-| 6     | +3       | 1d6          | 4         | 2           | +15 ft.       | Ki-Empowered Strikes, Wholeness of Body |                                                  |
-| 7     | +3       | 1d6          | 5         | 2           | +15 ft.       | Evasion, Stillness of Mind              |                                                  |
-| 8     | +3       | 1d6          | 6         | 2           | +15 ft.       | ASI                                     |                                                  |
-| 9     | +4       | 1d6          | 7         | 2           | +15 ft.       | Unarmored Mvt Improvement               |                                                  |
-| 10    | +4       | 1d6          | 8         | 2           | +20 ft.       | Purity of Body                          |                                                  |
-| 11    | +4       | 1d8          | 8         | 3           | +20 ft.       | Tranquility                             | Twisting Strike                                  |
-| 12    | +4       | 1d8          | 9         | 3           | +20 ft.       | ASI                                     |                                                  |
-| 13    | +5       | 1d8          | 10        | 3           | +20 ft.       | Tongue of the Sun and Moon              |                                                  |
-| 14    | +5       | 1d8          | 11        | 3           | +25 ft.       | Diamond Soul                            |                                                  |
-| 15    | +5       | 1d8          | 12        | 3           | +25 ft.       | Timeless Body                           |                                                  |
-| 16    | +5       | 1d8          | 13        | 3           | +25 ft.       | ASI                                     |                                                  |
-| 17    | +6       | 1d10         | 13        | 4           | +25 ft.       | Quivering Palm                          | Air Vortex                                       |
-| 18    | +6       | 1d10         | 14        | 4           | +30 ft.       | Empty Body                              |                                                  |
-| 19    | +6       | 1d10         | 15        | 4           | +30 ft.       | ASI                                     |                                                  |
-| 20    | +6       | 1d10         | 16        | 4           | +30 ft.       | Perfect Self                            |                                                  |
+| LVL | PROF<br>BNS | MARTIAL<br>ARTS | KI<br>POINTS | TECH<br>POINTS | UNARMORED<br>MVT | FEATURES                                | TECHNIQUES                                       |
+| :-- | :---------- | :-------------- | :----------- | :------------- | :--------------- | :-------------------------------------- | :----------------------------------------------- |
+| 1   | +2          | 1d4             | 0            | 0              | +0 ft.           | Unarmored Defense, Martial Arts         | Thunderclap                                      |
+| 2   | +2          | 1d4             | 2            | 0              | +10 ft.          | Ki, Unarmored Movement                  |                                                  |
+| 3   | +2          | 1d4             | 2            | 1              | +10 ft.          | Way of the Open Hand, Deflect Missiles  | Wind Bullet, Concussive Force, Electrifying Dash |
+| 4   | +2          | 1d4             | 3            | 1              | +10 ft.          | ASI, Slow Fall                          |                                                  |
+| 5   | +3          | 1d6             | 3            | 2              | +10 ft.          | Extra Attack, Stunning Strike           | Zephyr Rush                                      |
+| 6   | +3          | 1d6             | 4            | 2              | +15 ft.          | Ki-Empowered Strikes, Wholeness of Body |                                                  |
+| 7   | +3          | 1d6             | 5            | 2              | +15 ft.          | Evasion, Stillness of Mind              |                                                  |
+| 8   | +3          | 1d6             | 6            | 2              | +15 ft.          | ASI                                     |                                                  |
+| 9   | +4          | 1d6             | 7            | 2              | +15 ft.          | Unarmored Mvt Improvement               |                                                  |
+| 10  | +4          | 1d6             | 8            | 2              | +20 ft.          | Purity of Body                          |                                                  |
+| 11  | +4          | 1d8             | 8            | 3              | +20 ft.          | Tranquility                             | Twisting Strike                                  |
+| 12  | +4          | 1d8             | 9            | 3              | +20 ft.          | ASI                                     |                                                  |
+| 13  | +5          | 1d8             | 10           | 3              | +20 ft.          | Tongue of the Sun and Moon              |                                                  |
+| 14  | +5          | 1d8             | 11           | 3              | +25 ft.          | Diamond Soul                            |                                                  |
+| 15  | +5          | 1d8             | 12           | 3              | +25 ft.          | Timeless Body                           |                                                  |
+| 16  | +5          | 1d8             | 13           | 3              | +25 ft.          | ASI                                     |                                                  |
+| 17  | +6          | 1d10            | 13           | 4              | +25 ft.          | Quivering Palm                          | Air Vortex                                       |
+| 18  | +6          | 1d10            | 14           | 4              | +30 ft.          | Empty Body                              |                                                  |
+| 19  | +6          | 1d10            | 15           | 4              | +30 ft.          | ASI                                     |                                                  |
+| 20  | +6          | 1d10            | 16           | 4              | +30 ft.          | Perfect Self                            |                                                  |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20) _(Preliminary)_
 

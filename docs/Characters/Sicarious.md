@@ -63,23 +63,21 @@ insert image
 
 ## Class Features & Proficiencies
 
-| Feature            |                                                                                                                                                                                                      |
-| :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Dice           | 1d8 + CON                                                                                                                                                                                            |
-| Armor Proficiency  | Light Armor                                                                                                                                                                                          |
-| Weapon Proficiency | Simple Weapons, Hand Crossbows, Longswords,<br>Rapiers, Shortswords                                                                                                                                  |
-|                    |                                                                                                                                                                                                      |
-| Tools              | Thieves' Tools                                                                                                                                                                                       |
-| Saving Throws      | DEX and INT (CLASS)                                                                                                                                                                                  |
-| Skills             | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                        |
-|                    |                                                                                                                                                                                                      |
-| Crossbow Expert    | Ignore loading property with proficient crossbows<br>No disadvantage on being within 5 ft. of enemy<br>On ATK, get a Bonus Action ATK with Hand Crossbow                                             |
-| Expertise          | Pick 2 Skills to double PROF bonus                                                                                                                                                                   |
-| Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV<br>Don't need ADV if ally is within 5 ft. of enemy<br>Cannot have disadvantage; enemy must not be incapacitated<br>Bonus DMG will scale with level |
-| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>                                                                                           |
-|                    | secret signs and symbols                                                                                                                                                                             |
-| Cunning Action     | Unlocked at Level 2                                                                                                                                                                                  |
-| Roguish Archetype  | Unlocked at Level 3                                                                                                                                                                                  |
+| Feature            |                                                                                                                                                                                                              |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hit Dice           | 1d8 + CON                                                                                                                                                                                                    |
+| Armor Proficiency  | Light Armor                                                                                                                                                                                                  |
+| Weapon Proficiency | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, <br>or Shortswords                                                                                                                                   |
+| Tools              | Thieves' Tools                                                                                                                                                                                               |
+| Saving Throws      | DEX and INT (CLASS)                                                                                                                                                                                          |
+| Skills             | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                                |
+| Crossbow Expert    | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
+| Expertise          | Pick 2 Skills to double PROF bonus                                                                                                                                                                           |
+| Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
+| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>                                                                                                   |
+|                    | secret signs and symbols.                                                                                                                                                                                    |
+| Cunning Action     | Unlocked at Level 2                                                                                                                                                                                          |
+| Roguish Archetype  | Unlocked at Level 3                                                                                                                                                                                          |
 
 ## 🧬 Race & Background Features
 
@@ -146,28 +144,28 @@ _Note: Sicarious would like to remind you that 'Secrets are for Sale'._
 
 _(Data currently being archived by the Shadow Syndicate)_
 
-| LEVEL | PROF BNS | SNEAK ATTACK | FEATURES                               | ELEMANCY |
-| :---- | :------- | :----------- | :------------------------------------- | :------- |
-| 1     | +2       | 1d6          | Expertise, Sneak Attack, Thieves' Cant | ??       |
-| 2     | +2       | 1d6          | Cunning Action                         | ??       |
-| 3     | +2       | 2d6          | Roguish Archetype                      | ??       |
-| 4     | +2       | 2d6          | ASI                                    | ??       |
-| 5     | +3       | 3d6          | Uncanny Dodge                          | ??       |
-| 6     | +3       | 3d6          | Expertise                              | ??       |
-| 7     | +3       | 4d6          | Evasion                                | ??       |
-| 8     | +3       | 4d6          | ASI                                    | ??       |
-| 9     | +4       | 5d6          | Roguish Archetype feature              | ??       |
-| 10    | +4       | 5d6          | ASI                                    | ??       |
-| 11    | +4       | 6d6          | Reliable Talent                        | ??       |
-| 12    | +4       | 6d6          | ASI                                    | ??       |
-| 13    | +5       | 7d6          | Roguish Archetype feature              | ??       |
-| 14    | +5       | 7d6          | Blindsense                             | ??       |
-| 15    | +5       | 8d6          | Slippery Mind                          | ??       |
-| 16    | +5       | 8d6          | ASI                                    | ??       |
-| 17    | +6       | 9d6          | Roguish Archetype feature              | ??       |
-| 18    | +6       | 9d6          | Elusive                                | ??       |
-| 19    | +6       | 10d6         | ASI                                    | ??       |
-| 20    | +6       | 10d6         | Stroke of Luck                         | ??       |
+| LVL | PROF<br>BNS | SNEAK<br>ATTACK | FEATURES                               | ELEMANCY |
+| :-- | :---------- | :-------------- | :------------------------------------- | :------- |
+| 1   | +2          | 1d6             | Expertise, Sneak Attack, Thieves' Cant | ??       |
+| 2   | +2          | 1d6             | Cunning Action                         | ??       |
+| 3   | +2          | 2d6             | Roguish Archetype                      | ??       |
+| 4   | +2          | 2d6             | ASI                                    | ??       |
+| 5   | +3          | 3d6             | Uncanny Dodge                          | ??       |
+| 6   | +3          | 3d6             | Expertise                              | ??       |
+| 7   | +3          | 4d6             | Evasion                                | ??       |
+| 8   | +3          | 4d6             | ASI                                    | ??       |
+| 9   | +4          | 5d6             | Roguish Archetype feature              | ??       |
+| 10  | +4          | 5d6             | ASI                                    | ??       |
+| 11  | +4          | 6d6             | Reliable Talent                        | ??       |
+| 12  | +4          | 6d6             | ASI                                    | ??       |
+| 13  | +5          | 7d6             | Roguish Archetype feature              | ??       |
+| 14  | +5          | 7d6             | Blindsense                             | ??       |
+| 15  | +5          | 8d6             | Slippery Mind                          | ??       |
+| 16  | +5          | 8d6             | ASI                                    | ??       |
+| 17  | +6          | 9d6             | Roguish Archetype feature              | ??       |
+| 18  | +6          | 9d6             | Elusive                                | ??       |
+| 19  | +6          | 10d6            | ASI                                    | ??       |
+| 20  | +6          | 10d6            | Stroke of Luck                         | ??       |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20)
 
