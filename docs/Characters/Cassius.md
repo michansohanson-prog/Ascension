@@ -15,61 +15,50 @@
 
 ### Skills
 
-| Skill                     | Bonus   |
-| :------------------------ | :------ |
-| **Acrobatics** (Dex)      | Pending |
-| **Animal Handling** (Wis) | Pending |
-| **Arcana** (Int)          | Pending |
-| **Athletics** (Str)       | Pending |
-| **Deception** (Cha)       | Pending |
-| **History** (Int)         | Pending |
-| **Insight** (Wis)         | Pending |
-| **Intimidation** (Cha)    | Pending |
-| **Investigation** (Int)   | Pending |
-| **Medicine** (Wis)        | Pending |
-| **Nature** (Int)          | Pending |
-| **Perception** (Wis)      | Pending |
-| **Performance** (Cha)     | Pending |
-| **Persuasion** (Cha)      | Pending |
-| **Religion** (Int)        | Pending |
-| **Sleight of Hand** (Dex) | Pending |
-| **Stealth** (Dex)         | Pending |
-| **Survival** (Wis)        | Pending |
-| **Passive Perception**    | Pending |
-| **Passive Insight**       | Pending |
+| Skill                        | Bonus   |
+| :--------------------------- | :------ |
+| **Acrobatics**<br>(DEX)      | Pending |
+| **Animal Handling**<br>(WIS) | Pending |
+| **Arcana**<br>(INT)          | Pending |
+| **Athletics**<br>(STR)       | Pending |
+| **Deception**<br>(CHA)       | Pending |
+| **History**<br>(INT)         | Pending |
+| **Insight**<br>(Wis)         | Pending |
+| **Intimidation**<br>(CHA)    | Pending |
+| **Investigation**<br>(INT)   | Pending |
+| **Medicine**<br>(WIS)        | Pending |
+| **Nature**<br>(INT)          | Pending |
+| **Perception**<br>(WIS)      | Pending |
+| **Performance**<br>(CHA)     | Pending |
+| **Persuasion**<br>(CHA)      | Pending |
+| **Religion**<br>(INT)        | Pending |
+| **Sleight of Hand**<br>(DEX) | Pending |
+| **Stealth**<br>(DEX)         | Pending |
+| **Survival**<br>(WIS)        | Pending |
+| **Passive Perception**       | Pending |
+| **Passive Insight**          | Pending |
 
-| Combat Statistics |         |
-| :---------------- | :------ |
-| Hit Points        | Pending |
-| Armor Class       | Pending |
-| Initiative        | Pending |
-| Speed             | 30 ft.  |
-| Spellcasting      | Pending |
-| Technique Points  | Pending |
-| Proficiency Bonus | +2      |
-| Attack Bonus      | Pending |
-| Tech Save DC      | Pending |
-| Spell Save DC     | Pending |
+## Combat Statisctics
+
+| NAME              | DESCRIPTION |
+| :---------------- | :---------- |
+| Hit Points        | Pending     |
+| Armor Class       | Pending     |
+| Initiative        | Pending     |
+| Speed             | 30 ft.      |
+| Spellcasting      | Pending     |
+| Technique Points  | Pending     |
+| Proficiency Bonus | +2          |
+| Attack Bonus      | Pending     |
+| Tech Save DC      | Pending     |
+| Spell Save DC     | Pending     |
 
 ## ⚔️ Action Menu & Techniques
 
-- **Attack Bonus:** Pending
-- **Technique Attack Bonus:** Pending
-- **Technique Save DC:** Pending
-- **Spell Save DC:** Pending
-
-### Divine Intervention (Urusha Style)
-
-### Moral Judgment/Sermons
-
-### Cantrips & Magic
-
-- **Twin God Blessings** (Mechanics pending review)
-
-### Techniques - Ranged
-
-- **Hurun's Light:** Locked
-- **Nuron's Shadow:** Locked
+| Action     | Cost     | Range  | ATK or SAVE | Damage        |
+| :--------- | :------- | ------ | ----------- | ------------- |
+| Melee ATK  | 1 Action | Melee  | +X ATK      | xdx + x (???) |
+| Ranged ATK | 1 Action | xx ft. | +X ATK      | xdx + x (???) |
 
 ## Class Features & Proficiencies
 
@@ -107,6 +96,21 @@
 - Pending
 - Pending
 - Pending
+
+## Actions, Techs, Spells (detail)
+
+### Divine Intervention (Urusha Style)
+
+### Moral Judgment/Sermons
+
+### Cantrips & Magic
+
+- **Twin God Blessings** (Mechanics pending review)
+
+### Techniques - Ranged
+
+- **Hurun's Light:** Locked
+- **Nuron's Shadow:** Locked
 
 ## ✨ Personality & Traits
 

@@ -4,14 +4,14 @@
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value             | Mod | Saving Throw             |
-| :------ | :---------------- | :-- | :----------------------- |
-| **STR** | 10                | +0  | +2<br>_(+2 PROF)_        |
-| **DEX** | 16<br>_(+1 Race)_ | +3  | +5<br>_(+3 DEX +2 PROF)_ |
-| **CON** | 14                | +2  | +2                       |
-| **INT** | 8                 | -1  | -1                       |
-| **WIS** | 16<br>_(+1 Race)_ | +3  | +3                       |
-| **CHA** | 8                 | -1  | -1                       |
+| Stat    | Value             | Modifier | Saving Throw             |
+| :------ | :---------------- | :------- | :----------------------- |
+| **STR** | 10                | +0       | +2<br>_(+2 PROF)_        |
+| **DEX** | 16<br>_(+1 Race)_ | +3       | +5<br>_(+3 DEX +2 PROF)_ |
+| **CON** | 14                | +2       | +2                       |
+| **INT** | 8                 | -1       | -1                       |
+| **WIS** | 16<br>_(+1 Race)_ | +3       | +3                       |
+| **CHA** | 8                 | -1       | -1                       |
 
 ### Skills
 
@@ -19,19 +19,19 @@
 | :--------------------------- | :------------------------------------- |
 | **Acrobatics**<br>(DEX)      | +5<br> _(+3 DEX +2 PROF)_<br>_(CLASS)_ |
 | **Animal Handling**<br>(WIS) | +3                                     |
-| **Arcana**<br>(Int)          | -1                                     |
-| **Athletics**<br(Str)        | +2<br>_(+0 Str + 2 PROF)_<br>_(BKG)_   |
-| **Deception**<br>(Cha)       | -1                                     |
-| **History**<br>(Int)         | -1                                     |
+| **Arcana**<br>(INT)          | -1                                     |
+| **Athletics**<br(STR)        | +2<br>_(+0 Str + 2 PROF)_<br>_(BKG)_   |
+| **Deception**<br>(CHA)       | -1                                     |
+| **History**<br>(INT)         | -1                                     |
 | **Insight**<br>(WIS)         | +5<br>_(+3 WIS + 2 PROF)_<br>_(CLASS)_ |
-| **Intimidation**<br>(Cha)    | -1                                     |
-| **Investigation**<br>(Int)   | -1                                     |
+| **Intimidation**<br>(CHA)    | -1                                     |
+| **Investigation**<br>(INT)   | -1                                     |
 | **Medicine**<br>(WIS)        | +3                                     |
-| **Nature**<br>(Int)          | -1                                     |
+| **Nature**<br>(INT)          | -1                                     |
 | **Perception**<br>(WIS)      | +3                                     |
-| **Performance**<br>(Cha)     | -1                                     |
-| **Persuasion**<br>(Cha)      | -1                                     |
-| **Religion**<br>(Int)        | -1                                     |
+| **Performance**<br>(CHA)     | -1                                     |
+| **Persuasion**<br>(CHA)      | -1                                     |
+| **Religion**<br>(INT)        | -1                                     |
 | **Sleight of Hand**<br>(DEX) | +3                                     |
 | **Stealth**<br>(DEX)         | +5<br>_(+3 DEX + 2 PROF)<br>(RACE)_    |
 | **Survival**<br>(WIS)        | +5<br>_(+3 WIS +2 PROF)<br>(BKG)_      |
