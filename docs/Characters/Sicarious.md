@@ -1,10 +1,8 @@
-# Sicarious - Rogue
+# Sicarious - Rogue (Level 1)
 
 insert image
 
-## 📊 Core Statistics (Level 1)
-
-### Attributes & Modifiers
+## 📊 Attributes & Modifiers
 
 | Stat    | Value | Modifier | Calculation / Source |
 | :------ | :---- | :------- | :------------------- |
@@ -15,7 +13,7 @@ insert image
 | **WIS** | 11    | +0       | Base 10 +1 Racial    |
 | **CHA** | 10    | +0       |                      |
 
-### Saving Throws
+## Saving Throws
 
 | Save             | Bonus        |
 | :--------------- | :----------- |
@@ -26,7 +24,7 @@ insert image
 | **WISDOM**       | +0           |
 | **CHARISMA**     | +0           |
 
-### Skills- !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
+## Skills- !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
 
 | Skill                     | Bonus                       |
 | :------------------------ | :-------------------------- |
@@ -60,35 +58,41 @@ insert image
 | Sneak Attack      | +1d6 Extra Damage          |
 | Technique Points  | 0                          |
 | Proficiency Bonus | +2                         |
+| Attack Bonus      |                            |
+| Tech Save DC      |                            |
+| Spell Sae DC      |                            |
 
-### Class Features & Proficiencies
+## Class Features & Proficiencies
 
-- **Hit Dice:** 1d8 per rogue level (+CON at level-up)
-- **Armor:** Light Armor
-- **Weapons:** Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
-- **Tools:** Thieves' tools
-- **Saving Throws:** DEX and INT
-- **Skills:**
-  - Acrobatics
-  - Sleight of Hand
-  - Stealth
-  - Investigation
-- **Expertise:** - UNDECIDED!!!
-  - Choose 2 skill proficiencies (or one skill proficiency and proficiency with thieves' tools) and Double the Proficiency bonus. At Level 6, choose two more.
-- **Thieves' Cant:**
-  - Super secret thieves' language. Takes 4x longer to communiate in this cant. You also understand the secret signs and symbols.
-- **Cunning Action:** (UNLOCKED AT LEVEL 2)
-- **Roguish Archetype:** (UNLOCKED AT LEVEL 3)
-
-### Crossbow Expert (Feat)
-
-- You ignore the loading property of crossbows with which you are proficient.
-- Being within 5 feet of hostile creature doesn't impose disadvantage on your ranged attack rolls.
-- When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
+| Feature            |                                                            |
+| :----------------- | :--------------------------------------------------------- |
+| Hit Dice           | 1d8 + CON                                                  |
+| Armor Proficiency  | Light Armor                                                |
+| Weapon Proficiency | Simple Weapons, Hand Crossbows, Longswords,                |
+|                    | Rapiers, Shortswords                                       |
+| Tools              | Thieves' Tools                                             |
+| Saving Throws      | DEX and INT (CLASS)                                        |
+| Skills             | Acrobatics, Sleight of Hand                                |
+|                    | Stealth, Investigation (CLASS)                             |
+| Crossbow Expert    | Ignore loading property proficient crossbows               |
+|                    | No disadvantage on being within 5 ft. of enemy             |
+|                    | On attack, get a Bonus Action attack with Hand Crossbow    |
+| Expertise          | Pick 2 Skills to double PROF bonus                         |
+| Sneak Attack       | Once per turn, deal extra 1d6 Damage if you have advantage |
+|                    | Don't need advantage if ally is within 5 ft. of enemy      |
+|                    | Cannot have disadvantage; enemy must not be incapacitated  |
+|                    | Bonus Damage will scale with level                         |
+| Thieves' Cant      | Super secret thieves' language takes 4x longer to          |
+|                    | communicate in this cant. You also understand the          |
+|                    | secret signs and symbols                                   |
+| Cunning Action     | Unlocked at Level 2                                        |
+| Roguish Archetype  | Unlocked at Level 3                                        |
 
 ## 🧬 Race & Background Features
 
 ### Wood Elf
+
+### Background (NEED TO DECIDE)
 
 - **ASI:**
   - +2 DEX (Elf)
@@ -102,11 +106,15 @@ insert image
 - **Trance:** Meditate for 4 hours = Long Rest (Elf)
 - **Languages:** Common and Elvish (Elf)
 
-### Gear (NEED TO DECIDE ON BACKGROUND AND WEAPONS ETC)
+## Gear (NEED TO DECIDE ON BACKGROUND AND WEAPONS ETC)
 
-- **Thieves' Tools**
-
-### Background (NEED TO DECIDE)
+- Rapier or Shortsword
+- Shortbow and Quiver of 20 arros OR Shortsword
+- Crossbow/Handbow?
+  -Burglar's Pack/Dungeoneer's Pack/Explorer's Pack
+- Leather Armor
+- Twin Daggers
+- Thieves' Tools
 
 ## ⚔️ Action Menu & Techniques
 

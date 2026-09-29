@@ -1,10 +1,8 @@
-# Barvin Vox - Monk
+# Barvin Vox - Monk (Level 1)
 
 ![Barvin Stats](./Barvin.webp)
 
-## 📊 Core Statistics (Level 1)
-
-## Attributes, Modifiers, and Saving Throws
+## 📊 Attributes, Modifiers, and Saving Throws
 
 | Stat    | Value        | Modifier | Saving Throw        |
 | :------ | :----------- | :------- | :------------------ |
@@ -105,7 +103,7 @@
 - **Tool Proficiencies:** One musical instrument: **_Drums/Percussion_**.
 - **Languages:** One extra language of choice. **_Draconic_**
 
-### Gear
+## Gear
 
 - Quarterstaff (Class)
 - Explorer's Pack (Class)
