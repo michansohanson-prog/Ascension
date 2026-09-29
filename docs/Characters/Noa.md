@@ -1,42 +1,110 @@
-# Noa
+# Noa - Wizard (Level 1)
 
 insert image
 
----
+## 📊 Attributes, Modifiers, & Saving Throws
 
-## 📊 Core Statistics (Level 1)
+| Stat    | Value     | Modifier | Saving Throw |
+| :------ | :-------- | :------- | :----------- |
+| **STR** | [Pending] | [TBD]    | [TBD]        |
+| **DEX** | [Pending] | [TBD]    | [TBD]        |
+| **CON** | [Pending] | [TBD]    | [TBD]        |
+| **INT** | [Pending] | [TBD]    | [TBD]        |
+| **WIS** | [Pending] | [TBD]    | [TBD]        |
+| **CHA** | [Pending] | [TBD]    | [TBD]        |
 
-### Attributes & Modifiers
+### Skills - !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
 
-| Stat    | Value     | Modifier | Calculation / Source           |
-| :------ | :-------- | :------- | :----------------------------- |
-| **STR** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **DEX** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CON** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **INT** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **WIS** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CHA** | [Pending] | [TBD]    | To be determined by the Oracle |
+| Skill                     | Bonus     |
+| :------------------------ | :-------- |
+| **Acrobatics** (Dex)      | [Pending] |
+| **Animal Handling** (Wis) | [Pending] |
+| **Arcana** (Int)          | [Pending] |
+| **Athletics** (Str)       | [Pending] |
+| **Deception** (Cha)       | [Pending] |
+| **History** (Int)         | [Pending] |
+| **Insight** (Wis)         | [Pending] |
+| **Intimidation** (Cha)    | [Pending] |
+| **Investigation** (Int)   | [Pending] |
+| **Medicine** (Wis)        | [Pending] |
+| **Nature** (Int)          | [Pending] |
+| **Perception** (Wis)      | [Pending] |
+| **Performance** (Cha)     | [Pending] |
+| **Persuasion** (Cha)      | [Pending] |
+| **Religion** (Int)        | [Pending] |
+| **Sleight of Hand** (Dex) | [Pending] |
+| **Stealth** (Dex)         | [Pending] |
+| **Survival** (Wis)        | [Pending] |
+| **Passive Perception**    | [Pending] |
+| **Passive Insight**       | [Pending] |
 
-### Combat Statistics
+| Combat Statistics |           |
+| :---------------- | :-------- |
+| Hit Points        | [Pending] |
+| Armor Class       | [Pending] |
+| Initiative        | [Pending] |
+| Speed             | 30 ft.    |
+| Spellcasting      | [Pending] |
+| Technique Points  | [Pending] |
+| Proficiency Bonus | +2        |
+| Attack Bonus      | [Pending] |
+| Tech Save DC      | [Pending] |
+| Spell Save DC     | [Pending] |
 
-- **Armor Class:** [Pending]
-- **Hit Points:** [Pending]
-- **Speed:** 30 ft.
-- **Initiative:** [Pending]
+## ⚔️ Action Menu & Techniques
 
-### Saving Throws & Skills
+- **Attack Bonus:** [Pending]
+- **Technique Attack Bonus:** [Pending]
+- **Technique Save DC:** [Pending]
+- **Spell Save DC:** [Pending]
 
-| Save    | Bonus | Skill          | Bonus     |
-| :------ | :---- | :------------- | :-------- |
-| **STR** | [TBD] | **Acrobatics** | [Pending] |
-| **DEX** | [TBD] | **Athletics**  | [Pending] |
-| **CON** | [TBD] | **Insight**    | [Pending] |
-| **INT** | [TBD] | **Stealth**    | [Pending] |
-| **WIS** | [TBD] | **Survival**   | [Pending] |
+### Spells / Melee Attack
 
-> **Passives:** Passive Perception: [Pending] | Passive Insight: [Pending]
+### Ranged Magic
 
----
+### Cantrips & Magic
+
+- [Pending]: [Awaiting mechanical definition]
+
+### Techniques - Ranged
+
+- [Pending]: [Locked]
+- [Pending]: [Locked]
+
+## Class Features & Proficiencies
+
+| Feature            |                                               |
+| :----------------- | :-------------------------------------------- |
+| Hit Dice           | 1d6 + CON                                     |
+| Armor Proficiency  | None                                          |
+| Weapon Proficiency | Daggers, Darts, Slings, Quarterstaffs, Swords |
+| Tools              | [Pending]                                     |
+| Saving Throws      | [Pending]                                     |
+| Skills             | Arcana, History, Investigation                |
+|                    | Perception (CLASS)                            |
+| Spellcasting       | Wizard Spells                                 |
+| Arcane Recovery    | Unlocked at Level 2                           |
+
+## 🧬 Race & Background Features
+
+### [Race]
+
+### Mysterious (Background)
+
+- **ASI:** [Pending]
+- **[Feature]:** [Pending]
+- **[Feature]:** [Pending]
+- **[Feature]:** [Pending]
+- **Sensory Mechanics:** Perceives magical ley lines and "echoes" of deleted history.
+
+## Gear (NEED TO DECIDE ON WEAPONS ETC)
+
+- Spellbook / Component Pouch
+- [Pending]
+- [Pending]
+- [Pending]
+- [Pending]
+- [Pending]
 
 ## ✨ Personality & Traits
 
@@ -56,56 +124,34 @@ Noa is known for her "no questions" policy. She moves through the world as an in
 
 _Current Status: Noa's history was likely deleted by a very grumpy wizard._
 
-## ⚔️ Action Menu & Techniques
-
-**Technique Attack Bonus:** [Pending] | **Technique Save DC:** [Pending]
-
-### Core Skills
-
-- **A[Pending]**
-- **[Pending]**
-
-### Cantrips & Magic
-
-- **[Pending]:** [Awaiting mechanical definition]
-
-### Techniques - Ranged
-
-- **[Pending]:** [Locked]
-- **[Pending]:** [Locked]
-
----
-
-## 🧬 Race & Background Features
-
-### WIZARD
-
-- **[Pending]:** [Pending]
-- **[Pending]:** [Pending]
-
-### MYSTERIOUS (Background)
-
-- **[Pending]:** [Pending]
-- **[Pending]:** [Pending]
-
----
-
-## 👁️ Sensory Mechanics
-
-_Noa perceives magical ley lines and "echoes" of deleted history._
-
----
-
 ## 📈 Progression & End-Game Stats (PRELIMINARY)
 
-### KI & TECHNIQUE POINT PROGRESSION TABLE
+### WIZARD PROGRESSION TABLE
 
 _(Data currently being archived by the Arcane Archive)_
 
-| LEVEL | BASE KI | KI LOST | FINAL KI | TECH PTS | TECHNIQUES KNOWN |
-| :---- | :------ | :------ | :------- | :------- | :--------------- |
-| 1     | 0       | 0       | 0        | 0        | 0                |
-| ...   | ...     | ...     | ...      | ...      | ...              |
+| LEVEL | PROF BNS | SPELL LVL | FEATURES                      | ELEMANCY |
+| :---- | :------- | :-------- | :---------------------------- | :------- |
+| 1     | +2       | -         | Spellcasting, Arcane Recovery | [TBD]    |
+| 2     | +2       | 1         | —                             | [TBD]    |
+| 3     | +2       | 2         | Subclass Feature              | [TBD]    |
+| 4     | +2       | 2         | Ability Score Improvement     | [TBD]    |
+| 5     | +3       | 3         | —                             | [TBD]    |
+| 6     | +3       | 3         | —                             | [TBD]    |
+| 7     | +3       | 4         | —                             | [TBD]    |
+| 8     | +3       | 4         | Ability Score Improvement     | [TBD]    |
+| 9     | +4       | 5         | —                             | [TBD]    |
+| 10    | +4       | 5         | —                             | [TBD]    |
+| 11    | +4       | 6         | —                             | [TBD]    |
+| 12    | +4       | 6         | Ability Score Improvement     | [TBD]    |
+| 13    | +5       | 7         | —                             | [TBD]    |
+| 14    | +5       | 8         | —                             | [TBD]    |
+| 15    | +5       | 9         | —                             | [TBD]    |
+| 16    | +5       | 9         | Ability Score Improvement     | [TBD]    |
+| 17    | +6       | 10        | —                             | [TBD]    |
+| 18    | +6       | 10        | —                             | [TBD]    |
+| 19    | +6       | 11        | Ability Score Improvement     | [TBD]    |
+| 20    | +6       | 12        | —                             | [TBD]    |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20)
 

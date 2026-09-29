@@ -2,33 +2,22 @@
 
 insert image
 
-## 📊 Attributes & Modifiers
+## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value | Modifier | Calculation / Source |
-| :------ | :---- | :------- | :------------------- |
-| **STR** | 8     | -1       |                      |
-| **DEX** | 16    | +3       | Base 14 +2 Racial    |
-| **CON** | 14    | +2       |                      |
-| **INT** | 15    | +2       |                      |
-| **WIS** | 11    | +0       | Base 10 +1 Racial    |
-| **CHA** | 10    | +0       |                      |
+| Stat    | Value        | Modifier | Saving Throw |
+| :------ | :----------- | :------- | :----------- |
+| **STR** | 8            | -1       | -1           |
+| **DEX** | 16 (+2 RACE) | +3       | +5 (+2 PROF) |
+| **CON** | 14           | +2       | +2           |
+| **INT** | 15           | +2       | +4 (+2 PROF) |
+| **WIS** | 11 (+1 RACE) | +0       | +0           |
+| **CHA** | 10           | +0       | +0           |
 
-## Saving Throws
-
-| Save             | Bonus        |
-| :--------------- | :----------- |
-| **STRENGTH**     | -1           |
-| **DEXTERITY**    | +5 (+2 Prof) |
-| **CONSTITUTION** | +2           |
-| **INTELLIGENCE** | +4 (+2 Prof) |
-| **WISDOM**       | +0           |
-| **CHARISMA**     | +0           |
-
-## Skills- !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
+### Skills - !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
 
 | Skill                     | Bonus                       |
 | :------------------------ | :-------------------------- |
-| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [Class]) |
+| **Acrobatics** (Dex)      | +5 (+3 Dex +2 Prof [CLASS]) |
 | **Animal Handling** (Wis) | +0                          |
 | **Arcana** (Int)          | +2                          |
 | **Athletics** (Str)       | -1                          |
@@ -36,85 +25,31 @@ insert image
 | **History** (Int)         | +2                          |
 | **Insight** (Wis)         | +0                          |
 | **Intimidation** (Cha)    | +0                          |
-| **Investigation** (Int)   | +4 (+2 Int +2 Prof [Class]) |
+| **Investigation** (Int)   | +4 (+2 Int +2 Prof [CLASS]) |
 | **Medicine** (Wis)        | +0                          |
 | **Nature** (Int)          | +2                          |
-| **Perception** (Wis)      | +2 (+0 Wis +2 Prof [Race])  |
+| **Perception** (Wis)      | +2 (+0 Wis +2 Prof [RACE])  |
 | **Performance** (Cha)     | +0                          |
 | **Persuasion** (Cha)      | +0                          |
 | **Religion** (Int)        | +2                          |
-| **Sleight of Hand** (Dex) | +5 (+3 Dex +2 Prof[Class])  |
-| **Stealth** (Dex)         | +5 (+3 Dex +2 Prof [Class]) |
+| **Sleight of Hand** (Dex) | +5 (+3 Dex +2 Prof[CLASS])  |
+| **Stealth** (Dex)         | +5 (+3 Dex +2 Prof [CLASS]) |
 | **Survival** (Wis)        | +0                          |
-
-**Passives:** Passive Perception: 10 (10 Base +0 Wis Mod) | Passive Insight: 12 (10 Base +0 Wis Mod +2 Prof)
+| **Passive Perception**    | 10 (10 +0 WIS)              |
+| **Passive Insight**       | 12 (10 +0 WIS +2 PROF)      |
 
 | Combat Statistics |                            |
 | :---------------- | :------------------------- |
-| Hit Points        | 10 (1d8 base +2 CON)       |
+| Hit Points        | 10 (1d8 BASE +2 CON)       |
 | Armor Class       | 15 (12 Light Armor +3 DEX) |
 | Initiative        | +3 (+3 DEX)                |
 | Speed             | 35 ft. (Fleet of Foot)     |
-| Sneak Attack      | +1d6 Extra Damage          |
+| Sneak Attack      | +1d6 Extra DMG             |
 | Technique Points  | 0                          |
 | Proficiency Bonus | +2                         |
-| Attack Bonus      |                            |
-| Tech Save DC      |                            |
-| Spell Sae DC      |                            |
-
-## Class Features & Proficiencies
-
-| Feature            |                                                            |
-| :----------------- | :--------------------------------------------------------- |
-| Hit Dice           | 1d8 + CON                                                  |
-| Armor Proficiency  | Light Armor                                                |
-| Weapon Proficiency | Simple Weapons, Hand Crossbows, Longswords,                |
-|                    | Rapiers, Shortswords                                       |
-| Tools              | Thieves' Tools                                             |
-| Saving Throws      | DEX and INT (CLASS)                                        |
-| Skills             | Acrobatics, Sleight of Hand                                |
-|                    | Stealth, Investigation (CLASS)                             |
-| Crossbow Expert    | Ignore loading property proficient crossbows               |
-|                    | No disadvantage on being within 5 ft. of enemy             |
-|                    | On attack, get a Bonus Action attack with Hand Crossbow    |
-| Expertise          | Pick 2 Skills to double PROF bonus                         |
-| Sneak Attack       | Once per turn, deal extra 1d6 Damage if you have advantage |
-|                    | Don't need advantage if ally is within 5 ft. of enemy      |
-|                    | Cannot have disadvantage; enemy must not be incapacitated  |
-|                    | Bonus Damage will scale with level                         |
-| Thieves' Cant      | Super secret thieves' language takes 4x longer to          |
-|                    | communicate in this cant. You also understand the          |
-|                    | secret signs and symbols                                   |
-| Cunning Action     | Unlocked at Level 2                                        |
-| Roguish Archetype  | Unlocked at Level 3                                        |
-
-## 🧬 Race & Background Features
-
-### Wood Elf
-
-### Background (NEED TO DECIDE)
-
-- **ASI:**
-  - +2 DEX (Elf)
-  - +1 WIS (Wood Elf)
-- **Fleet of Foot:** Speed = 35 ft. (Wood Elf)
-- **Keen Senses:** Proficiency in Perception skill. (Elf)
-- **Elf Weapon Training:** Proficiency with Longsword, Shortsword, Shortbow, and Longbow (Wood Elf)
-- **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. (Elf)
-- **Fey Ancestry:** - Advantage on saving throws against being Charmed - Cannot be put to Sleep by magic. (Elf)
-- **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-- **Trance:** Meditate for 4 hours = Long Rest (Elf)
-- **Languages:** Common and Elvish (Elf)
-
-## Gear (NEED TO DECIDE ON BACKGROUND AND WEAPONS ETC)
-
-- Rapier or Shortsword
-- Shortbow and Quiver of 20 arros OR Shortsword
-- Crossbow/Handbow?
-  -Burglar's Pack/Dungeoneer's Pack/Explorer's Pack
-- Leather Armor
-- Twin Daggers
-- Thieves' Tools
+| Attack Bonus      | +5 (+3 DEX +2 PROF)        |
+| Tech Save DC      | 13 (8 +3 DEX +2 PROF)      |
+| Spell Save DC     | 10 (8 +0 WIS +2 PROF)      |
 
 ## ⚔️ Action Menu & Techniques
 
@@ -134,6 +69,60 @@ insert image
 ### Cantrips & Magic
 
 ### Techniques
+
+## Class Features & Proficiencies
+
+| Feature            |                                                           |
+| :----------------- | :-------------------------------------------------------- |
+| Hit Dice           | 1d8 + CON                                                 |
+| Armor Proficiency  | Light Armor                                               |
+| Weapon Proficiency | Simple Weapons, Hand Crossbows, Longswords,               |
+|                    | Rapiers, Shortswords                                      |
+| Tools              | Thieves' Tools                                            |
+| Saving Throws      | DEX and INT (CLASS)                                       |
+| Skills             | Acrobatics, Sleight of Hand                               |
+|                    | Stealth, Investigation (CLASS)                            |
+| Crossbow Expert    | Ignore loading property with proficient crossbows         |
+|                    | No disadvantage on being within 5 ft. of enemy            |
+|                    | On ATK, get a Bonus Action ATK with Hand Crossbow         |
+| Expertise          | Pick 2 Skills to double PROF bonus                        |
+| Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV         |
+|                    | Don't need ADV if ally is within 5 ft. of enemy           |
+|                    | Cannot have disadvantage; enemy must not be incapacitated |
+|                    | Bonus DMG will scale with level                           |
+| Thieves' Cant      | Super secret thieves' language takes 4x longer to         |
+|                    | communicate in this cant. You also understand the         |
+|                    | secret signs and symbols                                  |
+| Cunning Action     | Unlocked at Level 2                                       |
+| Roguish Archetype  | Unlocked at Level 3                                       |
+
+## 🧬 Race & Background Features
+
+### Wood Elf
+
+### Background (NEED TO DECIDE)
+
+- **ASI:**
+  - +2 DEX (Elf)
+  - +1 WIS (Wood Elf)
+- **Fleet of Foot:** Speed = 35 ft. (Wood Elf)
+- **Keen Senses:** PROF in Perception skill. (Elf)
+- **Elf Weapon Training:** PROF with Longsword, Shortsword, Shortbow, and Longbow (Wood Elf)
+- **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. (Elf)
+- **Fey Ancestry:** - ADV on saving throws against being Charmed - Cannot be put to Sleep by magic. (Elf)
+- **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+- **Trance:** Meditate for 4 hours = Long Rest (Elf)
+- **Languages:** **_Common_** and **_Elvish_** (Elf)
+
+## Gear (NEED TO DECIDE ON BACKGROUND AND WEAPONS ETC)
+
+- Rapier or Shortsword
+- Shortbow and Quiver of 20 arros OR Shortsword
+- Crossbow/Handbow?
+  -Burglar's Pack/Dungeoneer's Pack/Explorer's Pack
+- Leather Armor
+- Twin Daggers
+- Thieves' Tools
 
 ## ✨ Personality & Traits
 

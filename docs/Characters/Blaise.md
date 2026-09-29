@@ -1,43 +1,110 @@
-# Blaise de La Mer
+# Blaise de La Mer - Bard (Sword Bard) (Level 1)
 
 insert image
 
----
+## 📊 Attributes, Modifiers, & Saving Throws
 
-## 📊 Core Statistics (Level 1)
+| Stat    | Value     | Modifier | Saving Throw |
+| :------ | :-------- | :------- | :----------- |
+| **STR** | [Pending] | [TBD]    | [TBD]        |
+| **DEX** | [Pending] | [TBD]    | [TBD]        |
+| **CON** | [Pending] | [TBD]    | [TBD]        |
+| **INT** | [Pending] | [TBD]    | [TBD]        |
+| **WIS** | [Pending] | [TBD]    | [TBD]        |
+| **CHA** | [Pending] | [TBD]    | [TBD]        |
 
-### Attributes & Modifiers
+### Skills
 
-| Stat    | Value     | Modifier | Calculation / Source           |
-| :------ | :-------- | :------- | :----------------------------- |
-| **STR** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **DEX** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CON** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **INT** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **WIS** | [Pending] | [TBD]    | To be determined by the Oracle |
-| **CHA** | [Pending] | [TBD]    | To be determined by the Oracle |
+| Skill                     | Bonus     |
+| :------------------------ | :-------- |
+| **Acrobatics** (Dex)      | [Pending] |
+| **Animal Handling** (Wis) | [Pending] |
+| **Arcana** (Int)          | [Pending] |
+| **Athletics** (Str)       | [Pending] |
+| **Deception** (Cha)       | [Pending] |
+| **History** (Int)         | [Pending] |
+| **Insight** (Wis)         | [Pending] |
+| **Intimidation** (Cha)    | [Pending] |
+| **Investigation** (Int)   | [Pending] |
+| **Medicine** (Wis)        | [Pending] |
+| **Nature** (Int)          | [Pending] |
+| **Perception** (Wis)      | [Pending] |
+| **Performance** (Cha)     | [Pending] |
+| **Persuasion** (Cha)      | [Pending] |
+| **Religion** (Int)        | [Pending] |
+| **Sleight of Hand** (Dex) | [Pending] |
+| **Stealth** (Dex)         | [Pending] |
+| **Survival** (Wis)        | [Pending] |
+| **Passive Perception**    | [Pending] |
+| **Passive Insight**       | [Pending] |
 
-### Combat Statistics
+| Combat Statistics |                         |
+| :---------------- | :---------------------- |
+| Hit Points        | [Pending]               |
+| Armor Class       | [Pending]               |
+| Initiative        | [Pending]               |
+| Speed             | 30 ft. (Fly Speed: TBD) |
+| Spellcasting      | [Pending]               |
+| Technique Points  | [Pending]               |
+| Proficiency Bonus | +2                      |
+| Attack Bonus      | [Pending]               |
+| Tech Save DC      | [Pending]               |
+| Spell Save DC     | [Pending]               |
 
-- **Armor Class:** [Pending]
-- **Hit Points:** [Pending]
-- **Speed:** 30 ft. (Aarakocra Fly Speed: TBD)
-- **Initiative:** [Pending]
-- **Proficiency Bonus:** +2
+## ⚔️ Action Menu & Techniques
 
-### Saving Throws & Skills
+- **Attack Bonus:** [Pending]
+- **Technique Attack Bonus:** [Pending]
+- **Technique Save DC:** [Pending]
+- **Spell Save DC:** [Pending]
 
-| Save    | Bonus | Skill           | Bonus     |
-| :------ | :---- | :-------------- | :-------- |
-| **STR** | [TBD] | **Acrobatics**  | [Pending] |
-| **DEX** | [TBD] | **Performance** | [Pending] |
-| **CON** | [TBD] | **Insight**     | [Pending] |
-| **INT** | [TBD] | **History**     | [Pending] |
-| **WIS** | [TBD] | **Survival**    | [Pending] |
+### Sword Bard Maneuvers (Melee)
 
-> **Passives:** Passive Perception: [Pending] | Passive Insight: [Pending]
+### Ranged / Cantrips
 
----
+### Flame-Touched Abilities
+
+- **Flame Flare:** [Locked]
+- **Skyward Strike:** [Locked]
+
+## Class Features & Proficiencies
+
+| Feature            |                                     |
+| :----------------- | :---------------------------------- |
+| Hit Dice           | 1d8 + CON                           |
+| Armor Proficiency  | [Pending]                           |
+| Weapon Proficiency | Simple Weapons, Swords, Shortswords |
+| Tools              | Sailing, Navigator's Tools          |
+| Saving Throws      | [Pending]                           |
+| Skills             | Performance, History, Insight       |
+|                    | Acrobatics, Survival (CLASS)        |
+| Spellcasting       | Bardic Spells                       |
+| Bardic Inspiration | d6 Die                              |
+| Sword Flourish     | Unlocked at Level 3                 |
+| Parry              | Unlocked at Level 5                 |
+| Reckless Attack    | Unlocked at Level 6                 |
+
+## 🧬 Race & Background Features
+
+### Aarakocra
+
+### Pirate (Background)
+
+- **ASI:** [Pending]
+- **Flight Speed:** [Pending] ft. (Aarakocra Flight)
+- **Keen Sight:** Hawk-like instincts for observation and identifying shiny objects.
+- **Maritime Knowledge:** Expertise in Zanzibahar trade routes.
+- **Tool Proficiencies:** Sailing, Navigator's Tools.
+- **Sensory Mechanics:** Utilizes Keen Senses to navigate high altitudes and complex social environments.
+
+## Gear (NEED TO DECIDE ON WEAPONS ETC)
+
+- Sword (Shortsword or similar)
+- Clarinet / Musical Instrument
+- [Pending]
+- [Pending]
+- [Pending]
+- [Pending]
 
 ## ✨ Personality & Traits
 
@@ -57,86 +124,35 @@ Trading his traditional seafaring life for musical performance, Blaise became a 
 
 _Note: Specifics on the flame-touched nature of Blaise's abilities are currently being observed in the field._
 
-## ⚔️ Action Menu & Techniques
+## 📈 Progression & End-Game Stats (PRELIMINARY)
 
-**Technique Attack Bonus:** [Pending] | **Technique Save DC:** [Pending]
+### BARD PROGRESSION TABLE
 
-### Core Skills
+_(Data currently being archived by the Guild of Fire)_
 
-- **Sword Bard Maneuvers** (Primary Combat)
-- **Lute Performance** (Social/Bardic Utility)
+| LEVEL | PROF BNS | SPELL LVL | FEATURES                         | ELEMANCY |
+| :---- | :------- | :-------- | :------------------------------- | :------- |
+| 1     | +2       | -         | Bardic Inspiration, Spellcasting | [TBD]    |
+| 2     | +2       | 1         | Jack of All Trades, Song of Rest | [TBD]    |
+| 3     | +2       | 2         | College of Swords Features       | [TBD]    |
+| 4     | +2       | 2         | Ability Score Improvement        | [TBD]    |
+| 5     | +3       | 3         | Parry                            | [TBD]    |
+| 6     | +3       | 3         | Reckless Attack                  | [TBD]    |
+| 7     | +3       | 4         | —                                | [TBD]    |
+| 8     | +3       | 4         | Ability Score Improvement        | [TBD]    |
+| 9     | +4       | 5         | Song of Rest (d8)                | [TBD]    |
+| 10    | +4       | 5         | Magical Secrets                  | [TBD]    |
+| 11    | +4       | 6         | —                                | [TBD]    |
+| 12    | +4       | 6         | Ability Score Improvement        | [TBD]    |
+| 13    | +5       | 7         | Song of Rest (d10)               | [TBD]    |
+| 14    | +5       | 8         | Magical Secrets                  | [TBD]    |
+| 15    | +5       | 9         | Bardic Inspiration (d12)         | [TBD]    |
+| 16    | +5       | 9         | Ability Score Improvement        | [TBD]    |
+| 17    | +6       | 10        | Song of Rest (d12)               | [TBD]    |
+| 18    | +6       | 10        | Magical Secrets                  | [TBD]    |
+| 19    | +6       | 11        | Ability Score Improvement        | [TBD]    |
+| 20    | +6       | 12        | Superior Inspiration             | [TBD]    |
 
-### Cantrips & Magic
+### VIII. FINAL STAT BLOCK (LEVEL 20)
 
-- **Flame-Touch Spells** (Awaiting mechanical confirmation from the Guild of Fire)
-
-### Techniques - Ranged
-
-- **Skyward Strike:** [Locked]
-- **Flame Flare:** [Locked]
-
----
-
-## 🧬 Race & Background Features
-
-### AARAKOCRA
-
-- **Flight Speed:** [Pending]
-- **Keen Sight:** hawk-like instincts.
-
-### PIRATE (Background)
-
-- **Maritime Knowledge:** Expertise in Zanzibahar trade routes.
-- **Tool Proficiencies:** Sailing, Navigator's Tools.
-
----
-
-## 👁️ Sensory Mechanics
-
-_Blaise utilizes Aarakocra Keen Senses to navigate both high altitudes and social environments._
-
----
-
-## 📈 Progression & Growth Path
-
-| Level | Prof. Bonus | Features                                                              | Cantrips Known | Bardic Insp. Die | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| :---- | :---------- | :-------------------------------------------------------------------- | :------------- | :--------------- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| 1st   | +2          | Spellcasting, Bardic Inspiration (d6)                                 | 2              | **d6**           | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2          | Jack of All Trades, Song of Rest (d6), Magical Inspiration (Optional) | 2              | d6               | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2          | Bard College, Expertise                                               | 2              | **d8**           | 6            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2          | Ability Score Improvement, Bardic Versatility (Optional)              | 3              | d8               | 7            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3          | Bardic Inspiration (d8), Font of Inspiration                          | 3              | **d10**          | 8            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3          | Countercharm, Bard College feature                                    | 3              | d10              | 9            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th   | +3          | —                                                                     | 3              | d10              | 10           | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3          | Ability Score Improvement, Bardic Versatility (Optional)              | 3              | d10              | 11           | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th   | +4          | Song of Rest (d8)                                                     | 3              | **d12**          | 12           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4          | Bardic Inspiration (d10), Expertise, Magical Secrets                  | 4              | d12              | 14           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | +4          | —                                                                     | 4              | d12              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4          | Ability Score Improvement, Bardic Versatility (Optional)              | 4              | d12              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th  | +5          | Song of Rest (d10)                                                    | 4              | d12              | 16           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | +5          | Magical Secrets, Bard College feature                                 | 4              | d12              | 18           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th  | +5          | Bardic Inspiration (d12)                                              | 4              | **d12**          | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5          | Ability Score Improvement, Bardic Versatility (Optional)              | 4              | d12              | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6          | Song of Rest (d12)                                                    | 4              | d12              | 20           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | Magical Secrets                                                       | 4              | d12              | 22           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | Ability Score Improvement, Bardic Versatility (Optional)              | 4              | d12              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | Superior Inspiration                                                  | 4              | d12              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-
----
-
-### 🗡️ College of Swords Features (Unlocks at Level 3)
-
-- **Blade Flourish (Level 3):** When you hit a creature with a sword attack, you can use a bonus action to perform one of the following flourishes:
-  - _Defensive:_ You gain a bonus to your AC equal to your Charisma modifier until the start of your next turn.
-  - _Riposte:_ When an enemy misses you by 5 feet or more, you can use your reaction to make a single melee weapon attack against them.
-  - _Deluxe:_ You deal extra damage to the target equal to your Charisma modifier.
-
-- **Parry (Level 5):** When you are hit by a melee attack, you can use your reaction to add your Proficiency Bonus to your AC for that attack, potentially causing it to miss.
-
-- **Reckless Attack (Level 6):** When you take the Attack action with a sword, you can choose to have advantage on all of your attacks during that turn. If you do, each creature that attacks you until the start of your next turn has advantage on attacks against you.
-
-### Fire stuff
-
-## 🎵 Signature Performances
-
-## 📜 Equipment
+_(To be updated upon completion of the campaign)_
