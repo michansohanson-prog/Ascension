@@ -4,133 +4,113 @@
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value        | Modifier | Saving Throw        |
-| :------ | :----------- | :------- | :------------------ |
-| **STR** | 10           | +0       | +2 (+2 PROF)        |
-| **DEX** | 16 (+1 Race) | +3       | +5 (+3 DEX +2 PROF) |
-| **CON** | 14           | +2       | +2                  |
-| **INT** | 8            | -1       | -1                  |
-| **WIS** | 16 (+1 Race) | +3       | +3                  |
-| **CHA** | 8            | -1       | -1                  |
+| Stat    | Value             | Mod | Saving Throw             |
+| :------ | :---------------- | :-- | :----------------------- |
+| **STR** | 10                | +0  | +2<br>_(+2 PROF)_        |
+| **DEX** | 16<br>_(+1 Race)_ | +3  | +5<br>_(+3 DEX +2 PROF)_ |
+| **CON** | 14                | +2  | +2                       |
+| **INT** | 8                 | -1  | -1                       |
+| **WIS** | 16<br>_(+1 Race)_ | +3  | +3                       |
+| **CHA** | 8                 | -1  | -1                       |
 
 ### Skills
 
-| Skill                     | Bonus                        |
-| :------------------------ | :--------------------------- |
-| **Acrobatics** (DEX)      | +5 (+3 DEX +2 PROF [CLASS])  |
-| **Animal Handling** (WIS) | +3                           |
-| **Arcana** (Int)          | -1                           |
-| **Athletics** (Str)       | +2 (+0 Str + 2 PROF [BKG])   |
-| **Deception** (Cha)       | -1                           |
-| **History** (Int)         | -1                           |
-| **Insight** (WIS)         | +5 (+3 WIS + 2 PROF [CLASS]) |
-| **Intimidation** (Cha)    | -1                           |
-| **Investigation** (Int)   | -1                           |
-| **Medicine** (WIS)        | +3                           |
-| **Nature** (Int)          | -1                           |
-| **Perception** (WIS)      | +3                           |
-| **Performance** (Cha)     | -1                           |
-| **Persuasion** (Cha)      | -1                           |
-| **Religion** (Int)        | -1                           |
-| **Sleight of Hand** (DEX) | +3                           |
-| **Stealth** (DEX)         | +5 (+3 DEX + 2 PROF [RACE])  |
-| **Survival** (WIS)        | +5 (+3 WIS +2 PROF [BKG])    |
-| **Passive Perception**    | 13 (10 +3 WIS)               |
-| **Passive Insight**       | 15 (10 +3 WIS +2 PROF)       |
+| Skill                        | Bonus                                  |
+| :--------------------------- | :------------------------------------- |
+| **Acrobatics**<br>(DEX)      | +5<br> _(+3 DEX +2 PROF)_<br>_(CLASS)_ |
+| **Animal Handling**<br>(WIS) | +3                                     |
+| **Arcana**<br>(Int)          | -1                                     |
+| **Athletics**<br(Str)        | +2<br>_(+0 Str + 2 PROF)_<br>_(BKG)_   |
+| **Deception**<br>(Cha)       | -1                                     |
+| **History**<br>(Int)         | -1                                     |
+| **Insight**<br>(WIS)         | +5<br>_(+3 WIS + 2 PROF)_<br>_(CLASS)_ |
+| **Intimidation**<br>(Cha)    | -1                                     |
+| **Investigation**<br>(Int)   | -1                                     |
+| **Medicine**<br>(WIS)        | +3                                     |
+| **Nature**<br>(Int)          | -1                                     |
+| **Perception**<br>(WIS)      | +3                                     |
+| **Performance**<br>(Cha)     | -1                                     |
+| **Persuasion**<br>(Cha)      | -1                                     |
+| **Religion**<br>(Int)        | -1                                     |
+| **Sleight of Hand**<br>(DEX) | +3                                     |
+| **Stealth**<br>(DEX)         | +5<br>_(+3 DEX + 2 PROF)<br>(RACE)_    |
+| **Survival**<br>(WIS)        | +5<br>_(+3 WIS +2 PROF)<br>(BKG)_      |
+| **Passive Perception**       | 13<br>_(10 +3 WIS)_                    |
+| **Passive Insight**          | 15<br>_(10 +3 WIS +2 PROF)_            |
 
 ## Combat Statistics
 
-| Combat Statistics |                                               |
-| :---------------- | :-------------------------------------------- |
-| Hit Points        | 10 (1d8 BASE +2 CON)                          |
-| Armor Class       | 16 (Unarmored Devense: 10 Base +3 DEX +3 WIS) |
-| Initiative        | +8 (+3 DEX +5 ALERT)                          |
-| Speed             | 30 ft. (+0 Unarmored Movement)                |
-| Martial Arts      | 1d4 DMG                                       |
-| Ki Points         | 0                                             |
-| Technique Points  | 0                                             |
-| Proficiency Bonus | +2                                            |
-| Attack Bonus      | +5 (+3 DEX +2 PROF)                           |
-| Ki Save DC        | 13 (8 +WIS +2 PROF)                           |
-| Tech Save DC      | 13 (8 +3 DEX +2 PROF)                         |
-| Spell Save DC     | 13 (8 +3 DEX +2 PROF)                         |
+| NAME              | DESCRIPTION                                           |
+| :---------------- | :---------------------------------------------------- |
+| Hit Points        | 10<br>_(1d8 BASE +2 CON)_                             |
+| Armor Class       | 16<br>_(Unarmored Defense:<br>10 Base +3 DEX +3 WIS)_ |
+| Initiative        | +8<br>_(+3 DEX +5 ALERT)_                             |
+| Speed             | 30 ft.<br>_(+0 Unarmored Movement)_                   |
+| Martial Arts      | 1d4 DMG                                               |
+| Ki Points         | 0                                                     |
+| Technique Points  | 0                                                     |
+| Proficiency Bonus | +2                                                    |
+| Attack Bonus      | +5 _(+3 DEX +2 PROF)_                                 |
+| Ki Save DC        | 13 _(8 +WIS +2 PROF)_                                 |
+| Tech Save DC      | 13 _(8 +3 DEX +2 PROF)_                               |
+| Spell Save DC     | 13 _(8 +3 DEX +2 PROF)_                               |
 
 ## ⚔️ Action Menu & Techniques
 
-| Action            | Cost               | Range              | ATK or SAVE                | Damage                     |
-| :---------------- | :----------------- | ------------------ | -------------------------- | -------------------------- |
-| Unarmed Strike    | Action or BNS ACT  | Melee              | +5 ATK                     | 1d4 + 3 (DEX)              |
-| Quarterstaff      | Action             | Melee              | +5 ATK                     | 1d6 +3 (DEX)               |
-| Thunderclap       | Action             | 5 ft. Radius       | CON Save                   | 1d6 Thunder                |
-| Wind Bullet       | Action + 1 TECH PT | 120 ft.            | +5 ATK (+1d4)<sup>\*</sup> | 3d12 Piercing              |
-| Concussive Force  | Action + 1 TECH PT | 10 ft.             | CON Save                   | 4d6 Thunder<sup>\*</sup>   |
-| Electrifying Dash | 1 TECH PT          | 5 ft.<sup>\*</sup> | DEX Save                   | 1d8 Lightning<sup>\*</sup> |
+| Action            | Cost                   | Range              | ATK or SAVE                   | Damage                     |
+| :---------------- | :--------------------- | ------------------ | ----------------------------- | -------------------------- |
+| Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)              |
+| Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)               |
+| Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                |
+| Wind Bullet       | Action + <br>1 TECH PT | 120 ft.            | +5 ATK<br>(+1d4)<sup>\*</sup> | 3d12 Piercing              |
+| Concussive Force  | Action + <br>1 TECH PT | 10 ft.             | CON Save                      | 4d6 Thunder<sup>\*</sup>   |
+| Electrifying Dash | 1 TECH PT              | 5 ft.<sup>\*</sup> | DEX Save                      | 1d8 Lightning<sup>\*</sup> |
 
 ## Class Features & Proficiencies
 
-| Feature                 |                                                                 |
-| :---------------------- | :-------------------------------------------------------------- |
-| Hit Dice                | 1d8 + CON                                                       |
-| Armor Proficiency       | None                                                            |
-| Weapon Proficiency      | Simple weapons, Shortswords                                     |
-| Tools (CLASS)           | Cartographer's tools                                            |
-| Instrument (BACKGROUND) | Drums/Percussion                                                |
-| Saving Throws           | STR and DEX (CLASS)                                             |
-| Skills                  | Acrobatics, Insight (CLASS)                                     |
-| Alert (BACKGROUND)      | +5 bonus to Initiative                                          |
-|                         | Can't be surprised while you are conscious                      |
-|                         | Other creatures don't gain ADV on ATK rolls against you         |
-|                         | as a result of being unseen by you                              |
-| Unarmored Defense       | AC = 10 +DEX +WIS                                               |
-| Martial Arts            | Unarmed or Monk weapons use DEX for ATK and DMG                 |
-|                         | Use Martial Arts dice for DMG                                   |
-|                         | Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK |
-| Ki                      | Replenish on Long Rest                                          |
-|                         | Must spend 30 min meditating                                    |
-| Flurry of Blows         | Cost: 1 Ki Point                                                |
-|                         | Immediately after ATK, make two Unarmed Strikes as BNS ACT      |
-|                         | Open Hand unlocks additional effects at lvl 3                   |
-| Patient Defense         | Cost: 1 Ki Point                                                |
-|                         | Take the Dodge action as a BNS ACT this turn                    |
-| Step of the Wind        | Cost: 1 Ki Point                                                |
-|                         | Take the Disengage or Dash action as a BNS ACT this turn        |
-|                         | Jump distance is doubled                                        |
-| Unarmored Movement      | Unlocked at Level 3                                             |
-|                         | Speed increases by 10 feet when Unarmored                       |
-|                         | Additional speed bonus and features as you level up             |
+| Feature          |                                                                                                                                                                                                                     |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Hit Dice         | 1d8 + CON                                                                                                                                                                                                           |
+| Armor PROF       | None                                                                                                                                                                                                                |
+| Weapon PROF      | Simple weapons, Shortswords                                                                                                                                                                                         |
+| Tools (CLASS)    | Cartographer's tools                                                                                                                                                                                                |
+| Instrument (BKG) | Drums/Percussion                                                                                                                                                                                                    |
+| Saving Throws    | STR and DEX (CLASS)                                                                                                                                                                                                 |
+| Skills           | Acrobatics, Insight (CLASS)                                                                                                                                                                                         |
+| Alert (BKG)      | +5 bonus to Initiative<br>Can't be surprised while you are conscious<br>Can't be surprised while you are conscious<br>Other creatures don't gain ADV on ATK rolls against you<br>as a result of being unseen by you |
+| Unarmored DEF    | AC = 10 +DEX +WIS                                                                                                                                                                                                   |
+| Martial Arts     | Unarmed or Monk weapons use DEX for ATK and DMG<br>Use Martial Arts dice for DMG<br>Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK                                                                 |
+| Ki               | Replenish on Long Rest<br>Must spend 30 min meditating                                                                                                                                                              |
+| Flurry of Blows  | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
+| Patient DEF      | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
+| Step of the Wind | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
+| Unarmored MVT    | Unlocked at Level 3<br>Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                             |
 
 ## 🧬 Race & Background Features
 
-### Variant Human
+### Variant Human + Outlander + Wanderer
 
-- **Bonus ASI:** +1 to two ability scores (DEX AND WIS)
-
-- **Bonus Skill Proficiency:** Stealth
-
-### Outlander (Background)
-
-- **Skill Proficiencies:** Athletics, Survival
-- **Feature: Wanderer** (Perfect memory for geography; ability to find food/water easily).
-- **Tool Proficiencies:** One musical instrument: **_Drums/Percussion_**.
-- **Languages:** **_Common_** and **_Draconic_**
+|                 |                                                       |
+| :-------------- | :---------------------------------------------------- |
+| Bonus ASI       | +1 to two AS (DEX + WIS)                              |
+| Bonus Skill     | Stealth                                               |
+| Wanderer Skills | Athletics, Survival                                   |
+| Wanderer Feats  | Perfect Memory for Geography <br> Find Food and Water |
+| Languages       | **_Common_** and **_Draconic_**                       |
 
 ## Gear
 
-- Quarterstaff (CLASS)
-- Explorer's Pack (CLASS)
-  - Backpack
-  - Bedroll
-  - Mess Kit
-  - Tinderbox
-  - Torches x 10
-  - Rations x 10
-  - Waterskin
-  - Rope: 50 ft.
-- Darts x 10 (CLASS)
-- Hunting Trap (BKG)
-- Trophy: a tarnished lute string from home (BKG)
-- Traveler's Clothes (BKG)
-- 20 GP (+10 BKG +10 Explorer's Pack)
+|                    |                                                                                                         |
+| :----------------- | :------------------------------------------------------------------------------------------------------ |
+| Quarterstaff       |                                                                                                         |
+| Darts x 10         |                                                                                                         |
+| Hunting Trap       |                                                                                                         |
+| Traveler's Clothes |                                                                                                         |
+| Explorer's Pack    | Backpack<br>Bedroll<br>MessKit<br>Tinderbox<br>Torches x 10<br>Rations x 10<br>Waterskin<br>Rope: 50ft. |
+| Trophy             | A Tarnished Lute String<br>from Home                                                                    |
+| 20 GP              | _(+10 BKG)_<br>_(+10 Explorer's Pack)_                                                                  |
+
+## Actions, Techs, Spells (detail)
 
 ### Unarmed Strike (Core Skill)
 
