@@ -51,7 +51,8 @@ insert image
 | Proficiency Bonus | +2                      |
 | Attack Bonus      | Pending                 |
 | Tech Save DC      | Pending                 |
-| Spell Save DC     | Pending                 |
+| Spell Save DC     | XX _(8 +X CHA +2 PROF)_ |
+| Spell ATK MOD     | X _(X CHA +2 PROF)_     |
 
 ## ⚔️ Action Menu & Techniques
 
@@ -62,19 +63,23 @@ insert image
 
 ## Class Features & Proficiencies
 
-| Feature            |                                                               |
-| :----------------- | :------------------------------------------------------------ |
-| Hit Dice           | 1d8 + CON                                                     |
-| Armor Proficiency  | Pending                                                       |
-| Weapon Proficiency | Simple Weapons, Swords, Shortswords                           |
-| Tools              | Sailing, Navigator's Tools                                    |
-| Saving Throws      | Pending                                                       |
-| Skills             | Performance, History, Insight<br>Acrobatics, Survival (CLASS) |
-| Spellcasting       | Bardic Spells                                                 |
-| Bardic Inspiration | d6 Die                                                        |
-| Sword Flourish     | Unlocked at Level 3                                           |
-| Parry              | Unlocked at Level 5                                           |
-| Reckless Attack    | Unlocked at Level 6                                           |
+| Feature            |                                                                                                                                                                                                                                                           |
+| :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hit Dice           | 1d8 + CON                                                                                                                                                                                                                                                 |
+| Armor Proficiency  | Light Armor                                                                                                                                                                                                                                               |
+| Weapon Proficiency | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, Shortswords                                                                                                                                                                                       |
+| Tools              | Inst#1<br>Inst#2<br>Inst#3                                                                                                                                                                                                                                |
+| Saving Throws      | DEX and CHA                                                                                                                                                                                                                                               |
+| Skills             | Skill#1<br>Skill#2<br>Skill#3                                                                                                                                                                                                                             |
+| Spellcasting       | 4 Known                                                                                                                                                                                                                                                   |
+| Cantrips           | 2 Known                                                                                                                                                                                                                                                   |
+| Spell Slots        | Lvl1: 2 Slots                                                                                                                                                                                                                                             |
+| Ritual Casting     | Can cast ritual spells.                                                                                                                                                                                                                                   |
+| Spellcasting Focus | Musical Instrument                                                                                                                                                                                                                                        |
+| Bardic Inspiration | d6<br>Quantity Held: X _(CHA MOD)_<br>Replenish on: Long Rest<br>Range: 60 ft. and audible<br>Lasts: 10 min<br>Ally can only have 1 max<br>Applies to: ATK, Ability Check, Saving Throw<br>May roll _after_ the D20<br>but _before_ success/fail is known |
+| Jack of All Trades | UNLOCKS AT LVL 2                                                                                                                                                                                                                                          |
+| Song of Rest       | UNLOCKS AT LVL 2                                                                                                                                                                                                                                          |
+| Bard College       | Unlocks at LVL 3                                                                                                                                                                                                                                          |
 
 ## 🧬 Race & Background Features
 
@@ -89,14 +94,15 @@ insert image
 - **Tool Proficiencies:** Sailing, Navigator's Tools.
 - **Sensory Mechanics:** Utilizes Keen Senses to navigate high altitudes and complex social environments.
 
-## Gear (NEED TO DECIDE ON WEAPONS ETC)
+## Gear
 
-- Sword (Shortsword or similar)
-- Lute / Musical Instrument
-- Pending
-- Pending
-- Pending
-- Pending
+|               |     |
+| :------------ | :-- |
+| Weapon        |     |
+| Dagger        |     |
+| Leather Armor |     |
+| Instrument    |     |
+| Pack          |     |
 
 ## Actions, Techs, Spells (detail)
 
@@ -127,34 +133,32 @@ Trading his traditional seafaring life for musical performance, Blaise became a 
 
 _Note: Specifics on the flame-touched nature of Blaise's abilities are currently being observed in the field._
 
-## 📈 Progression & End-Game Stats (PRELIMINARY)
-
-### BARD PROGRESSION TABLE
+## 📈 Bard Progression Table
 
 _(Data currently being archived by the Guild of Fire)_
 
-| LEVEL | PROF BNS | SPELL LVL | FEATURES                         | ELEMANCY |
-| :---- | :------- | :-------- | :------------------------------- | :------- |
-| 1     | +2       | -         | Bardic Inspiration, Spellcasting | TBD      |
-| 2     | +2       | 1         | Jack of All Trades, Song of Rest | TBD      |
-| 3     | +2       | 2         | College of Swords Features       | TBD      |
-| 4     | +2       | 2         | Ability Score Improvement        | TBD      |
-| 5     | +3       | 3         | Parry                            | TBD      |
-| 6     | +3       | 3         | Reckless Attack                  | TBD      |
-| 7     | +3       | 4         | —                                | TBD      |
-| 8     | +3       | 4         | Ability Score Improvement        | TBD      |
-| 9     | +4       | 5         | Song of Rest (d8)                | TBD      |
-| 10    | +4       | 5         | Magical Secrets                  | TBD      |
-| 11    | +4       | 6         | —                                | TBD      |
-| 12    | +4       | 6         | Ability Score Improvement        | TBD      |
-| 13    | +5       | 7         | Song of Rest (d10)               | TBD      |
-| 14    | +5       | 8         | Magical Secrets                  | TBD      |
-| 15    | +5       | 9         | Bardic Inspiration (d12)         | TBD      |
-| 16    | +5       | 9         | Ability Score Improvement        | TBD      |
-| 17    | +6       | 10        | Song of Rest (d12)               | TBD      |
-| 18    | +6       | 10        | Magical Secrets                  | TBD      |
-| 19    | +6       | 11        | Ability Score Improvement        | TBD      |
-| 20    | +6       | 12        | Superior Inspiration             | TBD      |
+| LEVEL | PROF<br> BNS | FEATURES                                                   | ELEMANCY | CANTRIPS<br>KNOWN | SPELLS<br>KNOWN | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| :---- | :----------- | :--------------------------------------------------------- | :------- | :---------------- | :-------------- | :-- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2           | Spellcasting <br>Bardic Inspiration _(d6)_                 | TBD      | 2                 | 4               | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2           | Jack of All Trades<br> Song of Rest _(d6)_                 | TBD      | 2                 | 5               | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2           | Bard College <br>Expertise                                 | TBD      | 2                 | 6               | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2           | Ability Score Improvement                                  | TBD      | 3                 | 7               | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5     | +3           | Bardic Inspiration _(d8)_<br>Font of Inspiration           | TBD      | 3                 | 8               | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6     | +3           | Countercharm<br>Bard College Feature                       | TBD      | 3                 | 9               | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7     | +3           | —                                                          | TBD      | 3                 | 10              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8     | +3           | Ability Score Improvement                                  | TBD      | 3                 | 11              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9     | +4           | Song of Rest _(d8)_                                        | TBD      | 3                 | 12              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10    | +4           | Bardic Inspiration _(d10)_<br>Expertise<br>Magical Secrets | TBD      | 4                 | 14              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    | +4           | —                                                          | TBD      | 4                 | 15              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4           | Ability Score Improvement                                  | TBD      | 4                 | 15              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    | +5           | Song of Rest _(d10)_                                       | TBD      | 4                 | 16              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    | +5           | Magical Secrets<br>Bard College Feature                    | TBD      | 4                 | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    | +5           | Bardic Inspiration _(d12)_                                 | TBD      | 4                 | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5           | Ability Score Improvement                                  | TBD      | 4                 | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    | +6           | Song of Rest _(d12)_                                       | TBD      | 4                 | 20              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6           | Magical Secrets                                            | TBD      | 4                 | 22              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6           | Ability Score Improvement                                  | TBD      | 4                 | 22              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6           | Superior Inspiration                                       | TBD      | 4                 | 22              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20)
 

@@ -142,9 +142,7 @@ Sicarious specializes in being "in places he isn't supposed to be." He thrives o
 
 _Note: Sicarious would like to remind you that 'Secrets are for Sale'._
 
-## 📈 Progression & End-Game Stats (PRELIMINARY)
-
-### ROGUE PROGRESSION TABLE
+## 📈 Rogue Progression Table
 
 _(Data currently being archived by the Shadow Syndicate)_
 

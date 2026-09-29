@@ -130,34 +130,32 @@ In a land of machines and shadows, Cassius found his purpose in the light of the
 
 _Current Status: Cassius's spiritual records are currently being audited by a very confused deity._
 
-## 📈 Progression & End-Game Stats (PRELIMINARY)
-
-### CLERIC PROGRESSION TABLE
+## 📈 Cleric Progression Table
 
 _(Data currently being archived by the Urusha Temple)_
 
-| LEVEL | PROF BNS | SPELL LVL | FEATURES                        | ELEMANCY |
-| :---- | :------- | :-------- | :------------------------------ | :------- |
-| 1     | +2       | -         | Divine Channeling, Spellcasting | TBD      |
-| 2     | +2       | 1         | —                               | TBD      |
-| 3     | +2       | 2         | Cleric Domain Feature           | TBD      |
-| 4     | +2       | 2         | Ability Score Improvement       | TBD      |
-| 5     | +3       | 3         | —                               | TBD      |
-| 6     | +3       | 3         | —                               | TBD      |
-| 7     | +3       | 4         | —                               | TBD      |
-| 8     | +3       | 4         | Ability Score Improvement       | TBD      |
-| 9     | +4       | 5         | —                               | TBD      |
-| 10    | +4       | 5         | —                               | TBD      |
-| 11    | +4       | 6         | —                               | TBD      |
-| 12    | +4       | 6         | Ability Score Improvement       | TBD      |
-| 13    | +5       | 7         | —                               | TBD      |
-| 14    | +5       | 8         | —                               | TBD      |
-| 15    | +5       | 9         | —                               | TBD      |
-| 16    | +5       | 9         | Ability Score Improvement       | TBD      |
-| 17    | +6       | 10        | —                               | TBD      |
-| 18    | +6       | 10        | —                               | TBD      |
-| 19    | +6       | 11        | Ability Score Improvement       | TBD      |
-| 20    | +6       | 12        | —                               | TBD      |
+| LEVEL | PROF<br> BNS | FEATURES                                                                    | ELEMANCY | CANTRIPS<br>KNOWN | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| :---- | :----------- | :-------------------------------------------------------------------------- | :------- | :---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2           | Spellcasting<br>Divine Domain                                               | TBD      | 3                 | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2           | Channel Divinity (1/rest)<br>Divine Domain Feature                          | TBD      | 3                 | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2           | -                                                                           | TBD      | 3                 | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2           | Ability Score Improvement                                                   | TBD      | 4                 | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5     | +3           | Destroy Undead (CR 1/2)                                                     | TBD      | 4                 | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6     | +3           | Channel Divinity (2/rest)<br>Divine Domain Feature                          | TBD      | 4                 | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7     | +3           | -                                                                           | TBD      | 4                 | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8     | +3           | Ability Score Improvement<br>Destroy Undead (CR 1)<br>Divine Domain Feature | TBD      | 4                 | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9     | +4           | -                                                                           | TBD      | 4                 | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10    | +4           | Divine Intervention                                                         | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    | +4           | Destroy Undead (CR 2)                                                       | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4           | Ability Score Improvement                                                   | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    | +5           | -                                                                           | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    | +5           | Destroy Undead (CR 3)                                                       | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    | +5           | -                                                                           | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5           | Ability Score Improvement                                                   | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    | +6           | Destroy Undead (CR 4)<br>Divine Domain Feature                              | TBD      | 5                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6           | Channel Divinity (3/rest)                                                   | TBD      | 5                 | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6           | Ability Score Improvement                                                   | TBD      | 5                 | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6           | Divine Intervention Improvement                                             | TBD      | 5                 | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### VIII. FINAL STAT BLOCK (LEVEL 20)
 

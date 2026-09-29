@@ -239,7 +239,7 @@ Barvin does not "see" in the traditional sense. He processes information through
 
 ---
 
-## 📈 Progression & End-Game Stats **_(PRELIMINARY)_**
+## 📈 Monk Progression Table
 
 | LEVEL | PROF BNS | MARTIAL ARTS | KI POINTS | TECH POINTS | UNARMORED MVT | FEATURES                                | TECHNIQUES                                       |
 | :---- | :------- | :----------- | :-------- | :---------- | :------------ | :-------------------------------------- | :----------------------------------------------- |

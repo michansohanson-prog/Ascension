@@ -128,9 +128,7 @@ Noa is known for her "no questions" policy. She moves through the world as an in
 
 _Current Status: Noa's history was likely deleted by a very grumpy wizard._
 
-## 📈 Progression & End-Game Stats (PRELIMINARY)
-
-### WIZARD PROGRESSION TABLE
+## 📈 Wizard Progression Table
 
 _(Data currently being archived by the Arcane Archive)_
 
