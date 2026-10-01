@@ -1,3 +1,4 @@
+/// <reference types="vitepress/client" />
 // https://vitepress.dev/guide/custom-theme
 import { h } from "vue";
 import type { Theme } from "vitepress";

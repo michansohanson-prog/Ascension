@@ -90,13 +90,13 @@
 
 ### Variant Human + Outlander + Wanderer
 
-|                 |                                                       |
-| :-------------- | :---------------------------------------------------- |
-| Bonus ASI       | +1 to two AS (DEX + WIS)                              |
-| Bonus Skill     | Stealth                                               |
-| Wanderer Skills | Athletics, Survival                                   |
-| Wanderer Feats  | Perfect Memory for Geography <br> Find Food and Water |
-| Languages       | **_Common_** and **_Draconic_**                       |
+|                 |                                                                                   |
+| :-------------- | :-------------------------------------------------------------------------------- |
+| Bonus ASI       | +1 DEX +1 WIS (RACE)                                                              |
+| Bonus Skill     | Stealth (RACE)                                                                    |
+| Wanderer Skills | Athletics, Survival                                                               |
+| Wanderer Feats  | Perfect Memory for Geography <br> Find Food and Water for up to <br>5 people/day. |
+| Languages       | **_Common_** and **_Draconic_**                                                   |
 
 ## Gear
 
