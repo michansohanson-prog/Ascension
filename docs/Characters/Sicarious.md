@@ -15,28 +15,28 @@
 
 ### Skills - !!Still need to decide on Expertise!! Pick 2 to gain Double-Proficiency Bonus (or 1 + Thieves' Tools)
 
-| Skill                          | Bonus                                     |
-| :----------------------------- | :---------------------------------------- |
-| **Acrobatics**<br>(DEX)        | +5<br>_(+3 DEX +2 PROF)_<br>_(CLASS)_     |
-| **Animal Handling**<br>(WIS)   | +0                                        |
-| **Arcana**<br>(INT)            | +2                                        |
-| **Athletics**<br>(STR)         | -1                                        |
-| **Deception**<br>(CHA)         | +0                                        |
-| **History**<br>(INT)           | +2                                        |
-| **Insight**<br>(WIS)           | +0                                        |
-| **Intimidation**<br>(CHA)      | +0                                        |
-| **Investigation**<br>(INT)     | +4<br> _(+2 INT +2 PROF)_<br> _(CLASS)_   |
-| **Medicine**<br>(WIS)          | +0                                        |
-| **Nature**<br>(INT)            | +2                                        |
-| **Perception**<br>(WIS)        | +2<br> _(+0 WIS +2 PROF)_<br> _(RACE)_    |
-| **Performance**<br>(CHA)       | +0                                        |
-| **Persuasion**<br>(CHA)        | +0                                        |
-| **Religion**<br>(INT)          | +2                                        |
-| **Sleight of Hand**<br>(DEXex) | +5<br> _(+3 DEX +2 PROF)_<br>_(CLASS)_    |
-| **Stealth**<br>(DEX)           | +5<br> _(+3 DEXex +2 PROF)_<br> _(CLASS)_ |
-| **Survival**<br>(WIS)          | +0                                        |
-| **Passive Perception**         | 10<br> _(10 +0 WIS)_                      |
-| **Passive Insight**            | 12<br> _(10 +0 WIS +2 PROF)_              |
+| Skill                        | Bonus                                     |
+| :--------------------------- | :---------------------------------------- |
+| **Acrobatics**<br>(DEX)      | +5<br>_(+3 DEX +2 PROF)_<br>_(CLASS)_     |
+| **Animal Handling**<br>(WIS) | +0                                        |
+| **Arcana**<br>(INT)          | +2                                        |
+| **Athletics**<br>(STR)       | -1                                        |
+| **Deception**<br>(CHA)       | +0                                        |
+| **History**<br>(INT)         | +2                                        |
+| **Insight**<br>(WIS)         | +0                                        |
+| **Intimidation**<br>(CHA)    | +0                                        |
+| **Investigation**<br>(INT)   | +4<br> _(+2 INT +2 PROF)_<br> _(CLASS)_   |
+| **Medicine**<br>(WIS)        | +0                                        |
+| **Nature**<br>(INT)          | +2                                        |
+| **Perception**<br>(WIS)      | +2<br> _(+0 WIS +2 PROF)_<br> _(RACE)_    |
+| **Performance**<br>(CHA)     | +0                                        |
+| **Persuasion**<br>(CHA)      | +0                                        |
+| **Religion**<br>(INT)        | +2                                        |
+| **Sleight of Hand**<br>(DEX) | +5<br> _(+3 DEX +2 PROF)_<br>_(CLASS)_    |
+| **Stealth**<br>(DEX)         | +5<br> _(+3 DEXex +2 PROF)_<br> _(CLASS)_ |
+| **Survival**<br>(WIS)        | +0                                        |
+| **Passive Perception**       | 10<br> _(10 +0 WIS)_                      |
+| **Passive Insight**          | 12<br> _(10 +0 WIS +2 PROF)_              |
 
 ## Combat Statisctics
 
