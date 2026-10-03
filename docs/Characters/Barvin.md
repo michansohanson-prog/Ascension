@@ -20,7 +20,7 @@
 | **Acrobatics**<br>(DEX)      | +5<br> _(+3 DEX +2 PROF)_<br>_(CLASS)_ |
 | **Animal Handling**<br>(WIS) | +3                                     |
 | **Arcana**<br>(INT)          | -1                                     |
-| **Athletics**<br(STR)        | +2<br>_(+0 Str + 2 PROF)_<br>_(BKG)_   |
+| **Athletics**<br>(STR)       | +2<br>_(+0 Str + 2 PROF)_<br>_(BKG)_   |
 | **Deception**<br>(CHA)       | -1                                     |
 | **History**<br>(INT)         | -1                                     |
 | **Insight**<br>(WIS)         | +5<br>_(+3 WIS + 2 PROF)_<br>_(CLASS)_ |
