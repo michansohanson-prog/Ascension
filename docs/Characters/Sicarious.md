@@ -124,11 +124,12 @@
 
 ### Melee Weapon Attack
 
-### Crossbow Attack
+### Hand Crossbow Attack
 
 - **Cost:** 1 Action (or BNS ACT if used ATK)
 - **ATK Bonus:** +5 (+3 DEX +2 PROF)
-- **DMGE:** 1d6 + 3 (DEX) _piercing_
+- **DMGE:** 1d6 + 3 (DEX) _piercing_<br>
+  _If you used the ATK Action, you may make a Hand Crossbow Attack as a BNS Action._
 
 ### Sneak Attack
 
