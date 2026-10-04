@@ -32,8 +32,8 @@ hero:
     <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
     </a>
     <a href="./Characters/Sicarious">
-    <img src="./images/Sicarious.webp" alt="Goblin" class="feature-image" />
+    <img src="./images/Sicarious.webp" alt="Sicarious" class="feature-image" />
     </a>
 </div>
 
-<img src="./images/Ascension.webp" alt="Ascension" style="display: block; margin: 5.5rem auto; max-width: 100%; height: auto;" />
+<img src="./images/AscensionBanner.webp" alt="Ascension" style="display: block; margin: 5.5rem auto; max-width: 100%; height: auto;" />

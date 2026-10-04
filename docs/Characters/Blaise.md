@@ -1,6 +1,6 @@
 # Blaise de La Mer - Bard (Sword Bard) (Level 1)
 
-insert image
+![Blaise](./Blaise.webp)
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
