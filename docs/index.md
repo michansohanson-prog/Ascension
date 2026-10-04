@@ -7,14 +7,14 @@ hero:
   text: "A website for use during our DnD Campaign."
   tagline: Git gud, noobz.
   image:
-    src: /message.webp
+    src: /Message.webp
     alt: message
 ---
 
 <!-- Hero Actions Row -->
 <div class="action-row">
   <a href="./Characters/Noa">
-    <img src="./images/Placeholder.webp" alt="Noa" class="feature-image" />
+    <img src="./images/Noa.webp" alt="Noa" class="feature-image" />
     </a>
   <a href="/Ascension/Lore/" class="action-button">
     <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" />
