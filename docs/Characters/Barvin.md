@@ -116,7 +116,7 @@
 
 - **Cost:** 1 Action or BNS ACT after ATK w/Monk Weapon or Unarmed Strike
 - **ATK Bonus:** +5 (+3 DEX +2 PROF)
-- **DMG:** 1d4 +3 (DEX)
+- **DMG:** 1d4 +3 (DEX) _bludgeoning_
   ![Unarmed](./BarvinUnarmed.webp)
   _Deal 1d4 bludgeoning damage per strike. As a Monk, you can perform a bonus action Unarmed Strike after using the Attack action with your Monk Weapon or an Unarmed Strike._
 
@@ -124,7 +124,7 @@
 
 - **Cost:** 1 Action
 - **ATK Bonus:** +5 (+3 DEX +2 PROF)
-- **DMG:** 1d6 +3 (DEX)
+- **DMG:** 1d6 +3 (DEX) _bludgeoning_
   ![Quarterstaff](./BarvinQuarterstaff.webp)
   _I don't like bees._
 
