@@ -1,6 +1,6 @@
 # Cassius - Cleric (Level 1)
 
-![Michael](./Michael.webp)
+![Michael](./Cassius.webp)
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 

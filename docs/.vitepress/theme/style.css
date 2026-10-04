@@ -153,7 +153,7 @@ h3 {
   display: flex;
   justify-content: center; /* Centers them under the hero text */
   align-items: center;
-  gap: 0.6rem; /* Adjust this to your preferred spacing */
+  gap: 0.2rem; /* Adjust this to your preferred spacing */
   flex-wrap: wrap; /* Makes them stack on mobile */
   margin: 0rem 0;
   height: 8rem;
@@ -184,6 +184,7 @@ h3 {
   cursor: pointer;
   display: block;
 }
+
 /* Hover effect on all Homepage images */
 .feature-image:hover {
   filter: drop-shadow(0px 10px 15px rgba(162, 39, 39, 0.5)) brightness(1.1);

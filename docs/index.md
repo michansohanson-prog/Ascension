@@ -20,7 +20,7 @@ hero:
     <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" />
   </a>
     <a href="./Characters/Cassius">
-    <img src="./images/Placeholder.webp" alt="Cassius" class="feature-image" />
+    <img src="./images/CassiusIcon.webp" alt="Cassius" class="feature-image" />
     </a>
 </div>
 
@@ -35,8 +35,5 @@ hero:
     <img src="./images/Sicarious.webp" alt="Goblin" class="feature-image" />
     </a>
 </div>
-<br>
-<br>
-<br>
 
-<img src="./images/Ascension.webp" alt="Ascension" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<img src="./images/Ascension.webp" alt="Ascension" style="display: block; margin: 5.5rem auto; max-width: 100%; height: auto;" />
