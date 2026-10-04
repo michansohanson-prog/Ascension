@@ -122,9 +122,7 @@
 - **ATK Bonus:** +5 (+3 DEX +2 PROF)
 - **DMG:** 1d4 +3 (DEX) _piercing_
 
-### Melee Weapon Attack
-
-### Hand Crossbow Attack
+### Hand Crossbow
 
 - **Cost:** 1 Action (or BNS ACT if used ATK)
 - **ATK Bonus:** +5 (+3 DEX +2 PROF)
