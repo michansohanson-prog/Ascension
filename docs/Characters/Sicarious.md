@@ -74,8 +74,7 @@
 | Crossbow Expert    | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
 | Expertise          | Pick 2 Skills to double PROF bonus<br> \*May choose thieves' tools for one.                                                                                                                                  |
 | Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
-| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>                                                                                                   |
-|                    | secret signs and symbols.                                                                                                                                                                                    |
+| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
 | Cunning Action     | Unlocked at Level 2                                                                                                                                                                                          |
 | Roguish Archetype  | Unlocked at Level 3                                                                                                                                                                                          |
 
