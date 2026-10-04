@@ -17,7 +17,7 @@ hero:
     <img src="./images/Noa.webp" alt="Noa" class="feature-image" />
     </a>
   <a href="/Ascension/Lore/" class="action-button">
-    <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" />
+    <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" style="height: 5.5rem"/>
   </a>
     <a href="./Characters/Cassius">
     <img src="./images/CassiusIcon.webp" alt="Cassius" class="feature-image" />
@@ -26,7 +26,7 @@ hero:
 
 <div class="feature-row">
   <a href="./Characters/Barvin">
-    <img src="./images/Barvin.webp" alt="Barvin" class="feature-image" />
+    <img src="./images/Barvin.webp" alt="Barvin" class="feature-image"/>
     </a>
   <a href="./Characters/Blaise">
     <img src="./images/Blaise.webp" alt="Blaise" class="feature-image" />
