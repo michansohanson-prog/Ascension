@@ -651,55 +651,55 @@ export default defineConfig({
             items: [
               {
                 text: "Character Origins",
-                link: "/Resources/character-origins",
+                link: "/Resources521/character-origins",
               },
               {
                 text: "Character Creation",
-                link: "/Resources/character-creation",
+                link: "/Resources521/character-creation",
               },
               {
                 text: "Classes",
-                link: "/Resources/classes",
+                link: "/Resources521/classes",
               },
               {
                 text: "Feats",
-                link: "/Resources/feats",
+                link: "/Resources521/feats",
               },
               {
                 text: "Equipment",
-                link: "/Resources/equipment",
+                link: "/Resources521/equipment",
               },
               {
                 text: "Spells",
-                link: "/Resources/spells",
+                link: "/Resources521/spells",
               },
               {
                 text: "Magic Items",
-                link: "/Resources/magic-items",
+                link: "/Resources521/magic-items",
               },
               {
                 text: "Animals",
-                link: "/Resources/animals",
+                link: "/Resources521/animals",
               },
               {
                 text: "Monsters",
-                link: "/Resources/monsters",
+                link: "/Resources521/monsters",
               },
               {
                 text: "Monsters A-Z",
-                link: "/Resources/monsters-A-Z",
+                link: "/Resources521/monsters-A-Z",
               },
               {
                 text: "Playing the Game",
-                link: "/Resources/playing-the-game",
+                link: "/Resources521/playing-the-game",
               },
               {
                 text: "Gameplay Toolbox",
-                link: "/Resources/gameplay-toolbox",
+                link: "/Resources521/gameplay-toolbox",
               },
               {
                 text: "Rules Glossary",
-                link: "/Resources/rules-glossary",
+                link: "/Resources521/rules-glossary",
               },
             ],
           },
