@@ -30,6 +30,7 @@ export default defineConfig({
             link: "/CharacterPage.md",
             collapsed: false,
             items: [
+              { text: "Our Party", link: "/CharacterPage.md" },
               { text: "Barvin", link: "/Characters/Barvin" },
               { text: "Blaise", link: "/Characters/Blaise" },
               { text: "Cassius", link: "/Characters/Cassius" },
@@ -39,9 +40,9 @@ export default defineConfig({
           },
           {
             text: "Lore",
-            link: "/Lore",
             collapsed: false,
             items: [
+              { text: "Overview", link: "/Lore" },
               { text: "Gods", link: "/Gods/Gods" },
               { text: "Minor Arcana", link: "/MinorArcana/MinorArcana" },
               { text: "NPCs", link: "/NPCs/NPCs" },
