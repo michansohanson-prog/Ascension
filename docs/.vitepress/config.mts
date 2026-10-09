@@ -194,9 +194,7 @@ export default defineConfig({
               {
                 text: "Feats",
                 collapsed: true,
-                items: [
-                  { text: "Feats - Incomplete", link: "/5E/05_Feats/Feats" },
-                ],
+                items: [{ text: "Feats", link: "/5E/05_Feats/Feats" }],
               },
               {
                 text: "Gameplay",
