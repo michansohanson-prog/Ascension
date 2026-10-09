@@ -9,6 +9,8 @@ This page tracks the known geography of our world, organized by region and impor
 
 ## Enziret
 
+![Enziret](Enziret.webp)
+
 ::: danger _Status: Catastrophically Damaged / Restricted Access_
 :::
 
@@ -30,6 +32,8 @@ This page tracks the known geography of our world, organized by region and impor
 
 ## Zanzibahar
 
+![Zanzibahar](Zanzibahar.webp)
+
 - **Deity:** The Goddess Bahare
 - **Description:** As the continent’s chief melting pot, Zanzibahar is where all paths meet. It is a city of bustling marinas and endless commerce—and more importantly, it remains the only place where one can cast off from these shores to reach distant lands.
 - **Vibe:** "Pirates and mermaids on white sandy beaches."
@@ -37,17 +41,23 @@ This page tracks the known geography of our world, organized by region and impor
 
 ## Urusha
 
+![Urusha](Urusha.webp)
+
 - **Deities:** The Twin Gods Hurun and Nurun
 - **Description:** A kaleidoscope of technological innovation and high-energy social scenes. In Urusha, artifice meets excess; where streets hum with perpetual music and light, they also serve as a sprawling playground for clandestine trade and underworld empires.
 - **Demographics:** A primary home for Artificers and Warforged.
 
 ## Mayua
 
+![Mayua](Mayua.webp)
+
 - **Deity:** Goddess Mayren
 - **Description:** The agricultural heart of the continent, devoted to Goddess Mayren. It consists of beautiful farmlands and ancient, twisty forests imbued with fey magic.
 - **Inhabitants:** Primarily a home for farmers and druids.
 
 ## Nyalima
+
+![Nyalima](Nyalima.webp)
 
 - **Deity:** Goddess Nyota
 - **Location:** A desolate region high in the mountains.
