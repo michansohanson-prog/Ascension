@@ -50,6 +50,64 @@ export default defineConfig({
               { text: "Items", link: "/Items/Items" },
             ],
           },
+          {
+            text: "Resources",
+            collapsed: false,
+            items: [
+              {
+                text: "Character Origins",
+                link: "/Resources/character-origins",
+              },
+              {
+                text: "Character Creation",
+                link: "/Resources/character-creation",
+              },
+              {
+                text: "Classes",
+                link: "/Resources/classes",
+              },
+              {
+                text: "Feats",
+                link: "/Resources/feats",
+              },
+              {
+                text: "Equipment",
+                link: "/Resources/equipment",
+              },
+              {
+                text: "Spells",
+                link: "/Resources/spells",
+              },
+              {
+                text: "Magic Items",
+                link: "/Resources/magic-items",
+              },
+              {
+                text: "Animals",
+                link: "/Resources/animals",
+              },
+              {
+                text: "Monsters",
+                link: "/Resources/monsters",
+              },
+              {
+                text: "Monsters A-Z",
+                link: "/Resources/monsters-A-Z",
+              },
+              {
+                text: "Playing the Game",
+                link: "/Resources/playing-the-game",
+              },
+              {
+                text: "Gameplay Toolbox",
+                link: "/Resources/gameplay-toolbox",
+              },
+              {
+                text: "Rules Glossary",
+                link: "/Resources/rules-glossary",
+              },
+            ],
+          },
         ],
       },
     ],
