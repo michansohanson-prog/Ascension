@@ -1,12 +1,16 @@
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
+
 export default defineConfig({
   title: "Ascension",
   description: "A website for use during our DnD Campaign.",
   base: "/Ascension/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
     nav: [
       { text: "Home", link: "/" },
       { text: "Characters", link: "/CharacterPage.md" },
