@@ -13,8 +13,7 @@ body {
 header::before,
 [class*="VPNav"]::before,
 .VPLocalNav::before {
-  display: none !important;
-  background: transparent !important;
+  background: linear-gradient(#e8dfd7, #5a523f) !important;
 }
 /* Adjust Sidebar Width and Adjust Links to match */
 @media (min-width: 768px) {
