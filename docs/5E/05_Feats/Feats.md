@@ -252,24 +252,80 @@ If you come across a spell in written form, such as a magical _spell scroll_ or 
 
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
-# Entries yet to finish below:
-
 ## Sentinel
+
+You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
+
+- When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
+- Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
 ## Sharpshooter
 
+You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
+
+- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- Your ranged weapon attacks ignore half cover and three-quarters cover.
+- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
 ## Shield Master
+
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+
+- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 ## Skilled
 
+You gain proficiency in any combination of three skills or tools of your choice.
+
 ## Skulker
+
+_Prerequisite: Dexterity 13 or higher_
+
+You are expert at slinking through shadows. You gain the following benefits:
+
+- You can try to hide when you are lightly obscured from the creature from which you are hiding.
+- When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
+- Dim light doesn't impose disadvantage on your Widsom (Perception) checks relying on sight.
 
 ## Spell Sniper
 
+_Prerequisite: The ability to cast at least one spell_
+
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+
+- When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+- Your ranged spell attacks ignore half cover and three-quarters cover.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
 ## Tavern Brawler
+
+Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
+
+- Increase your Strength or Constitution score by 1, to a maximum of 20.
+- You are proficient with improvised weapons.
+- Your unarmed strike uses a d4 for damage.
+- When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 
 ## Tough
 
+Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+
 ## War Caster
 
+_Prerequisite: The ability to cast at least one spell_
+
+You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+
+- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+- You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+- When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+
 ## Weapon Master
+
+You have practiced extensively with a variety of weapons, gaining the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
