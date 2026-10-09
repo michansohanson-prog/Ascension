@@ -27,7 +27,6 @@ export default defineConfig({
           },
           {
             text: "Characters",
-            link: "/CharacterPage.md",
             collapsed: false,
             items: [
               { text: "Our Party", link: "/CharacterPage.md" },
@@ -53,7 +52,7 @@ export default defineConfig({
           },
           {
             text: "Resources: 5E",
-            collapsed: false,
+            collapsed: true,
             items: [
               {
                 text: "Races",
