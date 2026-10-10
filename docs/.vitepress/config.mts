@@ -37,7 +37,7 @@ export default defineConfig({
               { text: "Barvin", link: "/Characters/Barvin" },
               { text: "Blaise", link: "/Characters/Blaise" },
               { text: "Cassius", link: "/Characters/Cassius" },
-              { text: "Noa", link: "/Characters/Noa" },
+              { text: "Noa", link: "/Characters/Noa2" },
               { text: "Sicarious", link: "/Characters/Sicarious" },
             ],
           },

@@ -14,7 +14,7 @@ hero:
 <!-- Hero Actions Row -->
 <div class="action-row">
   <a href="./Characters/Noa">
-    <img src="./images/Noa.webp" alt="Noa" class="feature-image" />
+    <img src="./images/Noa2.webp" alt="Noa" class="feature-image" />
     </a>
   <a href="/Ascension/Lore/" class="action-button">
     <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" style="height: 5.5rem"/>
