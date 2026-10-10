@@ -122,19 +122,19 @@
 
 ## ✨ Personality & Traits
 
-Cassius is a man of intense moral conviction. He doesn't just believe in his faith; he lives it with an intensity that can be overwhelming to those around him. His judgment is sharp and often public, making him well-known for his unscheduled sermons and uncompromising stance on the divine laws of Urusha.
+TBD
 
 ## 📜 Lore & History
 
-### I. Origins: The City of Urusha
+### I. Origins: TBD
 
-Cassius hails from Urusha, a land synonymous with technological advancement and organized crime. This "Las Vegas" style environment is governed by the twin Gods Hurun and Nurun, whose influence permeates every party, street corner, and laboratory in the city.
+TBD
 
-### II. The Cleric's Calling
+### II.
 
-In a land of machines and shadows, Cassius found his purpose in the light of the Twin Gods. He serves as a moral anchor in a city that often forgets its conscience, standing ready to deliver judgment on those who stray too far from the path.
+TBD
 
-### III. Divine Audit
+### III.
 
 _Current Status: Cassius's spiritual records are currently being audited by a very confused deity._
 
