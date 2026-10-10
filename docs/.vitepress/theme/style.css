@@ -111,7 +111,7 @@ h3 {
 /* These rules live OUTSIDE the root variables */
 /* HomeHero Text Style */
 .VPHomeHero {
-  height: 32rem;
+  height: 28rem;
 }
 .VPHomeHero .name {
   font-size: 6rem;

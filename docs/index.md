@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "Ascension"
-  text: "A website for use during our DnD Campaign."
-  tagline: Git gud, noobz.
+  text: "The baby bit me."
+  tagline: "-Barvin"
   image:
-    src: /MessageSession1.webp
+    src: /Session2.webp
     alt: message
 ---
 
