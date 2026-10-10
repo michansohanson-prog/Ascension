@@ -36,4 +36,4 @@ hero:
     </a>
 </div>
 
-<img src="./images/AscensionBanner.webp" alt="Ascension" style="display: block; margin: 5.5rem auto; max-width: 100%; height: auto;" />
+<img src="./images/Ascension2.webp" alt="Ascension" style="display: block; margin: 5.5rem auto; max-width: 100%; height: auto;" />
