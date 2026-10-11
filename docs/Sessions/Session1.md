@@ -19,29 +19,31 @@ The air in Rockfall was thick with ash, smoke, and the heavy scent of disaster. 
 
 Outside the Dreaming Dragon Inn, the party gathered amidst the crowd. Cassius moved through the throng, lending a hand to those in need, while Sicarious remained tucked away, watching from a quiet corner. Barvin stood awkwardly in the center of the commotion, caught in the middle of the movement. High above the chaos, Noa and Blaise took up positions on nearby rooftops, gaining a vantage point over the devastation. To soothe the frantic spirits of the townsfolk, Blaise played his clarinet from atop a building, the melody drifting through the air and drawing a small, curious crowd.
 
-A podium had been erected just outside the Inn for Magistrate Asia Appleborn—a short, tan woman with bright red hair and freckles. As she addressed the gathering, deputy constables, working under the oversight of Constable Joren, moved through the crowd, scouting for information and monitoring those gathered. When Asia called for volunteers to assist with relief efforts, our party stepped forward.
+A podium had been erected just outside the Inn for Magistrate Aja Appleborn—a short, tan woman with bright red hair and freckles. As she addressed the gathering, deputy constables, working under the oversight of Constable Joren, moved through the crowd, scouting for information and monitoring those gathered. When Aja called for volunteers to assist with relief efforts, our party stepped forward.
 
 ### A Secret in the Magistrate's Office
 
-Asia led us upstairs to her office, which serves as her home within the rustic walls of the Inn. The news she shared was grim: the overland pass toward the peak of Mount Enziret is entirely inaccessible due to the recent earthquakes and volcanic activity. More unsettlingly, there is a mysterious absence of Enzi's aura in the area.
+Aja led us upstairs to her office, which serves as her home within the rustic walls of the Inn. The news she shared was grim: the overland pass toward the peak of Mount Enziret is entirely inaccessible due to the recent earthquakes and volcanic activity. More unsettlingly, there is a mysterious absence of Enzi's aura in the area.
 
-The Magistrate revealed that a local family—two parents and two children—has gone missing. When Noa applied a keen sense of Insight, it became clear that Asia was holding something back. She eventually admitted that reports had reached her of a terrifying sound, like a monster, echoing near the area where the family was last seen. Undeterred by the dark news, Blaise declared with dramatic flair, _"We will cause a Kerfuffle and rescue those people!"_
+The Magistrate revealed that a local family—two parents and two children—has gone missing. When Noa applied a keen sense of Insight, it became clear that Aja was holding something back. She eventually admitted that reports had reached her of a terrifying sound, like a monster, echoing near the area where the family was last seen. Undeterred by the dark news, Blaise declared with dramatic flair, _"We will cause a Kerfuffle and rescue those people!"_
 
-Asia pledged the support of the townsfolk to our cause and provided us with a single Healing Potion to aid our journey. As the meeting adjourned, Cassius stayed behind alone with the Magistrate, offering his final 15G as a token of support—a selfless gesture "witnessed" by Barvin (who was downstairs), who later commended him on the kindness.
+Aja pledged the support of the townsfolk to our cause and provided us with a single Healing Potion to aid our journey. As the meeting adjourned, Cassius stayed behind alone with the Magistrate, offering his final 15G as a token of support—a selfless gesture "witnessed" by Barvin (who was downstairs), who later commended him on the kindness.
 
 Silvie, the the Innkeeper of the Dreaming Dragon Inn, provided a meal of plain broth and vegetables to the party. Various hidden secret magical fortune cards were found inside the meal by various members of the party:
+
+_Insert Fortune Cookie Pics_
 
 Barvin also mentioned to Blaise that he "knows what that stuff is, and liked it." He was referring to the music that Blaise was playing for the townspeople.
 
 ### Provisions and Preparations
 
-Before departing Rockfall, the party made use of their remaining coin to prepare for the trek ahead, visiting three distinct establishments:
+Before departing Rockfall, the party made use of Aja's offer of town assistanct to prepare for the trek ahead, visiting three distinct establishments:
 
-First, we visited **Cave Divers**, where a blue-haired rock gnome named Tippy served as the merchant. We secured essential gear for the mountains: two pickaxes, two 50ft coils of rope, and a peculiar "head-torch," a whimsical medieval take on a headlamp. Amidst the business, Sicarious managed to make off with a souvenir rock.
+First, we visited **Cave Divers**, where a blue-haired rock gnome named Tippy served as the merchant. We secured essential gear for the mountains: two pickaxes, two 50ft coils of rope, and a peculiar "head-torch" that would help with visibility in dark places. Amidst the business, Sicarious managed to make off with a souvenir rock.
 
 Next, we stopped at **Rockstop**, a shop filled with Enzi memorabilia run by a heavily intoxicated Rock-Genasi. The shop was filled with hats that mimicked Enzi's horns, various plushies, and various T-shirts. We noted that many of the T-shirts bore the cheeky message: _"I walked all the way from Rockfall and all I got was this stupid T-Shirt."_ Cassius acquired five of the mini-Enzi plushies to help calm frightened children, as well as five T-shirts for supplies. Noa, unfortunately, did not find the hat she was looking for. It was here we also learned a somber piece of local history: the Magistrate’s spouse recently perished during the eruption of Mount Enziret.
 
-Finally, we visited **The Fungus Jug**, where we met Herb, a man who appeared to be heavily under the influence of some recreational substance. The tavern was filled with a familiar, pungent smoke—which Blaise identified as "Sailor's Grass," also known as "Witch Wort" or "Sea Weed." Herb provided us each with two days of rations and some Ale. He also gave us each a pouch of Sea Weed and shared a grim outlook: the town is "done-zos," likely destined to be abandoned as people move on to Zanzibahar. Herb offered a unique reward for our success: a pipe shaped like Enzi.
+Finally, we visited **The Fungus Jug**, where we met Herb, a man who appeared to be heavily under the influence of some recreational substance. The tavern was filled with a familiar, pungent smoke—which Blaise identified as "Sailor's Grass," also known as "Witch Wort" or "Sea Weed." Herb provided us each with two days of rations and some Ale. He also gave us each a pouch of Sea Weed (though, Noa gave her portion to Blaise, citing her desire to keep a clear mind) and shared a grim outlook: the town is "done-zos," likely destined to be abandoned as people move on to Zanzibahar. Herb himself mentioned he might head for Urusha. He offered a unique reward for our success: a pipe shaped like Enzi.
 
 During our preparations, we learned of the distinct properties of local flora: _Witch Wort_ grows in the bogs, _Sea Weed_ is found only on ships and requires salt water, and _Sailor's Grass_ is found along sandy shores.
 
@@ -69,9 +71,9 @@ The breakthrough required both magic and muscle. Cassius and Barvin set to work 
 
 Inside, the cavern was vast and unsettling. Massive, jagged cracks spiderwebbed across the walls and the floor, and the ground was littered with the discarded remnants of people who had once tried to escape the mountain’s wrath. Amidst the debris, we scavenged what we could: Barvin and Blaise each found a set of clothes, though they are currently too dirty to be useful; Noa discovered a shimmering golden statue of Enzi, worth approximately 25 gold; and Sicarious stumbled upon a truly miraculous find—a _Bag of Holding_.
 
-Our moment of discovery was cut short by another tremor. The walls groaned and the ground shuddered, signaling that the mountain's instability was worsening. We pressed on with haste, entering a massive open chamber bisected by impassable, yawning fissures in the floor. In the distance, we spotted them: a woman and a child, huddled and hiding within a formation of rocks. They looked up and, seeing us, frantically gestured for us to be silent, their eyes wide with intense terror.
+Our moment of discovery was cut short by another tremor. The walls groaned and the ground shuddered, signaling that the mountain's instability was worsening. We pressed on with haste, entering a massive open chamber with a labyrint of yawning fissures in the floor. In the distance, we spotted them: a woman and the two children, huddled and hiding within a formation of rocks. They looked up and, seeing us, frantically gestured for us to be silent, their eyes wide with intense terror.
 
-Noa cast _Magic Whisper_ to bridge the distance, her voice a ghost in their ears. Their response was a single, terrifying word: _"A Monster."_
+Noa cast _Magic Whisper_ to bridge the distance, her voice a ghost in their ears. Their response was a single, terrifying word: _"Monster."_
 
 As another quake rattled our bones, Sicarious and Blaise attempted to sneak toward the survivors to bring them to safety. However, as we drew near, we inadvertently disturbed the man who appeared to be the father. Startled from his hiding spot, he cried out in sheer, unadulterated fear. That sound was the final straw; the earth buckled violently, and a terrifying creature tore its way up from the ground beneath us. The silence of the cave was shattered by the roar of combat.
 
@@ -79,7 +81,7 @@ As another quake rattled our bones, Sicarious and Blaise attempted to sneak towa
 
 The roar of combat echoed through the cavern as a terrifying creature lunged from the darkness. Barvin rushed forward to intercept, but the beast was deceptively quick. Its right arm—or perhaps a claw—was visibly mangled and dripping with fluid, yet it lashed out with desperate force. Barvin took a brutal bite to his arm; the wound was deep, leaving him with permanent scars that would serve as a grim reminder of this encounter.
 
-In the heat of the struggle, several unsettling truths became apparent. Barvin, despite the pain, realized through a keen sense of insight that the creature wasn't driven by rage, but by a profound, alien madness. It seemed to be stumbling blindly, its lack of eyes making it rely on other senses. Sicarious, watching from the fray, felt a deep sense of unease, sensing that something about this creature’s presence was fundamentally unnatural. Cassius, seeing the erratic, frenzied movements, felt a chilling sense of déjà vu—the madness here felt hauntingly similar to an encounter he had experienced when he was only ten years old. High above, Noa observed the magic radiating from the beast; it wasn't a steady flow, but a pulsating, erratic rhythm that defied natural laws. Blaise, recalling ancient lore, felt a surge of dread—the creature's behavior didn't align with any known beasts, leading him to suspect he was facing something far more significant: a Lesser God, rumored to dwell beneath Mount Enziret.
+In the heat of the struggle, several unsettling truths became apparent. Barvin, despite the pain, realized through a keen sense of insight that the creature wasn't driven by rage, but by a profound, alien madness. It seemed to be stumbling blindly, its lack of eyes making it rely on other senses. Sicarious, watching from the fray, felt a deep sense of unease, sensing that something about this creature’s presence was fundamentally unnatural. Cassius, seeing the erratic, frenzied movements, felt a chilling sense of déjà vu—the madness here felt hauntingly similar to an encounter he had experienced when he was only ten years old. Noa observed the magic radiating from the beast; it wasn't a steady flow, but a pulsating, erratic rhythm that defied natural laws. Blaise, recalling ancient lore, felt a surge of dread—the creature's behavior didn't align with any known common beasts, leading him to suspect he was facing something far more significant: a Lesser God, rumored to dwell beneath Mount Enziret.
 
 As the battle intensified, a strange phenomenon occurred. With every successful blow landed by the party, the creature's frenzied madness seemed to ebb, as if its very essence were stabilizing even as its life faded.
 
@@ -104,7 +106,7 @@ _End of battle_
 
 ### The Essence of Kuona
 
-As the combat ended, the tension in the cave was replaced by the cheers of the rescued family. In a moment of uncharacteristic curiosity, Noa approached the fallen creature. It initially felt solid beneath her touch, but as she reached further, its substance began to shift, becoming non-solid and granular, like shifting sand. As she pushed her hand deep into the creature's collapsing form, she felt a strange presence. Suddenly, the monster disintegrated completely into fine sand, and Noa found herself nearly falling into the space where it had been. In her hand, she caught something small and gray—a tiny, living version of the monster that wiggles in her palm. This little creature, whom we have named **Kuona**, is all that remains of the beast.
+As the combat ended, the tension in the cave was replaced by the cheers of the rescued family. In a moment of uncharacteristic curiosity, Noa approached the fallen creature. It initially felt solid beneath her touch, but as she reached further, its substance began to shift, becoming non-solid and granular, like shifting sand. As she pushed her hand deep into the creature's collapsing form, she felt a strange presence. Suddenly, the monster disintegrated completely into fine sand, and Noa found herself nearly falling into the space where it had been. In her hand, she caught something small and gray—a tiny, living version of the monster that wiggles in her palm. This little creature, the remnants of the lesser god named **Kuona**, is all that remains of the beast.
 
 ### A Narrow Escape
 
@@ -112,13 +114,13 @@ The victory was short-lived. A massive tremor shook the cavern, followed by the 
 
 ### Aftermath in Rockfall
 
-Upon returning to the village, the atmosphere was one of relief and celebration. Joren and Asia Appleborn met the party, offering their heartfelt thanks for the daring rescue. During the reunion, Sicarious received the pipe from Herb as promised. However, the peace was tempered by the weight of upcoming challenges. Asia hinted that the party’s skills and bravery would make them ideal candidates for an important task: escorting a group of travelers and Swamp Stompers along the treacherous Swamp Path toward [Zanzibahar](/Locations/Locations.md#Zanzibahar).
+Upon returning to the village, the atmosphere was one of relief and celebration. Joren and Aja Appleborn met the party, offering their heartfelt thanks for the daring rescue. During the reunion, Sicarious received the pipe from Herb as promised. However, the peace was tempered by the weight of upcoming challenges. Aja hinted that the party’s skills and bravery would make them ideal candidates for an important task: escorting a group of travelers and Swamp Stompers along the treacherous Swamp Path toward [Zanzibahar](/Locations/Locations.md#Zanzibahar).
 
 ### **👥 NPCs Encountered**
 
 | Name                     | Description/Role                                              | Notes                                                                 |
 | :----------------------- | :------------------------------------------------------------ | :-------------------------------------------------------------------- |
-| **Asia Appleborn**       | Magistrate of Rockfall; short, tan, red-headed with freckles. | Recent widow; provided a healing potion and quest details.            |
+| **Aja Appleborn**        | Magistrate of Rockfall; short, tan, red-headed with freckles. | Recent widow; provided a healing potion and quest details.            |
 | **Tippy**                | Blue-haired Rock Gnome merchant.                              | Located at _Cave Divers_. Sells climbing/exploration gear.            |
 | **Rock-Genasi Merchant** | Heavily intoxicated owner of _Rockstop_.                      | Sells Enzi memorabilia.                                               |
 | **Herb**                 | Merchant at _The Fungus Jug_.                                 | Likely using Sailor's Grass; offered an Enzi-shaped pipe as a reward. |
@@ -138,7 +140,7 @@ Upon returning to the village, the atmosphere was one of relief and celebration.
 |                        | Bag of Holding        | Found by Sicarious in the cavern.                                                        |
 |                        | Enzi-shaped Pipe      | Unique reward from Herb.                                                                 |
 |                        | Souvenir Rock         | Acquired by Sicarious at _Cave Divers_.                                                  |
-| **Consumables**        | Healing Potion (1)    | Provided by Asia Appleborn.                                                              |
+| **Consumables**        | Healing Potion (1)    | Provided by Aja Appleborn.                                                               |
 |                        | Rations (10 total)    | 2 days' worth each for the party; provided by Herb.                                      |
 |                        | Ale                   | Provided by Herb.                                                                        |
 |                        | Sea Weed (5 pouches)  | Provided by Herb.                                                                        |
@@ -170,7 +172,7 @@ Upon returning to the village, the atmosphere was one of relief and celebration.
 | **Rockfall**            | The primary town/starting area, currently in chaos.               |
 | **Mount Enziret**       | A volcanic mountain; the site of recent catastrophic eruptions.   |
 | **Zanzibahar**          | A city providing aid to Rockfall; destination via the Swamp Path. |
-| **Dreaming Dragon Inn** | The local inn in Rockfall where the party gathered and met Asia.  |
+| **Dreaming Dragon Inn** | The local inn in Rockfall where the party gathered and met Aja.   |
 | **Cave Divers**         | An equipment shop in Rockfall.                                    |
 | **Rockstop**            | An Enzi memorabilia shop in Rockfall.                             |
 | **The Fungus Jug**      | A tavern in Rockfall.                                             |
