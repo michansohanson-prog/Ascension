@@ -25,6 +25,7 @@ export default defineConfig({
             text: "Session Recaps",
             collapsed: false,
             items: [
+              { text: "Opening Monologue", link: "/OpeningMono.md" },
               { text: "Session 1", link: "/Sessions/Session1" },
               { text: "Session 2", link: "/Sessions/Session2" },
             ],
@@ -48,6 +49,7 @@ export default defineConfig({
               { text: "Overview", link: "/Lore" },
               { text: "Gods", link: "/Gods/Gods" },
               { text: "Minor Arcana", link: "/MinorArcana/MinorArcana" },
+              { text: "Ascendency", link: "/Ascendency/Ascendency" },
               { text: "NPCs", link: "/NPCs/NPCs" },
               { text: "Locations", link: "/Locations/Locations" },
               { text: "Enemies", link: "/Enemies/Enemies" },
