@@ -3,6 +3,11 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
+  markdown: {
+    image: {
+      lazyLoad: true,
+    },
+  },
   title: "Ascension",
   description: "A website for use during our DnD Campaign.",
   base: "/Ascension/",
