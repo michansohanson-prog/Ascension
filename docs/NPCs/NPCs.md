@@ -20,7 +20,7 @@ _Magistrate of Rockfall_
   - After being prompted by Noa's Insight, she revealed reports of terrifying monster sounds echoing near the area where the family was last seen.
 - **Post-Quest Interaction:** Upon the party's return to Rockfall, she offered "heartfelt thanks" for the rescue of the family and hinted at the next task: escorting a group of travelers and Swamp Stompers along the treacherous Swamp Path toward **Zanzibahar**.
 
-## Corporal Joren
+## Constable Joren
 
 **Roles and Responsibilities:**
 
