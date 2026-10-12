@@ -85,22 +85,24 @@ In the heat of the struggle, several unsettling truths became apparent. Barvin, 
 
 As the battle intensified, a strange phenomenon occurred. With every successful blow landed by the party, the creature's frenzied madness seemed to ebb, as if its very essence were stabilizing even as its life faded.
 
-**Battle Log**
+### **Battle Log**
 
-- **Barvin** approaches the creature.
-- **Monster** bites Barvin!
-- **Sicarious** executes a sneak attack with his hand crossbow for **8 piercing damage**.
-- **Cassius** approaches the monster and casts _Shield of Faith_ on himself.
-- **Noa** attempts to cast _Stardust_, but the spell is ineffective.
-- **Blaise** delivers a super-effective _Vicious Mockery_ and follows up by healing Barvin with _Healing Word_.
-- **Barvin** smacks the creature with his quarterstaff and then punches it, dealing **15 bludgeoning damage**.
-- **Monster** rolls into a defensive ball. It attempts to bite Barvin, but he successfully dodges. The creature's madness appears to be visibly subsiding. It retreats away from Barvin and Cassius.
-- **Barvin** makes an opportunity attack, dealing **9 bludgeoning damage**.
-- **Cassius** attempts a spell attack (utilizing _War Caster_), but misses.
-- **Sicarious** shoots again with his crossbow, dealing **17 piercing damage** across two hits.
-- **Cassius** casts a cantrip with his bell, dealing **2 damage**.
-- **Noa** pauses to contemplate the profound implications of killing a potential god before crying out, _"Rock, Go!"_ and casting _Catapult_. The spell is super-effective, dealing **12 rock damage**.
-- **Monster** stops breathing.
+| Round | Combatant     | Action                                                                                                                                          | Result                              |
+| :---- | :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
+| 1     | **Barvin**    | Approaches the creature.                                                                                                                        | —                                   |
+| 1     | **Monster**   | Bites Barvin.                                                                                                                                   | —                                   |
+| 1     | **Sicarious** | Executes a sneak attack with his hand crossbow.                                                                                                 | **8 piercing damage**               |
+| 1     | **Cassius**   | Approaches the monster and casts _Shield of Faith_ on himself.                                                                                  | —                                   |
+| 2     | **Noa**       | Attempts to cast _Stardust_.                                                                                                                    | The spell is ineffective.           |
+| 2     | **Blaise**    | Delivers a super-effective _Vicious Mockery_ and heals Barvin with _Healing Word_.                                                              | —                                   |
+| 2     | **Barvin**    | Smacks the creature with his quarterstaff and then punches it.                                                                                  | **15 bludgeoning damage**           |
+| 2     | **Monster**   | Rolls into a defensive ball; attempts to bite Barvin, who dodges. The creature's madness visibly subsides; it retreats from Barvin and Cassius. | —                                   |
+| 3     | **Barvin**    | Makes an opportunity attack.                                                                                                                    | **9 bludgeoning damage**            |
+| 3     | **Cassius**   | Attempts a spell attack (utilizing _War Caster_).                                                                                               | Misses.                             |
+| 3     | **Sicarious** | Shoots again with his crossbow, across two hits.                                                                                                | **17 piercing damage**              |
+| 3     | **Cassius**   | Casts a cantrip with his bell.                                                                                                                  | **2 damage**                        |
+| 4     | **Noa**       | Contemplates the profound implications of killing a potential god, then cries out, _"Rock, Go!"_ and casts _Catapult_.                          | Super-effective; **12 rock damage** |
+| 4     | **Monster**   | Stops breathing.                                                                                                                                | Defeated.                           |
 
 _End of battle_
 

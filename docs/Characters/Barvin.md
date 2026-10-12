@@ -1,4 +1,4 @@
-# Barvin Vox - Monk (Level 1)
+# Barvin Vox - Monk (LVL 1)
 
 ![Barvin Stats](./Barvin.webp)
 
