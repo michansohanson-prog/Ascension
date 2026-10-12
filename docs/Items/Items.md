@@ -7,6 +7,14 @@ description: A catalog of equipment, artifacts, and consumable goods.
 
 This list contains categorized inventory of gear found within the world's various markets and ruins.
 
+## Enzi Pipe
+
+A glass pipe in the shape of Enzi, presumably used for smoking tobacco or other recreational substances such as Salior's Grass, Witch Wort, or Sea Weed. It was offered as a reward by [Herb](/NPCs/NPCs.md#Herb) for safely rescuing a family from the ruins of Mount Enziret. Likely, Herb has various other such devices stashed away in his shop, [The Fungus Jug](/Locations/Locations.md#The-Fungus-Jug).
+
+## Golden Enzi Statue
+
+A shimmering golden statue of Enzi, worth aproximately 25 GP. It was found by Noa during an expedition into Enziret Passage, deep within Mount Enziret's heart.
+
 ## Weapons & Armory
 
 ### [ITEM NAME UNKNOWN]

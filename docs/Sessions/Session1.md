@@ -15,9 +15,9 @@ description: The Beginning of the Journey
 
 ### The Shadow Over Rockfall
 
-The air in Rockfall was thick with ash, smoke, and the heavy scent of disaster. Following the catastrophic fall of [Enziret](/Locations/Locations.md#Enziret), the town has become a landscape of flooded streets and chaos. While aid has trickled in from [Zanzibahar](/Locations/Locations.md#Zanzibahar), it is far from enough to stem the tide of despair. Everywhere you look, people are fleeing—some toward the safety of Zanzibahar, others wandering aimlessly toward unknown horizons.
+The air in [Rockfall](/Locations/Locations.md#Rockfall) was thick with ash, smoke, and the heavy scent of disaster. Following the catastrophic fall of [Enziret](/Locations/Locations.md#Enziret), the town has become a landscape of flooded streets and chaos. While aid has trickled in from [Zanzibahar](/Locations/Locations.md#Zanzibahar), it is far from enough to stem the tide of despair. Everywhere you look, people are fleeing—some toward the safety of Zanzibahar, others wandering aimlessly toward unknown horizons.
 
-Outside the [Dreaming Dragon Inn](/Locations/Locations.md#The-Dreaming-Dragon-Inn), the party gathered amidst the crowd. Cassius moved through the throng, lending a hand to those in need, while Sicarious remained tucked away, watching from a quiet corner. Barvin stood awkwardly in the center of the commotion, caught in the middle of the movement. High above the chaos, Noa and Blaise took up positions on nearby rooftops, gaining a vantage point over the devastation. To soothe the frantic spirits of the townsfolk, Blaise played his clarinet from atop a building, the melody drifting through the air and drawing a small, curious crowd.
+Outside the [Dreaming Dragon Inn](/Locations/Locations.md#The-Dreaming-Dragon-Inn), the party gathered amidst the crowd. [Cassius](/Characters/Cassius.md) moved through the throng, lending a hand to those in need, while [Sicarious](/Characters/Sicarious.md) remained tucked away, watching from a quiet corner. [Barvin](/Characters/Barvin.md) stood awkwardly in the center of the commotion, caught in the middle of the movement. High above the chaos, [Noa](/Characters/Noa.md) and [Blaise](/Characters/Blaise.md) took up positions on nearby rooftops, gaining a vantage point over the devastation. To soothe the frantic spirits of the townsfolk, Blaise played his clarinet from atop a building, the melody drifting through the air and drawing a small, curious crowd.
 
 A podium had been erected just outside the Inn for Magistrate [Aja Appleborn](/NPCs/NPCs.md#Aja-Appleborn)—a short, tan woman with bright red hair and freckles. As she addressed the gathering, deputy constables, working under the oversight of [Constable Joren](/NPCs/NPCs.md#Constable-Joren), moved through the crowd, scouting for information and monitoring those gathered. When Aja called for volunteers to assist with relief efforts, our party stepped forward.
 
@@ -29,7 +29,7 @@ The Magistrate revealed that a local family—two parents and two children—has
 
 Aja pledged the support of the townsfolk to our cause and provided us with a single Healing Potion to aid our journey. As the meeting adjourned, Cassius stayed behind alone with the Magistrate, offering his final 15G as a token of support—a selfless gesture "witnessed" by Barvin (who was downstairs), who later commended him on the kindness.
 
-[Silvie](/NPCs/NPCs.md#Silvie), the the Innkeeper of the Dreaming Dragon Inn, provided a meal of plain broth and vegetables to the party. Various hidden secret magical fortune cards were found inside the meal by various members of the party:
+[Silvie](/NPCs/NPCs.md#Silvie), the Innkeeper of the [Dreaming Dragon Inn](/Locations/Locations.md#The-Dreaming-Dragon-Inn), provided a meal of plain broth and vegetables to the party. Various hidden secret magical fortune cards were found inside the meal by various members of the party:
 
 _Insert Fortune Cookie Pics_
 
@@ -37,13 +37,13 @@ Barvin also mentioned to Blaise that he "knows what that stuff is, and liked it.
 
 ### Provisions and Preparations
 
-Before departing Rockfall, the party made use of Aja's offer of town assistanct to prepare for the trek ahead, visiting three distinct establishments:
+Before departing [Rockfall](/Locations/Locations.md#Rockfall), the party made use of Aja's offer of town assistanct to prepare for the trek ahead, visiting three distinct establishments:
 
 First, we visited [Cave Divers](/Locations/Locations.md#Cave-Divers), where a blue-haired rock gnome named [Tippy](/NPCs/NPCs.md#Tippy) served as the merchant. We secured essential gear for the mountains: two pickaxes, two 50ft coils of rope, and a peculiar "head-torch" that would help with visibility in dark places. Amidst the business, Sicarious managed to make off with a souvenir rock.
 
 Next, we stopped at [Rockstop](/Locations/Locations.md#Rockstop), a shop filled with Enzi memorabilia run by a heavily intoxicated [Rock-Genasi merchant](/NPCs/NPCs.md#Rock-Genasi-Merchant). The shop was filled with hats that mimicked Enzi's horns, various plushies, and various T-shirts. We noted that many of the T-shirts bore the cheeky message: _"I walked all the way from Rockfall and all I got was this stupid T-Shirt."_ Cassius acquired five of the mini-Enzi plushies to help calm frightened children, as well as five T-shirts for supplies. Noa, unfortunately, did not find the hat she was looking for. It was here we also learned a somber piece of local history: the Magistrate’s spouse recently perished during the eruption of Mount Enziret.
 
-Finally, we visited [The Fungus Jug](/Locations/Locations.md#The-Fungus-Jug), where we met [Herb](/NPCs/NPCs.md#Herb), a man who appeared to be heavily under the influence of some recreational substance. The tavern was filled with a familiar, pungent smoke—which Blaise identified as "Sailor's Grass," also known as "Witch Wort" or "Sea Weed." Herb provided us each with two days of rations and some Ale. He also gave us each a pouch of Sea Weed (though, Noa gave her portion to Blaise, citing her desire to keep a clear mind) and shared a grim outlook: the town is "done-zos," likely destined to be abandoned as people move on to Zanzibahar. Herb himself mentioned he might head for Urusha. He offered a unique reward for our success: a pipe shaped like Enzi.
+Finally, we visited [The Fungus Jug](/Locations/Locations.md#The-Fungus-Jug), where we met [Herb](/NPCs/NPCs.md#Herb), a man who appeared to be heavily under the influence of some recreational substance. The tavern was filled with a familiar, pungent smoke—which Blaise identified as "Sailor's Grass," also known as "Witch Wort" or "Sea Weed." Herb provided us each with two days of rations and some Ale. He also gave us each a pouch of Sea Weed (though, Noa gave her portion to Blaise, citing her desire to keep a clear mind) and shared a grim outlook: the town is "done-zos," likely destined to be abandoned as people move on to [Zanzibahar](/Locations/Locations.md#Zanzibahar). Herb himself mentioned he might head for Urusha. He offered a unique reward for our success: a pipe shaped like Enzi.
 
 During our preparations, we learned of the distinct properties of local flora: _Witch Wort_ grows in the bogs, _Sea Weed_ is found only on ships and requires salt water, and _Sailor's Grass_ is found along sandy shores.
 
@@ -69,7 +69,7 @@ We needed a way through, but the mountain was stubborn. Noa attempted to use _Mo
 
 The breakthrough required both magic and muscle. Cassius and Barvin set to work with their pickaxes, digging at the small opening. Using his superior strength, Cassius managed to widen the narrow hole enough for Noa to finally channel her magic effectively; this time, her _Mould Earth_ spell tore through the loosened debris, carving out an opening large enough for us to squeeze through and enter the cave.
 
-Inside, the cavern was vast and unsettling. Massive, jagged cracks spiderwebbed across the walls and the floor, and the ground was littered with the discarded remnants of people who had once tried to escape the mountain’s wrath. Amidst the debris, we scavenged what we could: Barvin and Blaise each found a set of clothes, though they are currently too dirty to be useful; Noa discovered a shimmering golden statue of Enzi, worth approximately 25 gold; and Sicarious stumbled upon a truly miraculous find—a _Bag of Holding_.
+Inside, the cavern was vast and unsettling. Massive, jagged cracks spiderwebbed across the walls and the floor, and the ground was littered with the discarded remnants of people who had once tried to escape the mountain’s wrath. Amidst the debris, we scavenged what we could: Barvin and Blaise each found a set of clothes, though they are currently too dirty to be useful; Noa discovered a shimmering golden statue of Enzi, worth approximately 25 gold; and Sicarious stumbled upon a truly miraculous find—a [_Bag of Holding_](/5E/09_Magic_Items/Magic_Items_A-Z/Magic_Items_B.md#Bag-of-Holding).
 
 Our moment of discovery was cut short by another tremor. The walls groaned and the ground shuddered, signaling that the mountain's instability was worsening. We pressed on with haste, entering a massive open chamber with a labyrint of yawning fissures in the floor. In the distance, we spotted them: a woman and the two children, huddled and hiding within a formation of rocks. They looked up and, seeing us, frantically gestured for us to be silent, their eyes wide with intense terror.
 
@@ -113,11 +113,11 @@ Initially it felt solid, but as she reached further, its substance began to shif
 
 ### A Narrow Escape
 
-The victory was short-lived. A massive tremor shook the cavern, followed by the deafening roar of collapsing stone. The mountain was reclaiming itself. With the cave systems falling apart around them, the party had to act instantly. In a frantic race against time, they successfully navigated the crumbling tunnels and made a dramatic exit, ensuring the safety of the townspeople. The Swamp Stompers arrived to assist, carrying the rescued children back towards the safety of Rockfall.
+The victory was short-lived. A massive tremor shook the cavern, followed by the deafening roar of collapsing stone. The mountain was reclaiming itself. With the cave systems falling apart around them, the party had to act instantly. In a frantic race against time, they successfully navigated the crumbling tunnels and made a dramatic exit, ensuring the safety of the townspeople. The [Swamp Stompers](/NPCs/NPCs.md#Swamp-Stompers) arrived to assist, carrying the rescued children back towards the safety of [Rockfall](/Locations/Locations.md#Rockfall).
 
 ### Aftermath in Rockfall
 
-Upon returning to the village, the atmosphere was one of relief and celebration. Joren and Aja Appleborn met the party, offering their heartfelt thanks for the daring rescue. During the reunion, Sicarious received the pipe from Herb as promised. However, the peace was tempered by the weight of upcoming challenges. Aja hinted that the party’s skills and bravery would make them ideal candidates for an important task: escorting a group of travelers and Swamp Stompers along the treacherous Swamp Path toward [Zanzibahar](/Locations/Locations.md#Zanzibahar).
+Upon returning to the village, the atmosphere was one of relief and celebration. [Joren](/NPCs/NPCs.md#Constable-Joren) and [Aja Appleborn](/NPCs/NPCs.md#Aja-Appleborn) met the party, offering their heartfelt thanks for the daring rescue. During the reunion, Sicarious received the pipe from Herb as promised. However, the peace was tempered by the weight of upcoming challenges. Aja hinted that the party’s skills and bravery would make them ideal candidates for an important task: escorting a group of travelers and Swamp Stompers along the treacherous Swamp Path toward [Zanzibahar](/Locations/Locations.md#Zanzibahar).
 
 ### **👥 NPCs Encountered**
 
