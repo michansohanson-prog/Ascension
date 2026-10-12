@@ -128,7 +128,7 @@ Noa's specific home city remains a mystery to all but her closest allies. Her or
 
 ### II. Arcane Exploration
 
-Noa is known for her "no questions" policy. She moves through the world as an independent agent of magic, whose blue-tinted arcane aura often serves as a warning to those who dare approach her secrets too closely.
+Noa is known for her "no questions" policy. She moves through the world as an independent agent of magic, whose purple-tinted arcane aura often serves as a warning to those who dare approach her secrets too closely.
 
 ### III. The Deleted History
 
