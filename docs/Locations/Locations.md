@@ -19,14 +19,33 @@ This page tracks the known geography of our world, organized by region and impor
 - **Current State:** Following a massive earthquake, the mountain erupted with lava and toxic gases. The God King is no longer visible or reachable.
 - **Notes:** [RECORDS OF PRE-DISASTER LIFE ARE CURRENTLY BEING ARCHIVED]
 
+### Enziret Passage
+
 ### Rockfall
 
 ::: warning _Status: Active Refugee Hub_
 :::
 
 - **Location:** A small town situated at the bottom of the mountain, below Enziret.
-- **Description:** Currently serving as a primary destination for refugees fleeing the destruction of Enziret. It is the current starting point for many who seek safety or work in relief efforts.
-- **Notes:** [UNKNOWN AT THIS TIME]
+- **Description:** Rockfall serves as a somber refugee hub, nestled at the base of Mount Enziret in the wake of the catastrophic eruption. The air in town remains thick with the heavy scent of disaster—a mixture of smoke, ash, and the lingering smell of the swamp—as the streets sit partially flooded by the tides of Zanzibahar. While the town is currently a landscape of chaos and despair, it has become a vital sanctuary for those fleeing the destruction of the kingdom. Amidst the ruin, life persists in small pockets: the "Rockstop" sells Enzi memorabilia to those seeking a connection to the past, "Cave Divers" provides essential equipment, and local establishments like the "Dreaming Dragon Inn" and "The Fungus Jug" offer a place for weary travelers to find respite. Though battered by the disaster, Rockfall remains a beacon of survival for the displaced.
+
+- **Notes:** Following the disaster, most inhabitants consider the town "Done-zos" and are leaving the town. Many are headed towards the nearest city of Zanzibahar.
+
+### The Dreaming Dragon Inn
+
+- **Description:** The Dreaming Dragon Inn serves as a primary hub in Rockfall, providing both sanctuary and administration for the displaced population. It is described as a rustic building where Magistrate Aja Appleborn maintains her home office, overseeing the local relief efforts and coordinating with the deputy constables. The inn also houses Silvie, the innkeeper.
+
+### Cave Divers
+
+- **Description:** Cave Divers is an essential equipment shop in Rockfall, managed by a blue-haired rock gnome named Tippy. The establishment serves as a staging area for those visiting/touring Mount Enziret, offering necessary mountain gear such as pickaxes, ropes, and "head-torches."
+
+### Rockstop
+
+- **Description:** Rockstop is an Enzi memorabilia shop that stands as a poignant site of cultural memory in Rockfall. Run by a heavily intoxicated Rock-Genasi, the shop is filled with items such as plushies, hats mimicking Enzi's horns, and T-shirts bearing cheeky slogans.
+
+### The Fungus Jug
+
+- **Description:** The Fungus Jug is a local tavern in Rockfall characterized by its heavy atmosphere and pungent smoke from "Sailor's Grass" (also known as Witch Wort or Sea Weed). The establishment is run by Herb, a man likely under the influence of recreational substances who provides travelers with fun drugs, drinks, and munchies. It is a place where the weary can chillax.
 
 ---
 

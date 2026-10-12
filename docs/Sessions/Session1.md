@@ -189,6 +189,6 @@ We successfully rescued the missing family from the caves of Mount Enziret. Alon
 **Unresolved Threads:**
 
 - Why has Enzi's aura has vanished from the region?
-- Why was Kuona going mad, and what injured it?
+- Why was Kuona going mad, and what injured it? (It's right arm looked broken, and there was blood all over it's mouth.)
 - What is the nature of the Mini-Kuona? How were we able to "kill" the god?
 - What is the nature of _Ascendency?_

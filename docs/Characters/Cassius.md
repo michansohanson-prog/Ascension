@@ -4,14 +4,33 @@
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value   | Modifier | Saving Throw |
-| :------ | :------ | :------- | :----------- |
-| **STR** | Pending | TBD      | TBD          |
-| **DEX** | Pending | TBD      | TBD          |
-| **CON** | Pending | TBD      | TBD          |
-| **INT** | Pending | TBD      | TBD          |
-| **WIS** | Pending | TBD      | TBD          |
-| **CHA** | Pending | TBD      | TBD          |
+Cassius stuff for website
+
+• HP: 9 (d8 hit die)
+• AC: 19 (chain mail 16, shield +2, Blessing of the Forge +1)
+• Speed: 30 ft
+• Proficiency: +2
+• Initiative: -1
+• Abilities: STR 15 (+2), DEX 8 (-1), CON 14 (+2), INT 10 (0), WIS 15 (+2), CHA 10 (0)
+• Saving throws: WIS +4, CHA +2 (cleric proficiencies)
+• Spell save DC: 12 · Spell attack: +4
+• Spell slots: 2 first-level
+
+| Stat            | Value     | Modifier | Saving Throw |
+| :-------------- | :-------- | :------- | :----------- |
+| **STR**         | 15        | +2       | +2           |
+| **DEX**         | 8         | -1       | -1           |
+| **CON**         | 14        | +2       | +2           |
+| **INT**         | 10        | +0       | +0           |
+| **WIS**         | 15        | +2       | +4           |
+| **CHA**         | 10        | +0       | +2           |
+| **HP**          | 9<br>(d8) | -        | -            |
+| **AC**          | 19        | -        | -            |
+| **Speed**       | 30 ft.    | -        | -            |
+| **Init**        | -1        | -        | -            |
+| **Spell DC**    | 12        | -        | -            |
+| **Spell ATK**   | +4        | 0        | 0            |
+| **Spell Slots** | 2x lvl 1  | -        | -            |
 
 ### Skills
 

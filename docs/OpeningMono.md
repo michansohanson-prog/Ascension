@@ -1,6 +1,6 @@
 _Ribbit._
 
-The sound splintered her dreams as [Petra](NPCs/NPCs.md#Petra) felt a sudden thump on her chest. With a dramatic startle, she sat upright in bed, causing the cricket to tumble back into the blankets.
+The sound splintered her dreams as Petra felt a sudden thump on her chest. With a dramatic startle, she sat upright in bed, causing the cricket to tumble back into the blankets.
 “Oh no, little one, I am so sorry,” the red dragonborn’s voice was gravelly as she attempted to free the winged frog from where it had thrashed itself to tangles in her clothing, croaking its discontent. The joints in her fingers sounded like rocks grinding together as she moved, the noise disconcerting enough to give the cricket pause—Petra Helm took advantage of the moment to loose the colorful creature’s claw from her lace nightgown.
 Free at last, it hopped from her duvet to the wooden surface of her desk, its large black eyes glaring. Its mouth fell agape, long pink tongue unfurling to reveal a pearlescent bead.
 “Petra Helm,” The voice was unfamiliar, imperious and instructive, radiating out from the magic implanted in the pearl. “You must come to the capitol building. You must come now.”
