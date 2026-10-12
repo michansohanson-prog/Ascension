@@ -3,11 +3,7 @@ title: NPCs
 description: A directory of significant individuals within the world.
 ---
 
-# Non-Player Characters (NPCs)
-
-This page serves as a living record of the people, entities, and deities encountered during our journey. Information is categorized by influence and proximity.
-
-## Rockfall Residents (Friendly)
+# Rockfall Residents (Friendly)
 
 ### The Refugees
 
@@ -16,24 +12,24 @@ This page serves as a living record of the people, entities, and deities encount
 - **Description:** Survivors of the Enziret disaster seeking safety and relief.
 - **Notes:** [RECORDS CURRENTLY UNKNOWN]
 
-### Aja Appleborn
+## Aja Appleborn
 
 - **Status:** Active
 - **Location:** Rockfall Town
 - **Description:** Individuals providing aid to the displaced population.
 - **Notes:** [UNKNOWN AT THIS TIME]
 
-### Corporal Joren
+## Corporal Joren
 
-### Silvie
+## Silvie
 
-### Rock-Genasi Merchant
+## Rock-Genasi Merchant
 
-### Tippy
+## Tippy
 
-### Herb
+## Herb
 
-### Swamp Stompers
+## Swamp Stompers
 
 ![SStomp](SStomp.webp)
 
