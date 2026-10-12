@@ -106,7 +106,8 @@ _End of battle_
 
 ### The Essence of Kuona
 
-As the combat ended, the tension in the cave was replaced by the cheers of the rescued family. In a moment of uncharacteristic curiosity, Noa approached the fallen creature. It initially felt solid beneath her touch, but as she reached further, its substance began to shift, becoming non-solid and granular, like shifting sand. As she pushed her hand deep into the creature's collapsing form, she felt a strange presence. Suddenly, the monster disintegrated completely into fine sand, and Noa found herself nearly falling into the space where it had been. In her hand, she caught something small and gray—a tiny, living version of the monster that wiggles in her palm. This little creature, the remnants of the lesser god named **Kuona**, is all that remains of the beast.
+As the echoes of battle faded, the cave’s suffocating tension gave way to the jubilant cheers of the rescued family. Noa stepped toward the fallen creature. Though she usually kept her distance, an inexplicable impulse drew her close—a sudden, piercing need to reach out and touch it.
+Initially it felt solid, but as she reached further, its substance began to shift, becoming non-solid and granular, like shifting sand. As she pushed her hand deep into the creature's collapsing form, she felt a strange presence. Suddenly, the monster disintegrated completely into fine sand, and Noa found herself nearly falling into the space where it had been. In her hand, she caught something small and gray—a tiny, living version of the monster that wiggles in her palm. This little creature, the remnants of the lesser god named **Kuona**, is all that remains of the beast.
 
 ### A Narrow Escape
 
