@@ -11,7 +11,7 @@ export default defineConfig({
   title: "Ascension",
   description: "A website for use during our DnD Campaign.",
   base: "/Ascension/",
-  head: [["link", { rel: "icon", href: "/Ascension/D20qwen.webp" }]],
+  head: [["link", { rel: "icon", href: "/Ascension/D20Qwen3.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
