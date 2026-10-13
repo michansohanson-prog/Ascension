@@ -45,7 +45,7 @@ Noa is a wizard whose specific home city remains a mystery to all but her closes
 :::
 
 ::: tip
-_Pro-tip:_ If the air starts glowing blue, it’s probably a good time to take a step back and reconsider your life choices.
+_Pro-tip:_ If the air starts glowing purple, it’s probably a good time to take a step back and reconsider your life choices.
 :::
 
 ::: warning
@@ -96,8 +96,8 @@ _Pro-tip:_ If you see him, he has already seen you. It’s not a competition; he
 _Cleric_
 
 ::: info
-**Origin:** Urusha (The "Las Vegas" of the continent)
-Cassius comes from Urusha, a land defined by its technological advancements and organized crime, all under the watchful eyes of Hurun and Nurun.
+**Origin:** [Redacted]
+Unknown
 :::
 
 ::: tip

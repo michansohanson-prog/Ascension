@@ -108,11 +108,11 @@ Cassius stuff for website
 ### Cleric (Background)
 
 - **ASI:** Pending
-- **Tech Affinity:** Familiarity with Urushan technological advancements.
-- **Urban Survival:** Proficiency in navigating organized crime territories.
-- **Divine Channeling:** Access to Hurun and Nurun's specific grievances.
+- **Tech Affinity:** Pending
+- **Urban Survival:** Pending
+- **Divine Channeling:** Pending
 - **Languages:** Pending
-- **Sensory Mechanics:** Highly attuned to "Moral Vibrations"—the spiritual weight of a location or person.
+- **Sensory Mechanics:** Pending
 
 ## Gear
 
@@ -158,8 +158,6 @@ TBD
 _Current Status: Cassius's spiritual records are currently being audited by a very confused deity._
 
 ## 📈 Cleric Progression Table
-
-_(Data currently being archived by the Urusha Temple)_
 
 | LVL | PROF<br>BNS | FEATURES                                                                    | ELEMANCY | CANTRIPS<br>KNOWN | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | :-- | :---------- | :-------------------------------------------------------------------------- | :------- | :---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
