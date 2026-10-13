@@ -53,7 +53,7 @@ header::before,
     width: 18rem !important;
   }
 }
-@media (min-width: 1440px) {
+@media (min-width: 2200px) {
   .VPSidebar {
     width: 32rem !important;
   }
