@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, withBase } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 
@@ -11,7 +11,7 @@ export default defineConfig({
   title: "Ascension",
   description: "A website for use during our DnD Campaign.",
   base: "/Ascension/",
-  head: [["link", { rel: "icon", href: "/favicon.svg" }]],
+  head: [["link", { rel: "icon", href: "/Ascension/favicon.svg" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
