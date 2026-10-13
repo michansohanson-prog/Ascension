@@ -1,23 +1,15 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "Ascension"
-  text: "The baby bit me."
-  tagline: "-Barvin"
-  image:
-    src: /Session2.webp
-    alt: message
----
+<div class="Hometitle"><h2>Ascension</h2></div>
+<div class="Homesub-container">
+<div class="Home-subtitle"><h3>The Baby bit me...</h3></div>
+<div class="Home-last"><h4>-Barvin</h4></div></div>
 
 <!-- Hero Actions Row -->
 <div class="action-row">
   <a href="./Characters/Noa">
     <img src="./images/Noa2.webp" alt="Noa" class="feature-image" />
     </a>
-  <a href="/Ascension/Lore/" class="action-button">
-    <img src="./images/D20qwen.webp" alt="Ascend" class="feature-image" style="height: 5.5rem"/>
+  <a href="./Sessions/Session1/" class="action-button">
+    <img src="/Session2.webp" alt="Session Notes" class="feature-image"/>
   </a>
     <a href="./Characters/Cassius">
     <img src="./images/CassiusIcon.webp" alt="Cassius" class="feature-image" />
