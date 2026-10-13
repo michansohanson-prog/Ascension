@@ -1,6 +1,6 @@
 # Noa - Wizard (Level 1)
 
-insert image
+![NoaTemp](./NoaTemp.webp)
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
