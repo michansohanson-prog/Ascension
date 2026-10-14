@@ -4,14 +4,14 @@
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value   | Modifier | Saving Throw |
-| :------ | :------ | :------- | :----------- |
-| **STR** | Pending | TBD      | TBD          |
-| **DEX** | Pending | TBD      | TBD          |
-| **CON** | Pending | TBD      | TBD          |
-| **INT** | Pending | TBD      | TBD          |
-| **WIS** | Pending | TBD      | TBD          |
-| **CHA** | Pending | TBD      | TBD          |
+| Stat             | Value   | Modifier | Saving<br>Throw |
+| :--------------- | :------ | :------- | :-------------- |
+| **STRENGTH**     | Pending | TBD      | TBD             |
+| **DEXTERITY**    | Pending | TBD      | TBD             |
+| **CONSTITUTION** | Pending | TBD      | TBD             |
+| **INTELLIGENCE** | Pending | TBD      | TBD             |
+| **WISDOM**       | Pending | TBD      | TBD             |
+| **CHARISMA**     | Pending | TBD      | TBD             |
 
 ### Skills
 

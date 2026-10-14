@@ -4,14 +4,14 @@
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
-| Stat    | Value             | Modifier | Saving Throw      |
-| :------ | :---------------- | :------- | :---------------- |
-| **STR** | 8                 | -1       | -1                |
-| **DEX** | 16<br>_(+2 RACE)_ | +3       | +5<br>_(+2 PROF)_ |
-| **CON** | 14                | +2       | +2                |
-| **INT** | 15                | +2       | +4<br>_(+2 PROF)_ |
-| **WIS** | 11<br>_(+1 RACE)_ | +0       | +0                |
-| **CHA** | 10                | +0       | +0                |
+| Stat             | Value             | Modifier | Saving<br>Throw   |
+| :--------------- | :---------------- | :------- | :---------------- |
+| **STRENGTH**     | 8                 | -1       | -1                |
+| **DEXTERITY**    | 16<br>_(+2 RACE)_ | +3       | +5<br>_(+2 PROF)_ |
+| **CONSTITUTION** | 14                | +2       | +2                |
+| **INTELLIGENCE** | 15                | +2       | +4<br>_(+2 PROF)_ |
+| **WISDOM**       | 11<br>_(+1 RACE)_ | +0       | +0                |
+| **CHARISMA**     | 10                | +0       | +0                |
 
 ### Skills
 

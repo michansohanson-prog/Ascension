@@ -144,6 +144,23 @@ h3 {
   color: transparent;
   text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);
 }
+@media (min-width: 320px) {
+  .Hometitle h2 {
+    font-size: 4rem;
+  }
+}
+@media (min-width: 768px) {
+  .Hometitle h2 {
+    font-size: 8rem;
+  }
+}
+@media (min-width: 1440px) {
+  .Hometitle h2 {
+    font-size: 20rem;
+    padding: 3rem;
+  }
+}
+
 .Homesub-container {
   display: flex;
   margin: 0;
