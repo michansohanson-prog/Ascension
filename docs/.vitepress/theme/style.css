@@ -181,63 +181,6 @@ h3 {
   font-style: italic;
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
 }
-/* Homepage Top Image Row */
-.action-row {
-  display: flex;
-  justify-content: center; /* Centers them under the hero text */
-  align-items: center;
-  justify-content: space-around;
-  gap: 0.2rem; /* Adjust this to your preferred spacing */
-  flex-wrap: nowrap; /* Makes them stack on mobile */
-  margin: 3rem 0;
-  height: 8rem;
-}
-
-/* Homepage 2nd row images */
-.feature-row {
-  display: flex;
-  justify-content: center; /* Centers them under the hero text */
-  align-items: center;
-  justify-content: space-around;
-  gap: 0.2rem; /* Adjust this to your preferred spacing */
-  flex-wrap: nowrap; /* Makes them stack on mobile */
-  margin: 3rem 0;
-  height: 8rem;
-}
-/* Feature Row */
-
-.feature-image {
-  height: 8rem;
-  width: auto;
-  margin: 0;
-  cursor: pointer;
-  display: block;
-  filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
-}
-@media (min-width: 475px) {
-  .feature-image {
-    height: 13rem;
-    width: auto;
-  }
-}
-@media (min-width: 768px) {
-  .feature-image {
-    height: 11rem;
-    width: auto;
-  }
-}
-@media (min-width: 1024px) {
-  .feature-image {
-    height: 11rem;
-    width: auto;
-  }
-}
-
-/* Hover effect on all Homepage images */
-.feature-image:hover {
-  filter: drop-shadow(0px 10px 15px rgba(162, 39, 39, 0.5)) brightness(1.1);
-  transform: scale(1.1);
-}
 /* Navbar text */
 .VPNav a {
   color: #214d36 !important;
