@@ -288,6 +288,8 @@ const handleItemClick = (item, index) => {
   transform-style: preserve-3d;
   cursor: pointer;
   overflow: visible !important;
+  /* Smooth out layout positioning transitions */
+  transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 /* Glassmorphism + Dark Green/Black Foundation with Vibrant Blue Highlights */
@@ -304,9 +306,12 @@ const handleItemClick = (item, index) => {
     0 16px 35px rgba(0, 0, 0, 0.6),
     0 0 14px rgba(0, 150, 255, 0.2);
   transition:
-    transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
-    box-shadow 0.35s ease,
-    border-color 0.35s ease;
+    width 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+    height 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+    transform 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+    box-shadow 0.4s ease,
+    border-color 0.4s ease,
+    background 0.4s ease;
   border: 2px solid rgba(40, 130, 90, 0.35);
   display: flex;
   align-items: center;
@@ -323,7 +328,7 @@ const handleItemClick = (item, index) => {
       0 0 10px rgba(0, 140, 255, 0.15);
   }
   50% {
-    border-color: rgba(0, 210, 255, 0.75); /* Vibrant electric blue highlight */
+    border-color: rgba(0, 210, 255, 0.75);
     box-shadow:
       0 16px 35px rgba(0, 0, 0, 0.6),
       0 0 22px rgba(0, 190, 255, 0.45);
@@ -336,7 +341,6 @@ const handleItemClick = (item, index) => {
   }
 }
 
-/* Slow Breathing Dark Green/Black Void with Vibrant Blue Accents */
 .dark-void-bg {
   position: absolute;
   inset: -50%;
@@ -368,7 +372,6 @@ const handleItemClick = (item, index) => {
   }
 }
 
-/* Ambient lighting sweep featuring a sharp electric blue streak */
 .subtle-glare {
   position: absolute;
   inset: -60%;
@@ -415,18 +418,18 @@ const handleItemClick = (item, index) => {
   filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
 }
 
-/* Front active card scaling and powerful emerald/electric-blue glow */
+/* Front active card scaling: increased dimensions for ~30-40% more growth */
 .carousel-item:has(.card-wrapper.active) {
-  top: -125px;
-  left: -87px;
-  width: 174px;
-  height: 250px;
+  top: -140px;
+  left: -98px;
+  width: 196px;
+  height: 280px;
   z-index: 100;
 }
 
 .card-wrapper.active {
-  width: 174px;
-  height: 250px;
+  width: 196px;
+  height: 280px;
   background: rgba(10, 30, 22, 0.8);
   border-color: rgba(0, 220, 255, 0.9);
   box-shadow:
@@ -455,14 +458,14 @@ const handleItemClick = (item, index) => {
     height: 160px;
   }
   .carousel-item:has(.card-wrapper.active) {
-    top: -100px;
-    left: -70px;
-    width: 140px;
-    height: 200px;
+    top: -110px;
+    left: -77px;
+    width: 154px;
+    height: 224px;
   }
   .card-wrapper.active {
-    width: 140px;
-    height: 200px;
+    width: 154px;
+    height: 224px;
   }
 }
 </style>
