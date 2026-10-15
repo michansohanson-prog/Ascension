@@ -1,4 +1,5 @@
 <script setup>
+import { withBase } from 'vitepress'
 import RotatingCarousel from "./.vitepress/theme/components/RotatingCarousel.vue"
 
 import noaImg from './images/Noa2.webp'
@@ -9,13 +10,12 @@ import barvinImg from './images/Barvin.webp'
 import session2Img from './images/Session2.webp'
 
 const navLinks = [
-  // Public directory files are served at root
-  { image: session2Img, link: '/Sessions/Session1' },
-  { image: noaImg, link: '/Characters/Noa' },
-  { image: cassiusImg, link: '/Characters/Cassius' },
-  { image: blaiseImg, link: '/Characters/Blaise' },
-  { image: sicariousImg, link: '/Characters/Sicarious' },
-  { image: barvinImg, link: '/Characters/Barvin' }
+  { image: session2Img, link: withBase('/Sessions/Session1/') },
+  { image: noaImg, link: withBase('/Characters/Noa') },
+  { image: cassiusImg, link: withBase('/Characters/Cassius') },
+  { image: blaiseImg, link: withBase('/Characters/Blaise') },
+  { image: sicariousImg, link: withBase('/Characters/Sicarious') },
+  { image: barvinImg, link: withBase('/Characters/Barvin') }
 ]
 </script>
 
