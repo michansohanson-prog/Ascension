@@ -28,7 +28,11 @@
             <div class="holo-foil"></div>
             <div class="holo-glare"></div>
             <div class="image-container">
-              <img :src="item.image" :alt="item.title" draggable="false" />
+              <img
+                :src="item.image"
+                :alt="item.title || ''"
+                draggable="false"
+              />
             </div>
           </div>
         </div>
@@ -39,6 +43,7 @@
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from "vue";
+import { useRouter } from "vitepress";
 
 const props = defineProps({
   items: {
@@ -48,13 +53,15 @@ const props = defineProps({
   },
 });
 
+const router = useRouter();
+
 const tiltAngle = -15;
 const currentAngle = ref(0);
 const targetAngle = ref(0);
 const activeIndex = ref(0);
 
 const itemCount = computed(() => props.items.length);
-const angleStep = computed(() => 360 / itemCount.value);
+const angleStep = computed(() => (itemCount.value ? 360 / itemCount.value : 0));
 
 // Responsive radius for mobile vs desktop
 const carouselRadius = ref(320);
@@ -63,6 +70,8 @@ const updateRadius = () => {
     carouselRadius.value = window.innerWidth <= 640 ? 190 : 320;
   }
 };
+
+let animationFrameId = null;
 
 onMounted(() => {
   updateRadius();
@@ -84,14 +93,15 @@ const getItemStyle = (index) => {
 };
 
 // Smooth animation loop
-let animationFrameId = null;
 const animate = () => {
   currentAngle.value += (targetAngle.value - currentAngle.value) * 0.08;
 
-  const normalizedAngle = ((-currentAngle.value % 360) + 360) % 360;
-  const rawIndex =
-    Math.round(normalizedAngle / angleStep.value) % itemCount.value;
-  activeIndex.value = (rawIndex + itemCount.value) % itemCount.value;
+  if (itemCount.value > 0) {
+    const normalizedAngle = ((-currentAngle.value % 360) + 360) % 360;
+    const rawIndex =
+      Math.round(normalizedAngle / angleStep.value) % itemCount.value;
+    activeIndex.value = (rawIndex + itemCount.value) % itemCount.value;
+  }
 
   animationFrameId = requestAnimationFrame(animate);
 };
@@ -193,7 +203,7 @@ const onWheel = (e) => {
 
 const snapToNearest = () => {
   setTimeout(() => {
-    if (!isDragging) {
+    if (!isDragging && angleStep.value) {
       const step = angleStep.value;
       const nearest = Math.round(targetAngle.value / step) * step;
       targetAngle.value = nearest;
@@ -205,7 +215,8 @@ const handleItemClick = (item, index) => {
   if (hasMoved) return;
 
   if (index === activeIndex.value && item.link) {
-    window.location.href = item.link;
+    // Navigate via VitePress Router to maintain SPA state
+    router.go(item.link);
   } else {
     const targetItemAngle = index * angleStep.value;
     targetAngle.value = -targetItemAngle;
@@ -381,7 +392,6 @@ const handleItemClick = (item, index) => {
   object-fit: contain;
   pointer-events: none;
   display: block;
-  /* Requested drop shadow */
   filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
 }
 
