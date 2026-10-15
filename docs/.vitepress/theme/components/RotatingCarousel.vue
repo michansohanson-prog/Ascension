@@ -25,7 +25,7 @@
           @click.stop="handleItemClick(item, index)"
         >
           <div class="card-wrapper" :class="{ active: index === activeIndex }">
-            <div class="green-blob-bg"></div>
+            <div class="dark-void-bg"></div>
             <div class="subtle-glare"></div>
             <div class="image-container">
               <img
@@ -290,82 +290,107 @@ const handleItemClick = (item, index) => {
   overflow: visible !important;
 }
 
-/* Glassmorphism + Dark Green Breathing Blob Card styling */
+/* Glassmorphism + Dark Green/Black Foundation with Vibrant Blue Highlights */
 .card-wrapper {
   position: relative;
   width: 100%;
   height: 100%;
   border-radius: 14px;
   overflow: hidden;
-  background: rgba(12, 22, 17, 0.45);
+  background: rgba(6, 12, 10, 0.7);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 16px 35px rgba(0, 0, 0, 0.5);
+  box-shadow:
+    0 16px 35px rgba(0, 0, 0, 0.6),
+    0 0 14px rgba(0, 150, 255, 0.2);
   transition:
     transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
     box-shadow 0.35s ease,
     border-color 0.35s ease;
-  border: 2px solid rgba(100, 180, 140, 0.3);
+  border: 2px solid rgba(40, 130, 90, 0.35);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 8px;
+  animation: border-glow-pulse 4s ease-in-out infinite alternate;
 }
 
-/* Slow Breathing Dark Green Blobs */
-.green-blob-bg {
+@keyframes border-glow-pulse {
+  0% {
+    border-color: rgba(40, 130, 90, 0.4);
+    box-shadow:
+      0 16px 35px rgba(0, 0, 0, 0.6),
+      0 0 10px rgba(0, 140, 255, 0.15);
+  }
+  50% {
+    border-color: rgba(0, 210, 255, 0.75); /* Vibrant electric blue highlight */
+    box-shadow:
+      0 16px 35px rgba(0, 0, 0, 0.6),
+      0 0 22px rgba(0, 190, 255, 0.45);
+  }
+  100% {
+    border-color: rgba(50, 150, 110, 0.45);
+    box-shadow:
+      0 16px 35px rgba(0, 0, 0, 0.6),
+      0 0 12px rgba(0, 120, 255, 0.2);
+  }
+}
+
+/* Slow Breathing Dark Green/Black Void with Vibrant Blue Accents */
+.dark-void-bg {
   position: absolute;
   inset: -50%;
   background: radial-gradient(
     circle,
-    rgba(20, 70, 45, 0.6) 0%,
-    rgba(10, 35, 25, 0.3) 50%,
-    transparent 80%
+    rgba(8, 45, 30, 0.65) 0%,
+    rgba(5, 25, 45, 0.5) 40%,
+    rgba(2, 5, 10, 0.85) 70%,
+    transparent 90%
   );
-  opacity: 0.7;
+  opacity: 0.8;
   pointer-events: none;
   border-radius: 40%;
-  animation: blob-breathe 7s ease-in-out infinite alternate;
+  animation: void-breathe 8s ease-in-out infinite alternate;
 }
 
-@keyframes blob-breathe {
+@keyframes void-breathe {
   0% {
-    transform: scale(0.9) translate(-10px, -10px);
+    transform: scale(0.9) translate(-15px, -15px);
     opacity: 0.5;
   }
   50% {
-    transform: scale(1.15) translate(10px, 10px);
-    opacity: 0.85;
+    transform: scale(1.2) translate(15px, 15px);
+    opacity: 0.95;
   }
   100% {
-    transform: scale(0.95) translate(-5px, 5px);
+    transform: scale(0.95) translate(-10px, 10px);
     opacity: 0.6;
   }
 }
 
-/* Very subtle ambient lighting sweep */
+/* Ambient lighting sweep featuring a sharp electric blue streak */
 .subtle-glare {
   position: absolute;
   inset: -60%;
   background: linear-gradient(
     135deg,
     transparent 40%,
-    rgba(150, 220, 180, 0.12) 50%,
+    rgba(0, 200, 255, 0.22) 50%,
     transparent 60%
   );
   pointer-events: none;
-  animation: glare-drift 8s ease-in-out infinite;
+  animation: glare-drift 9s ease-in-out infinite;
 }
 
 @keyframes glare-drift {
   0% {
-    transform: translateY(-40%) translateX(-40%);
+    transform: translateY(-45%) translateX(-45%);
   }
   50% {
-    transform: translateY(40%) translateX(40%);
+    transform: translateY(45%) translateX(45%);
   }
   100% {
-    transform: translateY(-40%) translateX(-40%);
+    transform: translateY(-45%) translateX(-45%);
   }
 }
 
@@ -390,7 +415,7 @@ const handleItemClick = (item, index) => {
   filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
 }
 
-/* Front active card scaling and calm emerald glow */
+/* Front active card scaling and powerful emerald/electric-blue glow */
 .carousel-item:has(.card-wrapper.active) {
   top: -125px;
   left: -87px;
@@ -402,14 +427,16 @@ const handleItemClick = (item, index) => {
 .card-wrapper.active {
   width: 174px;
   height: 250px;
-  background: rgba(18, 45, 30, 0.55);
-  border-color: rgba(120, 220, 160, 0.7);
+  background: rgba(10, 30, 22, 0.8);
+  border-color: rgba(0, 220, 255, 0.9);
   box-shadow:
-    0 25px 60px rgba(20, 100, 60, 0.35),
-    inset 0 0 25px rgba(100, 220, 150, 0.2);
+    0 25px 60px rgba(0, 80, 50, 0.4),
+    0 0 32px rgba(0, 200, 255, 0.55),
+    inset 0 0 25px rgba(0, 210, 255, 0.25);
+  animation: none;
 }
 
-.card-wrapper.active .green-blob-bg {
+.card-wrapper.active .dark-void-bg {
   opacity: 1;
 }
 
