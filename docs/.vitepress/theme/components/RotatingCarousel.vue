@@ -25,8 +25,8 @@
           @click.stop="handleItemClick(item, index)"
         >
           <div class="card-wrapper" :class="{ active: index === activeIndex }">
-            <div class="holo-foil"></div>
-            <div class="holo-glare"></div>
+            <div class="green-blob-bg"></div>
+            <div class="subtle-glare"></div>
             <div class="image-container">
               <img
                 :src="item.image"
@@ -215,7 +215,6 @@ const handleItemClick = (item, index) => {
   if (hasMoved) return;
 
   if (index === activeIndex.value && item.link) {
-    // Navigate via VitePress Router to maintain SPA state
     router.go(item.link);
   } else {
     const targetItemAngle = index * angleStep.value;
@@ -291,86 +290,82 @@ const handleItemClick = (item, index) => {
   overflow: visible !important;
 }
 
-/* Glassmorphism + Intense Metallic/Dark Holofoil Card styling */
+/* Glassmorphism + Dark Green Breathing Blob Card styling */
 .card-wrapper {
   position: relative;
   width: 100%;
   height: 100%;
   border-radius: 14px;
   overflow: hidden;
-  background: rgba(20, 25, 40, 0.25);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  background: rgba(12, 22, 17, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 16px 35px rgba(0, 0, 0, 0.5);
   transition:
     transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
     box-shadow 0.35s ease,
     border-color 0.35s ease;
-  border: 2px solid rgba(255, 255, 255, 0.6);
+  border: 2px solid rgba(100, 180, 140, 0.3);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 8px;
 }
 
-/* Masculine Metallic Rainbow Foil: Dark Cyan, Electric Cobalt, Emerald, Flame Orange, Deep Violet */
-.holo-foil {
+/* Slow Breathing Dark Green Blobs */
+.green-blob-bg {
   position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(
-    135deg,
-    rgba(0, 180, 255, 0.65) 0px,
-    rgba(0, 255, 150, 0.65) 20px,
-    rgba(255, 140, 0, 0.65) 40px,
-    rgba(130, 0, 255, 0.65) 60px,
-    rgba(0, 180, 255, 0.65) 80px
+  inset: -50%;
+  background: radial-gradient(
+    circle,
+    rgba(20, 70, 45, 0.6) 0%,
+    rgba(10, 35, 25, 0.3) 50%,
+    transparent 80%
   );
-  background-size: 300% 300%;
-  mix-blend-mode: color-dodge;
-  opacity: 0.95;
+  opacity: 0.7;
   pointer-events: none;
-  border-radius: 14px;
-  animation: holo-shimmer 3.5s linear infinite;
+  border-radius: 40%;
+  animation: blob-breathe 7s ease-in-out infinite alternate;
 }
 
-@keyframes holo-shimmer {
+@keyframes blob-breathe {
   0% {
-    background-position: 0% 0%;
+    transform: scale(0.9) translate(-10px, -10px);
+    opacity: 0.5;
   }
   50% {
-    background-position: 100% 100%;
+    transform: scale(1.15) translate(10px, 10px);
+    opacity: 0.85;
   }
   100% {
-    background-position: 0% 0%;
+    transform: scale(0.95) translate(-5px, 5px);
+    opacity: 0.6;
   }
 }
 
-/* Sharp Metallic Glare Reflection */
-.holo-glare {
+/* Very subtle ambient lighting sweep */
+.subtle-glare {
   position: absolute;
-  inset: -80%;
+  inset: -60%;
   background: linear-gradient(
-    45deg,
-    transparent 35%,
-    rgba(180, 230, 255, 0.8) 46%,
-    rgba(255, 255, 255, 1) 50%,
-    rgba(180, 230, 255, 0.8) 54%,
-    transparent 65%
+    135deg,
+    transparent 40%,
+    rgba(150, 220, 180, 0.12) 50%,
+    transparent 60%
   );
-  mix-blend-mode: hard-light;
   pointer-events: none;
-  animation: glare-sweep 3s ease-in-out infinite;
+  animation: glare-drift 8s ease-in-out infinite;
 }
 
-@keyframes glare-sweep {
+@keyframes glare-drift {
   0% {
-    transform: translateY(-120%) translateX(-120%);
+    transform: translateY(-40%) translateX(-40%);
   }
   50% {
-    transform: translateY(120%) translateX(120%);
+    transform: translateY(40%) translateX(40%);
   }
   100% {
-    transform: translateY(120%) translateX(120%);
+    transform: translateY(-40%) translateX(-40%);
   }
 }
 
@@ -395,7 +390,7 @@ const handleItemClick = (item, index) => {
   filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
 }
 
-/* Front active card scaling and vivid electric glow */
+/* Front active card scaling and calm emerald glow */
 .carousel-item:has(.card-wrapper.active) {
   top: -125px;
   left: -87px;
@@ -407,14 +402,14 @@ const handleItemClick = (item, index) => {
 .card-wrapper.active {
   width: 174px;
   height: 250px;
-  background: rgba(30, 40, 65, 0.4);
-  border-color: rgba(255, 255, 255, 1);
+  background: rgba(18, 45, 30, 0.55);
+  border-color: rgba(120, 220, 160, 0.7);
   box-shadow:
-    0 30px 70px rgba(0, 180, 255, 0.5),
-    inset 0 0 35px rgba(255, 255, 255, 0.8);
+    0 25px 60px rgba(20, 100, 60, 0.35),
+    inset 0 0 25px rgba(100, 220, 150, 0.2);
 }
 
-.card-wrapper.active .holo-foil {
+.card-wrapper.active .green-blob-bg {
   opacity: 1;
 }
 
