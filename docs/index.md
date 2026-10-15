@@ -1,13 +1,18 @@
 <script setup>
 import RotatingCarousel from "./.vitepress/theme/components/RotatingCarousel.vue"
+import noaImg from './images/Noa2.webp'
+import cassiusImg from './images/CassiusIcon.webp'
+import blaiseImg from './images/Blaise.webp'
+import sicariousImg from './images/Sicarious.webp'
+import barvinImg from './images/Barvin.webp'
 
 const navLinks = [
   { image: "./Session2.webp", link: "./Sessions/Session1/" },
-  { image: "./images/Noa2.webp", link: "./Characters/Noa" },
-  { image:"./images/CassiusIcon.webp", link: "./Characters/Cassius" },
-  { image:"./images/Blaise.webp", link: "./Characters/Blaise" },
-  { image:"./images/Sicarious.webp", link: "./Characters/Sicarious" },
-  { image:"./images/Barvin.webp", link: "./Characters/Barvin" }
+  { image: noaImg, link: './Characters/Noa' },
+  { image: cassiusImg, link: './Characters/Cassius' },
+  { image: blaiseImg, link: './Characters/Blaise' },
+  { image: sicariousImg, link: './Characters/Sicarious' },
+  { image: barvinImg, link: './Characters/Barvin' }
 ]
 </script>
 
