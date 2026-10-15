@@ -27,6 +27,7 @@ export default defineConfig({
       {
         text: "Where the fuck are you going?",
         items: [
+          { text: "Home", link: "/index.md" },
           {
             text: "Session Recaps",
             collapsed: false,
