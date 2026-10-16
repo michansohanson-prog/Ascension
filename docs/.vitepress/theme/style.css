@@ -9,6 +9,9 @@ body {
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
 }
+body img {
+  filter: drop-shadow(8px 8px 8px #000);
+}
 /* To Make the NavBars transparent */
 header::before,
 [class*="VPNav"]::before,
@@ -63,7 +66,7 @@ p,
 li {
   color: #0d2c18; /* Slightly softer off-white */
   line-height: 1.7; /* Increased leading for a more breathable feel */
-  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1); /* Almost imperceptible depth */
+  text-shadow: 1px 1px 1px #5a5959; /* Almost imperceptible depth */
   font-size: 1.1rem;
 }
 /* MD Header styles */
@@ -73,26 +76,29 @@ h3 {
   font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 400;
   letter-spacing: 0.02em;
-  text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.35);
+  text-shadow: 2px 2px 2px rgba(98, 97, 97, 0.35);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 h1 {
   /* A warm, muted gold for maximum pop without being overwhelming */
-  color: #041403;
+  color: #1d7117;
   font-size: large;
+  text-shadow: 2px 2px 3px #4d4c4c;
 }
 
 h2 {
   /* A softer cream/off-white to contrast with the H1 */
   color: #0c500f;
   font-size: 1.5em;
+  text-shadow: 2px 2px 2px #525151;
 }
 
 h3 {
   /* A bright, warm white/champagne for clarity */
   color: #2c8f66;
   font-size: 1.2em;
+  text-shadow: 2px 2px 2px #000;
 }
 /* Homepage Header Styles */
 :root {
@@ -173,13 +179,13 @@ h3 {
   margin: 0;
   padding: 0;
   font-style: italic;
-  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 .Home-last h4 {
   margin: 0;
   padding: 0;
   font-style: italic;
-  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 /* Navbar text */
 .VPNav a {
@@ -197,13 +203,20 @@ h3 {
 }
 /* SidebarText MANY OF THESE MAY BE OVERRIDDEN WITH H CLASSES */
 .VPSidebarItem.level-0 > .item > .text {
-  color: #200602 !important;
+  color: #0a680d !important;
   font-family: "segoe print", "market felt", cursive;
   font-size: 1.2rem;
+  font-weight: 1000;
 }
 /* Target nested text in Level-0 items */
 .VPSidebarItem.level-0 .text {
   color: #5d4242 !important;
+}
+.VPSidebarItem.level-0 h3 {
+  text-shadow: 1px 1px 1px #000;
+}
+.VPSidebarItem.level-0 p {
+  text-shadow: 1px 1px 1px #908e8e;
 }
 .VPDocOutlineItem a {
   color: inherit !important;
@@ -238,18 +251,23 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
 /* Custom blocks in the .md pages */
 .vp-doc .custom-block.info {
   background: linear-gradient(90deg, #c2c2bb 30%, #939384);
+  filter: drop-shadow(2px 2px 2px #000);
 }
 .vp-doc .custom-block.tip {
   background: linear-gradient(90deg, #a8bc87 30%, #89ba34);
+  filter: drop-shadow(2px 2px 2px #000);
 }
 .vp-doc .custom-block.warning {
   background: linear-gradient(90deg, #b3ab8f 30%, #a28a00);
+  filter: drop-shadow(2px 2px 2px #000);
 }
 .vp-doc .custom-block.danger {
   background: linear-gradient(90deg, #bf8484 30%, #9c1010);
+  filter: drop-shadow(2px 2px 2px #000);
 }
 .vp-doc .custom-block.details {
   background: linear-gradient(90deg, #928199 30%, #541c94);
+  filter: drop-shadow(2px 2px 2px #000);
 }
 
 /* --- Mobile-only pullout nav screen (Robust Selectors) --- */
@@ -272,6 +290,7 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
 /* Next Page and Previous Page buttons */
 a.VPLink.link.pager-link.next {
   background: linear-gradient(90deg, #671e1e 30%, #45bb53) !important;
+  filter: drop-shadow(2px 2px 2px #000);
 }
 a.VPLink.link.pager-link.next span.desc {
   color: #101a72;
@@ -281,6 +300,7 @@ a.VPLink.link.pager-link.next span.title {
 }
 a.VPLink.link.pager-link.prev {
   background: linear-gradient(90deg, #45bb53 0%, #671e1e) !important;
+  filter: drop-shadow(2px 2px 2px #000);
 }
 a.VPLink.link.pager-link.prev span.desc {
   color: #f7a7a7;

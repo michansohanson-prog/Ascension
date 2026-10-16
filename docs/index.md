@@ -30,5 +30,5 @@ const navLinks = [
 <img
   src="./images/Ascension2.webp"
   alt="Ascension"
-  style="display: block; margin: 1rem auto; max-width: 100%; height: auto; box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);"
+  style="display: block; margin: 1rem auto; max-width: 100%; height: auto; box-shadow: 8px 8px 8px #000;"
 />
