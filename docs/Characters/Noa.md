@@ -1,6 +1,6 @@
 # Noa - Wizard (Level 1)
 
-![NoaTemp](./NoaTemp.webp)
+![NoaTemp](./Noa3.webp)
 
 ## 📊 Attributes, Modifiers, & Saving Throws
 
