@@ -1,13 +1,7 @@
 <template>
   <div
     class="carousel-container"
-    @mousedown="handleStart"
-    @mousemove="handleMove"
-    @mouseup="handleEnd"
-    @mouseleave="handleEnd"
-    @touchstart="handleStart"
-    @touchmove="handleMove"
-    @touchend="handleEnd"
+    @pointerdown="handlePointerDown"
     @wheel.prevent="onWheel"
   >
     <div class="carousel-scene">
@@ -83,6 +77,9 @@ onMounted(() => {
 
 onUnmounted(() => {
   window.removeEventListener("resize", updateRadius);
+  window.removeEventListener("pointermove", handlePointerMove);
+  window.removeEventListener("pointerup", handlePointerUp);
+  window.removeEventListener("pointercancel", handlePointerUp);
   if (animationFrameId) cancelAnimationFrame(animationFrameId);
   if (snapTimer) clearTimeout(snapTimer);
 });
@@ -103,7 +100,7 @@ const startAnimationLoop = () => {
   }
 };
 
-// Smooth animation loop that pauses when idle (#2 fix)
+// Smooth animation loop that pauses when idle
 const animate = () => {
   const diff = targetAngle.value - currentAngle.value;
 
@@ -126,7 +123,7 @@ const animate = () => {
   }
 };
 
-// Controls & Normalized Touch/Mouse Handlers (#4 fix)
+// Unified Controls & Pointer Events Handlers
 let isDragging = false;
 let hasMoved = false;
 let startX = 0;
@@ -135,54 +132,90 @@ let startAngle = 0;
 let velocity = 0;
 let lastX = 0;
 let lastTime = 0;
+let currentPointerId = null;
 
-const getCoords = (e) => {
-  if (e.touches && e.touches.length > 0) {
-    return { x: e.touches[0].clientX, y: e.touches[0].clientY, isTouch: true };
-  }
-  return { x: e.clientX, y: e.clientY, isTouch: false };
-};
-
-const handleStart = (e) => {
-  const { x, y } = getCoords(e);
+const handlePointerDown = (e) => {
   isDragging = true;
   hasMoved = false;
-  startX = x;
-  startY = y;
+  currentPointerId = e.pointerId;
+
+  // Capture pointer on target if supported
+  if (e.target && typeof e.target.setPointerCapture === "function") {
+    try {
+      e.target.setPointerCapture(e.pointerId);
+    } catch (_) {
+      // Fallback silent fail
+    }
+  }
+
+  startX = e.clientX;
+  startY = e.clientY;
   startAngle = targetAngle.value;
-  lastX = x;
+  lastX = e.clientX;
   lastTime = performance.now();
   velocity = 0;
+
+  window.addEventListener("pointermove", handlePointerMove);
+  window.addEventListener("pointerup", handlePointerUp);
+  window.addEventListener("pointercancel", handlePointerUp);
+
   startAnimationLoop();
 };
 
-const handleMove = (e) => {
-  if (!isDragging) return;
+const handlePointerMove = (e) => {
+  if (
+    !isDragging ||
+    (currentPointerId !== null && e.pointerId !== currentPointerId)
+  )
+    return;
 
-  const { x, y, isTouch } = getCoords(e);
-  const deltaX = x - startX;
-  const deltaY = y - startY;
+  const deltaX = e.clientX - startX;
+  const deltaY = e.clientY - startY;
 
-  if (Math.abs(deltaX) > 4 || Math.abs(deltaY) > 4) {
+  // Euclidean distance check to prevent micro-jitters on mobile/high-DPI mice from canceling clicks
+  if (Math.hypot(deltaX, deltaY) > 8) {
     hasMoved = true;
   }
 
-  const sensitivity = isTouch ? 0.3 : 0.25;
+  const sensitivity = e.pointerType === "touch" ? 0.3 : 0.25;
   targetAngle.value = startAngle + deltaX * sensitivity;
 
   const now = performance.now();
   const dt = now - lastTime;
   if (dt > 0) {
-    velocity = ((x - lastX) / dt) * 8;
+    velocity = ((e.clientX - lastX) / dt) * 8;
   }
-  lastX = x;
+  lastX = e.clientX;
   lastTime = now;
   startAnimationLoop();
 };
 
-const handleEnd = () => {
-  if (!isDragging) return;
+const handlePointerUp = (e) => {
+  if (
+    !isDragging ||
+    (currentPointerId !== null && e.pointerId !== currentPointerId)
+  )
+    return;
+
+  if (
+    e.target &&
+    typeof e.target.releasePointerCapture === "function" &&
+    currentPointerId !== null
+  ) {
+    try {
+      e.target.releasePointerCapture(currentPointerId);
+    } catch (_) {
+      // Fallback silent fail
+    }
+  }
+
   isDragging = false;
+  currentPointerId = null;
+
+  window.removeEventListener("pointermove", handlePointerMove);
+  window.removeEventListener("pointerup", handlePointerUp);
+  window.removeEventListener("pointercancel", handlePointerUp);
+
   targetAngle.value += velocity * 2;
   snapToNearest();
   startAnimationLoop();
@@ -194,7 +227,7 @@ const onWheel = (e) => {
   startAnimationLoop();
 };
 
-// Safe snap to nearest function with lifecycle cleanup (#3 fix)
+// Safe snap to nearest function with lifecycle cleanup
 const snapToNearest = () => {
   if (snapTimer) clearTimeout(snapTimer);
   snapTimer = setTimeout(() => {
@@ -243,7 +276,7 @@ const handleItemClick = (item, index) => {
   overflow: visible !important;
   background: transparent;
   user-select: none;
-  touch-action: pan-y;
+  touch-action: none; /* Prevents vertical scroll interference during carousel swipes */
   cursor: grab;
   padding: 0;
 }
@@ -415,7 +448,7 @@ const handleItemClick = (item, index) => {
   filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.4));
 }
 
-/* Front active card scaling: increased dimensions for ~30-40% more growth */
+/* Front active card scaling */
 .carousel-item:has(.card-wrapper.active) {
   top: -140px;
   left: -98px;
