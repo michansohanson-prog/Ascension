@@ -1,113 +1,240 @@
-/* 4. THE PARCHMENT BACKGROUND (Corrected for scrolling) */
+/* ============================================
+   1. GLOBAL & BACKGROUNDS
+   ============================================ */
 body {
   margin: 0 !important;
   padding: 0 !important;
   background-image: url("/parchmentb.webp") !important;
-  /* Using 'cover' + 'fixed' ensures the parchment stays put and fills the screen perfectly */
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
 }
+
 body img {
   filter: drop-shadow(8px 8px 8px #000);
   border-radius: 20px;
 }
-/* To Make the NavBars transparent */
-header::before,
-[class*="VPNav"]::before,
-.VPLocalNav::before {
-  background: linear-gradient(#e8dfd7, #5a523f) !important;
+
+/* Catch-all to remove "curtain" overlay elements */
+[class*="curtain"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
 }
-/* Adjust Sidebar Width and Adjust Links to match */
-@media (min-width: 768px) {
-  /* Force all links and text inside the sidebar to be left-aligned */
-  .VPSidebar,
-  .VPSidebar .container,
-  .VPSidebar ul,
-  .VPSidebar li {
-    text-align: left !important;
-    padding-left: 2rem !important;
-  }
-  /* Ensure navigation items themselves aren't centered by a flexbox */
-  .VPSidebar .vp-nav-item,
-  .VPSidebar .navigation-item {
-    display: block !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    padding-left: 1rem !important;
-  }
-  /* If there's a sub-menu container, make sure it also aligns left */
-  .VPSidebar .sub-nav {
-    padding-left: 1rem !important; /* Indent nested items slightly */
-  }
-}
-@media (min-width: 1440px) {
-  .VPSidebarItem.level-0 .text {
-    font-size: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .VPSidebar {
-    width: 32rem !important;
-  }
-}
-@media (min-width: 1024px) {
-  .VPSidebar {
-    width: 18rem !important;
-  }
-}
-@media (min-width: 2200px) {
-  .VPSidebar {
-    width: 32rem !important;
-  }
-}
-/* Body text style */
+
+/* ============================================
+   2. TYPOGRAPHY (MARKDOWN & GENERAL)
+   ============================================ */
 p,
 li {
-  color: #0d2c18; /* Slightly softer off-white */
-  line-height: 1.7; /* Increased leading for a more breathable feel */
-  text-shadow: 1px 1px 1px #5a5959; /* Almost imperceptible depth */
+  color: #0d2c18;
+  line-height: 1.7;
+  text-shadow: 1px 1px 1px #5a5959;
   font-size: 1.1rem;
 }
-/* MD Header styles */
+
 h1,
 h2,
 h3 {
   font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
   font-weight: 400;
   letter-spacing: 0.02em;
-  text-shadow: 2px 2px 2px rgba(98, 97, 97, 0.35);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 h1 {
-  /* A warm, muted gold for maximum pop without being overwhelming */
   color: #1d7117;
   font-size: large;
   text-shadow: 2px 2px 3px #4d4c4c;
 }
 
 h2 {
-  /* A softer cream/off-white to contrast with the H1 */
   color: #0c500f;
   font-size: 1.5em;
   text-shadow: 2px 2px 2px #525151;
 }
 
 h3 {
-  /* A bright, warm white/champagne for clarity */
   color: #2c8f66;
   font-size: 1.2em;
   text-shadow: 2px 2px 2px #000;
 }
-/* Homepage Header Styles */
+
+/* ============================================
+   3. NAVIGATION & SIDEBAR
+   ============================================ */
+header::before,
+[class*="VPNav"]::before,
+.VPLocalNav::before {
+  background: linear-gradient(#e8dfd7, #5a523f) !important;
+}
+
+.VPNav a {
+  color: #214d36 !important;
+  font-family: "segoe print", "market felt", cursive;
+}
+
+.VPSidebar {
+  background-image: url("/parchments.webp") !important;
+  background-size: 100% 100% !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
+}
+
+.VPSidebarItem.level-0 .text {
+  color: #5d4242 !important;
+  font-family: "segoe print", "market felt", cursive;
+  font-size: 1.2rem;
+  font-weight: 1000;
+}
+
+.VPSidebarItem.level-0 > .item > .text {
+  color: #0a3a19 !important;
+}
+
+.VPSidebarItem.level-0 h3 {
+  text-shadow: 1px 1px 1px #036a18;
+}
+
+.VPSidebarItem.level-0 p {
+  text-shadow: 1px 1px 1px #2188c0;
+}
+
+.VPDocOutlineItem a {
+  color: inherit !important;
+  text-decoration: inherit !important;
+}
+
+.outline-title {
+  color: #031604 !important;
+}
+
+.menu-text {
+  color: #031505 !important;
+}
+
+.top-link[data-v-0661805f] {
+  color: #021804 !important;
+}
+
+div[class*="VPLocalNavOutlineDropdown"] .outline-link {
+  color: #58552e !important;
+  text-decoration: inherit !important;
+  display: inline-block !important;
+}
+
+/* Sidebar Responsive Breakpoints */
+@media (min-width: 768px) {
+  .VPSidebar {
+    width: 20rem !important;
+  }
+}
+
+/* Mobile Pullout Navigation Screen */
+@media (max-width: 768px) {
+  div[class*="VPNavScreen"] {
+    background: linear-gradient(90deg, #a5babc 30%, #919fa4) !important;
+  }
+
+  div[class*="appearance"] {
+    background: linear-gradient(90deg, #dee3e3 0%, #85929a) !important;
+  }
+
+  div[class*="VPNavAppearance"] .text {
+    color: #364a52 !important;
+  }
+}
+/* ============================================
+   LARGE PC SCREEN FIX (1024px+)
+   ============================================ */
+@media (min-width: 1024px) {
+  /* Prevent VitePress from centering the layout boundary */
+  :root {
+    --vp-layout-max-width: 100% !important;
+  }
+
+  /* 1. Pin sidebar to top-left (0,0) and layer above header */
+  .VPSidebar {
+    position: fixed !important;
+    left: 0 !important;
+    top: 0 !important; /* Overrides nav height so it covers header area */
+    bottom: 0 !important;
+    width: 22rem !important;
+    z-index: 99 !important; /* Ensures book layers on top of topnav */
+    background-attachment: scroll !important;
+    padding-top: 1rem !important; /* Optional internal spacing at top */
+  }
+
+  /* 2. Push topnav/header content to the right so search bar doesn't bleed */
+  .VPNav {
+    padding-left: 20rem !important;
+  }
+
+  .VPNavBarSearch {
+    margin-left: 0 !important;
+  }
+
+  /* 3. Offset document content area to line up next to the book */
+  .VPContent.has-sidebar {
+    padding-left: 20rem !important;
+    max-width: 100% !important;
+  }
+
+  .VPContent .container {
+    margin-left: 0 !important;
+  }
+}
+
+/* ============================================
+   LARGE PC SCREEN FIX (2560x1440 / 1440px+)
+   ============================================ */
+@media (min-width: 1440px) {
+  /* Prevent VitePress from centering the layout boundary */
+  :root {
+    --vp-layout-max-width: 100% !important;
+  }
+
+  /* 1. Pin sidebar to top-left (0,0) and layer above header */
+  .VPSidebar {
+    position: fixed !important;
+    left: 0 !important;
+    top: 0 !important; /* Overrides nav height so it covers header area */
+    bottom: 0 !important;
+    width: 22rem !important;
+    z-index: 99 !important; /* Ensures book layers on top of topnav */
+    background-attachment: scroll !important;
+    padding-top: 1rem !important; /* Optional internal spacing at top */
+  }
+
+  /* 2. Push topnav/header content to the right so search bar doesn't bleed */
+  .VPNav {
+    padding-left: 22rem !important;
+  }
+
+  .VPNavBarSearch {
+    margin-left: 0 !important;
+  }
+
+  /* 3. Offset document content area to line up next to the book */
+  .VPContent.has-sidebar {
+    padding-left: 22rem !important;
+    max-width: 100% !important;
+  }
+
+  .VPContent .container {
+    margin-left: 0 !important;
+  }
+}
+/* ============================================
+   4. HOMEPAGE HERO STYLES
+   ============================================ */
 :root {
   --vp-home-hero-name-color: transparent;
-  /* 1. Name Gradient */
-  /* First % stop determines where the color becomes dominant*/
-  /* Second % stop determines the halfway point*/
-  /* The range between the two values is the blend section*/
   --vp-home-hero-name-background: linear-gradient(
     100deg,
     #202c87 0%,
@@ -129,8 +256,6 @@ h3 {
   --vp-home-hero-image-filter: blur(40px) contrast(1.1) brightness(0.9);
 }
 
-/* These rules live OUTSIDE the root variables */
-/* HomeHero Text Style */
 .Hometitle {
   display: flex;
   justify-content: center;
@@ -139,6 +264,7 @@ h3 {
   margin: 0;
   padding: 0;
 }
+
 .Hometitle h2 {
   margin: 0;
   font-size: 5rem;
@@ -151,6 +277,7 @@ h3 {
   color: transparent;
   text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);
 }
+
 @media (min-width: 320px) {
   .Hometitle h2 {
     font-size: 4rem;
@@ -176,80 +303,18 @@ h3 {
   align-items: center;
   justify-content: center;
 }
-.Home-subtitle h3 {
-  margin: 0;
-  padding: 0;
-  font-style: italic;
-  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
-}
+
+.Home-subtitle h3,
 .Home-last h4 {
   margin: 0;
   padding: 0;
   font-style: italic;
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
-/* Navbar text */
-.VPNav a {
-  color: #214d36 !important;
-  font-family: "segoe print", "market felt", cursive;
-}
-/* Custom Sidebar Background */
-.VPSidebar {
-  background-image: url("/parchments.webp") !important;
-  background-size: 100% 100% !important; /* Forces it to exactly match sidebar dimensions */
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  --vp-sidebar-backdrop-filter: saturate(180%) blur(8px);
-}
-/* SidebarText MANY OF THESE MAY BE OVERRIDDEN WITH H CLASSES */
-.VPSidebarItem.level-0 > .item > .text {
-  color: #0a680d !important;
-  font-family: "segoe print", "market felt", cursive;
-  font-size: 1.2rem;
-  font-weight: 1000;
-}
-/* Target nested text in Level-0 items */
-.VPSidebarItem.level-0 .text {
-  color: #5d4242 !important;
-}
-.VPSidebarItem.level-0 h3 {
-  text-shadow: 1px 1px 1px #000;
-}
-.VPSidebarItem.level-0 p {
-  text-shadow: 1px 1px 1px #908e8e;
-}
-.VPDocOutlineItem a {
-  color: inherit !important;
-  text-decoration: inherit !important;
-}
-/* Target the correct class for the "On this page" header */
-.outline-title {
-  color: #031604 !important; /* Replace #FF0000 with your desired color */
-}
-.menu-text {
-  color: #031505 !important;
-}
-/* and the Mobile Dropdown for the "On this page" */
-.top-link[data-v-0661805f] {
-  color: #021804 !important;
-}
 
-div[class*="VPLocalNavOutlineDropdown"] .outline-link {
-  color: #58552e !important; /* Or use 'inherit' if preferred */
-  text-decoration: inherit !important;
-  display: inline-block !important;
-}
-
-/* Catch-all to ensure all "curtain" elements are removed */
-[class*="curtain"] {
-  display: none !important;
-  visibility: hidden !important;
-  opacity: 0 !important;
-  pointer-events: none !important;
-}
-
-/* Custom blocks in the .md pages */
+/* ============================================
+   5. CUSTOM MARKDOWN BLOCKS & PAGERS
+   ============================================ */
 .vp-doc .custom-block.info {
   background: linear-gradient(90deg, #c2c2bb 30%, #939384);
   filter: drop-shadow(2px 2px 2px #000);
@@ -271,24 +336,7 @@ div[class*="VPLocalNavOutlineDropdown"] .outline-link {
   filter: drop-shadow(2px 2px 2px #000);
 }
 
-/* --- Mobile-only pullout nav screen (Robust Selectors) --- */
-@media (max-width: 768px) {
-  /* Using [class*="..."] targets the component regardless of the data-v ID */
-  div[class*="VPNavScreen"] {
-    background: linear-gradient(90deg, #a5babc 30%, #919fa4) !important;
-  }
-
-  div[class*="appearance"] {
-    background: linear-gradient(90deg, #dee3e3 0%, #85929a) !important;
-  }
-
-  /* Targets the text inside the appearance block specifically */
-  div[class*="VPNavAppearance"] .text {
-    color: #364a52 !important;
-  }
-}
-
-/* Next Page and Previous Page buttons */
+/* Pager Links */
 a.VPLink.link.pager-link.next {
   background: linear-gradient(90deg, #671e1e 30%, #45bb53) !important;
   filter: drop-shadow(2px 2px 2px #000);
@@ -299,6 +347,7 @@ a.VPLink.link.pager-link.next span.desc {
 a.VPLink.link.pager-link.next span.title {
   color: #060c6a;
 }
+
 a.VPLink.link.pager-link.prev {
   background: linear-gradient(90deg, #45bb53 0%, #671e1e) !important;
   filter: drop-shadow(2px 2px 2px #000);
@@ -309,20 +358,47 @@ a.VPLink.link.pager-link.prev span.desc {
 a.VPLink.link.pager-link.prev span.title {
   color: #060c6a;
 }
-/* ============================================
-   TABLE STYLING FOR CHARACTER STATISTICS
-   ============================================ */
 
-/* Base table styles - targets all tables in the doc layout */
+/* ============================================
+   6. TABLE STYLING FOR CHARACTER STATISTICS
+   ============================================ */
 .vp-doc table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5rem 0;
   font-size: 0.95rem;
   background: rgba(255, 255, 255, 0.03);
+  border: 2px solid #8b7355;
+  border-radius: 12px;
+  overflow: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  position: relative;
 }
 
-/* Header row styling - parchment/leather inspired gradient */
+/* Decorative corner & header underline */
+.vp-doc table::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid rgba(139, 115, 85, 0.4);
+  border-radius: 0 12px 12px 0;
+  pointer-events: none;
+}
+
+.vp-doc table th::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #8b7355, transparent);
+  margin: 0 auto 0.3rem auto;
+}
+
 .vp-doc table th {
   background: linear-gradient(
     90deg,
@@ -331,20 +407,25 @@ a.VPLink.link.pager-link.prev span.title {
     #6b5745 100%
   ) !important;
   color: #1a1a1a !important;
-  font-weight: bold;
+  font-weight: 600;
   padding: 0.75rem;
   text-align: left;
   border: 1px solid #8b7355;
-  font-size: 0.95rem;
   border-bottom: 2px solid #8b7355;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
-/* Alternating row colors (zebra stripes) */
 .vp-doc table tr:nth-child(even) {
   background-color: rgba(139, 115, 85, 0.08);
 }
 
-/* All cells */
+.vp-doc table tr:hover {
+  background-color: rgba(139, 115, 85, 0.18) !important;
+  box-shadow: inset 0 0 10px rgba(139, 115, 85, 0.2);
+}
+
 .vp-doc table td {
   padding: 0.75rem;
   border: 1px solid #8b7355;
@@ -352,7 +433,7 @@ a.VPLink.link.pager-link.prev span.title {
   vertical-align: middle;
 }
 
-/* First column (stat names) - make bold */
+/* Stat column rules */
 .vp-doc table th:first-child,
 .vp-doc table td:first-child {
   font-weight: 600;
@@ -365,7 +446,6 @@ a.VPLink.link.pager-link.prev span.title {
   );
 }
 
-/* Center-align numeric columns */
 .vp-doc table th:nth-child(2),
 .vp-doc table td:nth-child(2),
 .vp-doc table th:nth-child(3),
@@ -379,125 +459,24 @@ a.VPLink.link.pager-link.prev span.title {
   );
 }
 
-/* Hover effect on rows - parchment glow */
-.vp-doc table tr:hover {
-  background-color: rgba(139, 115, 85, 0.15) !important;
-  box-shadow: inset 0 0 10px rgba(139, 115, 85, 0.2);
-}
-
-/* Style for "Pending" and "TBD" cells - amber parchment glow */
+/* Pending Cell Styling */
 .vp-doc table td[contenteditable="true"],
 .vp-doc table td[data-pending="true"] {
-  background-color: rgba(255, 215, 0, 0.12) !important;
-  font-style: italic;
-  color: #8b6914 !important;
-  border-left: 3px solid rgba(255, 215, 0, 0.5) !important;
-  padding-left: 0.8rem !important;
   background: linear-gradient(
     180deg,
     rgba(255, 215, 0, 0.15),
     rgba(255, 165, 0, 0.08)
-  );
-}
-
-/* Progression table specific styles - enhanced parchment theme */
-.vp-doc table.progression-table {
-  border: 2px solid #8b7355;
-  border-radius: 8px;
-  overflow: auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.vp-doc table.progression-table th {
-  background: linear-gradient(
-    90deg,
-    #6b5745 0%,
-    #8b7355 50%,
-    #4a3d31 100%
   ) !important;
-  color: #1a1a1a !important;
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  border-bottom: 2px solid #8b7355;
-}
-
-.vp-doc table.progression-table td {
-  border-bottom: 1px solid rgba(139, 115, 85, 0.3);
-}
-
-.vp-doc table.progression-table td:first-child {
-  font-weight: 600;
-  color: #1a1a1a !important;
-}
-
-.vp-doc table.progression-table td:nth-child(2),
-.vp-doc table.progression-table td:nth-child(3),
-.vp-doc table.progression-table td:nth-child(4) {
-  text-align: center;
-  color: #5d4242;
-}
-
-.vp-doc table.progression-table td:nth-child(5) {
-  text-align: center;
-  font-weight: 500;
-}
-
-.vp-doc table.progression-table td:nth-child(6) {
-  text-align: left;
   font-style: italic;
-  color: #2c8f66;
-}
-
-/* ============================================
-   ENHANCED STYLING - Add to ALL tables
-   ============================================ */
-
-/* Add glowing border to all tables */
-.vp-doc table {
-  border: 2px solid #8b7355;
-  border-radius: 12px;
-  overflow: auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-/* Enhanced header styling - parchment/leather gradient */
-.vp-doc table th {
-  background: linear-gradient(
-    90deg,
-    #8b7355 0%,
-    #a68b60 50%,
-    #6b5745 100%
-  ) !important;
-  color: #1a1a1a !important;
-  font-size: 1.1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  border-bottom: 2px solid #8b7355;
-  font-weight: 600;
-}
-
-/* Enhanced pending cell styling */
-.vp-doc table td[data-pending="true"] {
-  background-color: rgba(255, 215, 0, 0.15) !important;
   color: #8b6914 !important;
-  font-style: italic;
   border-left: 4px solid rgba(255, 215, 0, 0.6) !important;
   padding-left: 0.8rem !important;
 }
 
-/* Enhanced hover effects */
-.vp-doc table tr:hover {
-  background-color: rgba(139, 115, 85, 0.18) !important;
-  box-shadow: inset 0 0 10px rgba(139, 115, 85, 0.2);
-}
-
-/* Progression table enhancements */
+/* Progression Table Variant */
 .vp-doc table.progression-table {
   border: 2px solid #8b7355 !important;
   border-radius: 10px;
-  overflow: auto;
   box-shadow: 0 6px 18px rgba(139, 115, 85, 0.2);
 }
 
@@ -508,12 +487,8 @@ a.VPLink.link.pager-link.prev span.title {
     #8b7355 50%,
     #4a3d31 100%
   ) !important;
-  color: #1a1a1a !important;
   font-size: 1rem !important;
-  text-transform: uppercase !important;
   letter-spacing: 0.05em !important;
-  font-weight: 600 !important;
-  border-bottom: 2px solid #8b7355 !important;
 }
 
 .vp-doc table.progression-table td {
@@ -521,7 +496,6 @@ a.VPLink.link.pager-link.prev span.title {
 }
 
 .vp-doc table.progression-table td:first-child {
-  font-weight: 600;
   color: #1a1a1a !important;
 }
 
@@ -543,42 +517,14 @@ a.VPLink.link.pager-link.prev span.title {
   color: #2c8f66 !important;
 }
 
-/* Add glowing corner accents */
-.vp-doc table::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 0;
-  height: 0;
-  border-top: 10px solid transparent;
-  border-bottom: 10px solid transparent;
-  border-right: 10px solid rgba(139, 115, 85, 0.4);
-  border-radius: 0 12px 12px 0;
-  pointer-events: none;
-}
-
-/* Add decorative underline to headers */
-.vp-doc table th::before {
-  content: "";
-  display: block;
-  width: 40px;
-  height: 2px;
-  background: linear-gradient(90deg, transparent, #8b7355, transparent);
-  margin: 0 auto 0.3rem auto;
-}
-
-/* ============================================
-   RESPONSIVE DESIGN FOR MOBILE
-   ============================================ */
-
+/* Table Responsive Styles */
 @media (max-width: 768px) {
   .vp-doc table {
     font-size: 0.85rem;
     border-width: 1.5px;
     margin: 1rem 0;
-    overflow-x: auto; /* Enable horizontal scrolling */
-    white-space: nowrap; /* Keep table together */
+    overflow-x: auto;
+    white-space: nowrap;
   }
 
   .vp-doc table th,
@@ -593,12 +539,10 @@ a.VPLink.link.pager-link.prev span.title {
   .vp-doc table td:first-child {
     width: 10%;
   }
-
   .vp-doc table td:nth-child(2),
   .vp-doc table td:nth-child(3) {
     width: 13%;
   }
-
   .vp-doc table td:last-child {
     width: 25%;
   }
