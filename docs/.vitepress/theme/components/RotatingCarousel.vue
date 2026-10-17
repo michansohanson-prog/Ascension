@@ -1,13 +1,13 @@
 <template>
   <div
     class="carousel-container"
-    @mousedown="startDrag"
-    @mousemove="onDrag"
-    @mouseup="endDrag"
-    @mouseleave="endDrag"
-    @touchstart="startTouch"
-    @touchmove="onTouch"
-    @touchend="endTouch"
+    @mousedown="handleStart"
+    @mousemove="handleMove"
+    @mouseup="handleEnd"
+    @mouseleave="handleEnd"
+    @touchstart="handleStart"
+    @touchmove="handleMove"
+    @touchend="handleEnd"
     @wheel.prevent="onWheel"
   >
     <div class="carousel-scene">
@@ -63,7 +63,7 @@ const activeIndex = ref(0);
 const itemCount = computed(() => props.items.length);
 const angleStep = computed(() => (itemCount.value ? 360 / itemCount.value : 0));
 
-// Responsive radius for mobile vs desktop
+// Responsive radius
 const carouselRadius = ref(320);
 const updateRadius = () => {
   if (typeof window !== "undefined") {
@@ -72,16 +72,19 @@ const updateRadius = () => {
 };
 
 let animationFrameId = null;
+let isAnimating = false;
+let snapTimer = null;
 
 onMounted(() => {
   updateRadius();
   window.addEventListener("resize", updateRadius);
-  animationFrameId = requestAnimationFrame(animate);
+  startAnimationLoop();
 });
 
 onUnmounted(() => {
   window.removeEventListener("resize", updateRadius);
   if (animationFrameId) cancelAnimationFrame(animationFrameId);
+  if (snapTimer) clearTimeout(snapTimer);
 });
 
 // Counter-rotate each item on X axis so cards face camera upright
@@ -92,9 +95,24 @@ const getItemStyle = (index) => {
   };
 };
 
-// Smooth animation loop
+// Start or resume the animation loop when interaction occurs
+const startAnimationLoop = () => {
+  if (!isAnimating) {
+    isAnimating = true;
+    animationFrameId = requestAnimationFrame(animate);
+  }
+};
+
+// Smooth animation loop that pauses when idle (#2 fix)
 const animate = () => {
-  currentAngle.value += (targetAngle.value - currentAngle.value) * 0.08;
+  const diff = targetAngle.value - currentAngle.value;
+
+  if (Math.abs(diff) > 0.001) {
+    currentAngle.value += diff * 0.08;
+  } else {
+    currentAngle.value = targetAngle.value;
+    isAnimating = false;
+  }
 
   if (itemCount.value > 0) {
     const normalizedAngle = ((-currentAngle.value % 360) + 360) % 360;
@@ -103,10 +121,12 @@ const animate = () => {
     activeIndex.value = (rawIndex + itemCount.value) % itemCount.value;
   }
 
-  animationFrameId = requestAnimationFrame(animate);
+  if (isAnimating) {
+    animationFrameId = requestAnimationFrame(animate);
+  }
 };
 
-// Controls logic (prevents click when dragging)
+// Controls & Normalized Touch/Mouse Handlers (#4 fix)
 let isDragging = false;
 let hasMoved = false;
 let startX = 0;
@@ -116,97 +136,73 @@ let velocity = 0;
 let lastX = 0;
 let lastTime = 0;
 
-const startDrag = (e) => {
-  isDragging = true;
-  hasMoved = false;
-  startX = e.clientX;
-  startY = e.clientY;
-  startAngle = targetAngle.value;
-  lastX = e.clientX;
-  lastTime = performance.now();
-  velocity = 0;
+const getCoords = (e) => {
+  if (e.touches && e.touches.length > 0) {
+    return { x: e.touches[0].clientX, y: e.touches[0].clientY, isTouch: true };
+  }
+  return { x: e.clientX, y: e.clientY, isTouch: false };
 };
 
-const onDrag = (e) => {
+const handleStart = (e) => {
+  const { x, y } = getCoords(e);
+  isDragging = true;
+  hasMoved = false;
+  startX = x;
+  startY = y;
+  startAngle = targetAngle.value;
+  lastX = x;
+  lastTime = performance.now();
+  velocity = 0;
+  startAnimationLoop();
+};
+
+const handleMove = (e) => {
   if (!isDragging) return;
 
-  const deltaX = e.clientX - startX;
-  const deltaY = e.clientY - startY;
+  const { x, y, isTouch } = getCoords(e);
+  const deltaX = x - startX;
+  const deltaY = y - startY;
 
   if (Math.abs(deltaX) > 4 || Math.abs(deltaY) > 4) {
     hasMoved = true;
   }
 
-  targetAngle.value = startAngle + deltaX * 0.25;
+  const sensitivity = isTouch ? 0.3 : 0.25;
+  targetAngle.value = startAngle + deltaX * sensitivity;
 
   const now = performance.now();
   const dt = now - lastTime;
   if (dt > 0) {
-    velocity = ((e.clientX - lastX) / dt) * 8;
+    velocity = ((x - lastX) / dt) * 8;
   }
-  lastX = e.clientX;
+  lastX = x;
   lastTime = now;
+  startAnimationLoop();
 };
 
-const endDrag = () => {
+const handleEnd = () => {
   if (!isDragging) return;
   isDragging = false;
   targetAngle.value += velocity * 2;
   snapToNearest();
-};
-
-const startTouch = (e) => {
-  if (!e.touches.length) return;
-  isDragging = true;
-  hasMoved = false;
-  startX = e.touches[0].clientX;
-  startY = e.touches[0].clientY;
-  startAngle = targetAngle.value;
-  lastX = e.touches[0].clientX;
-  lastTime = performance.now();
-  velocity = 0;
-};
-
-const onTouch = (e) => {
-  if (!isDragging || !e.touches.length) return;
-  const clientX = e.touches[0].clientX;
-  const clientY = e.touches[0].clientY;
-  const deltaX = clientX - startX;
-  const deltaY = clientY - startY;
-
-  if (Math.abs(deltaX) > 4 || Math.abs(deltaY) > 4) {
-    hasMoved = true;
-  }
-
-  targetAngle.value = startAngle + deltaX * 0.3;
-
-  const now = performance.now();
-  const dt = now - lastTime;
-  if (dt > 0) {
-    velocity = ((clientX - lastX) / dt) * 8;
-  }
-  lastX = clientX;
-  lastTime = now;
-};
-
-const endTouch = () => {
-  if (!isDragging) return;
-  isDragging = false;
-  targetAngle.value += velocity * 2;
-  snapToNearest();
+  startAnimationLoop();
 };
 
 const onWheel = (e) => {
   targetAngle.value -= e.deltaY * 0.1;
   snapToNearest();
+  startAnimationLoop();
 };
 
+// Safe snap to nearest function with lifecycle cleanup (#3 fix)
 const snapToNearest = () => {
-  setTimeout(() => {
+  if (snapTimer) clearTimeout(snapTimer);
+  snapTimer = setTimeout(() => {
     if (!isDragging && angleStep.value) {
       const step = angleStep.value;
       const nearest = Math.round(targetAngle.value / step) * step;
       targetAngle.value = nearest;
+      startAnimationLoop();
     }
   }, 150);
 };
@@ -219,6 +215,7 @@ const handleItemClick = (item, index) => {
   } else {
     const targetItemAngle = index * angleStep.value;
     targetAngle.value = -targetItemAngle;
+    startAnimationLoop();
   }
 };
 </script>
