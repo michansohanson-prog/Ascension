@@ -11,6 +11,7 @@ body {
 }
 body img {
   filter: drop-shadow(8px 8px 8px #000);
+  border-radius: 20px;
 }
 /* To Make the NavBars transparent */
 header::before,
