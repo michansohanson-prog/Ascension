@@ -74,7 +74,7 @@ header::before,
 
 .VPNav a {
   color: #214d36 !important;
-  font-family: "segoe print", "market felt", cursive;
+  font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
 }
 
 .VPSidebar {
@@ -88,7 +88,7 @@ header::before,
 
 .VPSidebarItem.level-0 .text {
   color: #5d4242 !important;
-  font-family: "segoe print", "market felt", cursive;
+  font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
   font-size: 1.2rem;
   font-weight: 1000;
 }
