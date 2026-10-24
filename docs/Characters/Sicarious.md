@@ -41,7 +41,7 @@
 ## Combat Statisctics
 
 | NAME              | DESCRIPTION                      |
-| :---------------- | :------------------------------- | --- |
+| :---------------- | :------------------------------- |
 | Hit Points        | 16<br> _(1d8 BASE +2 CON)_       |
 | Armor Class       | 15<br> _(12 Light Armor +3 DEX)_ |
 | Initiative        | +3<br> _(+3 DEX)_                |
@@ -52,17 +52,15 @@
 | Attack Bonus      | +5<br> _(+3 DEX +2 PROF)_        |
 | Tech Save DC      | 13<br> _(8 +3 DEX +2 PROF)_      |
 | Spell Save DC     | 10<br> _(8 +0 WIS +2 PROF)_      |
-| Special Feature   | Extra ATK on next turn           |     |
 
 ## ⚔️ Action Menu & Techniques
 
-| Action          | Cost        | Range  | ATK or SAVE | Damage        |
-| :-------------- | :---------- | ------ | ----------- | ------------- |
-| Special Feature | Every ACT   |        |             |               |
-| Melee ATK       | 1 Action    | Melee  | +5 ATK      | xdx + x (DEX) |
-| Ranged ATK      | 1 Action    | xx ft. | +5 ATK      | xdx + x (DEX) |
-| Sneak ATK       | 1x per Turn | xx ft. | _See Below_ | 1d6           |
-| Cunning Action  | BNS ACT     |        |             |               |
+| Action         | Cost        | Range  | ATK or SAVE | Damage        |
+| :------------- | :---------- | ------ | ----------- | ------------- |
+| Melee ATK      | 1 Action    | Melee  | +5 ATK      | xdx + x (DEX) |
+| Ranged ATK     | 1 Action    | xx ft. | +5 ATK      | xdx + x (DEX) |
+| Sneak ATK      | 1x per Turn | xx ft. | _See Below_ | 1d6           |
+| Cunning Action | BNS ACT     |        |             |               |
 
 ## Class Features & Proficiencies
 
