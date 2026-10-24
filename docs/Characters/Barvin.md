@@ -41,7 +41,7 @@
 ## Combat Statistics
 
 | NAME              | DESCRIPTION                                           |
-| :---------------- | :---------------------------------------------------- | --- |
+| :---------------- | :---------------------------------------------------- |
 | Hit Points        | 19<br>_(1d8 BASE +2 CON)_                             |
 | Armor Class       | 16<br>_(Unarmored Defense:<br>10 Base +3 DEX +3 WIS)_ |
 | Initiative        | +8<br>_(+3 DEX +5 ALERT)_                             |
@@ -54,7 +54,7 @@
 | Ki Save DC        | 13 _(8 +WIS +2 PROF)_                                 |
 | Tech Save DC      | 13 _(8 +3 DEX +2 PROF)_                               |
 | Spell Save DC     | 13 _(8 +3 DEX +2 PROF)_                               |
-| Special Feature   | Extra ATK on next turn                                |     |
+| Special Feature   | Extra ATK on next turn                                |
 
 ## ⚔️ Action Menu & Techniques
 
