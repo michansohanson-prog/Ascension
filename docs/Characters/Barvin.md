@@ -41,7 +41,7 @@
 ## Combat Statistics
 
 | NAME              | DESCRIPTION                                           |
-| :---------------- | :---------------------------------------------------- |
+| :---------------- | :---------------------------------------------------- | --- |
 | Hit Points        | 19<br>_(1d8 BASE +2 CON)_                             |
 | Armor Class       | 16<br>_(Unarmored Defense:<br>10 Base +3 DEX +3 WIS)_ |
 | Initiative        | +8<br>_(+3 DEX +5 ALERT)_                             |
@@ -54,11 +54,13 @@
 | Ki Save DC        | 13 _(8 +WIS +2 PROF)_                                 |
 | Tech Save DC      | 13 _(8 +3 DEX +2 PROF)_                               |
 | Spell Save DC     | 13 _(8 +3 DEX +2 PROF)_                               |
+| Special Feature   | Extra ATK on next turn                                |     |
 
 ## ⚔️ Action Menu & Techniques
 
 | Action            | Cost                   | Range              | ATK or SAVE                   | Damage                     |
 | :---------------- | :--------------------- | ------------------ | ----------------------------- | -------------------------- |
+| Special Feature   | At Start<br>of Turn    |                    | D20 <= LVL                    |                            |
 | Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)              |
 | Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)               |
 | Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                |
@@ -85,6 +87,7 @@
 | Patient DEF        | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
 | Step of the Wind   | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
 | Unarmored MVT      | Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                                                    |
+| Special Feature    | Roll a D20. If SpecialFeature(roll <= CharLVL>) = Success!<br>Next turn gain "Energy Surge."                                                                                                                        |
 
 ## 🧬 Race & Background Features
 
