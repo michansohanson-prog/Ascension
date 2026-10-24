@@ -42,12 +42,12 @@
 
 | NAME              | DESCRIPTION                                           |
 | :---------------- | :---------------------------------------------------- |
-| Hit Points        | 10<br>_(1d8 BASE +2 CON)_                             |
+| Hit Points        | 19<br>_(1d8 BASE +2 CON)_                             |
 | Armor Class       | 16<br>_(Unarmored Defense:<br>10 Base +3 DEX +3 WIS)_ |
 | Initiative        | +8<br>_(+3 DEX +5 ALERT)_                             |
-| Speed             | 30 ft.<br>_(+0 Unarmored Movement)_                   |
+| Speed             | 40 ft.<br>_(+10 Unarmored Movement)_                  |
 | Martial Arts      | 1d4 DMG                                               |
-| Ki Points         | 0                                                     |
+| Ki Points         | 2                                                     |
 | Technique Points  | 0                                                     |
 | Proficiency Bonus | +2                                                    |
 | Attack Bonus      | +5 _(+3 DEX +2 PROF)_                                 |
@@ -84,7 +84,7 @@
 | Flurry of Blows    | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
 | Patient DEF        | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
 | Step of the Wind   | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
-| Unarmored MVT      | Unlocked at Level 3<br>Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                             |
+| Unarmored MVT      | Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                                                    |
 
 ## 🧬 Race & Background Features
 
@@ -127,6 +127,21 @@
 - **DMG:** 1d6 +3 (DEX) _bludgeoning_
   ![Quarterstaff](./BarvinQuarterstaff.webp)
   _I don't like bees._
+
+### Flurry of Blows
+
+- **Cost:** 1 Ki Point
+- **Bonus:** Immediately after you take the ATK action on your turn, you can spend 1 Ki Point to make two Unarmed Strikes as a BNS ACT.
+
+### Patient Defense
+
+- **Cost:** 1 Ki Point
+- **Bonus:** You can spend 1 Ki Point to take the Dodge action as a BNS ACT on your turn.
+
+### Step of the Wind
+
+- **Cost:** 1 Ki Point
+- **Bonus:** You can spend 1 Ki Point to take the Disengage or Dash action as a BNS ACT on your turn. In addition, you can double the distance of a jump this turn.
 
 ### Thunderclap (AOE Cantrip)
 

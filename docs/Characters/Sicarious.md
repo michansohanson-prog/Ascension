@@ -43,6 +43,7 @@
 | NAME              | DESCRIPTION                      |
 | :---------------- | :------------------------------- |
 | Hit Points        | 10<br> _(1d8 BASE +2 CON)_       |
+| **TO DO**         | **ROLL FOR HP LVL 2**            |
 | Armor Class       | 15<br> _(12 Light Armor +3 DEX)_ |
 | Initiative        | +3<br> _(+3 DEX)_                |
 | Speed             | 35 ft.<br> _(Fleet of Foot)_     |
@@ -55,11 +56,12 @@
 
 ## ⚔️ Action Menu & Techniques
 
-| Action     | Cost        | Range  | ATK or SAVE | Damage        |
-| :--------- | :---------- | ------ | ----------- | ------------- |
-| Melee ATK  | 1 Action    | Melee  | +5 ATK      | xdx + x (DEX) |
-| Ranged ATK | 1 Action    | xx ft. | +5 ATK      | xdx + x (DEX) |
-| Sneak ATK  | 1x per Turn | xx ft. | _See Below_ | 1d6           |
+| Action         | Cost        | Range  | ATK or SAVE | Damage        |
+| :------------- | :---------- | ------ | ----------- | ------------- |
+| Melee ATK      | 1 Action    | Melee  | +5 ATK      | xdx + x (DEX) |
+| Ranged ATK     | 1 Action    | xx ft. | +5 ATK      | xdx + x (DEX) |
+| Sneak ATK      | 1x per Turn | xx ft. | _See Below_ | 1d6           |
+| Cunning Action | BNS ACT     |        |             |               |
 
 ## Class Features & Proficiencies
 
@@ -75,7 +77,7 @@
 | Expertise          | Stealth and Acrobatics                                                                                                                                                                                       |
 | Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
 | Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
-| Cunning Action     | Unlocked at Level 2                                                                                                                                                                                          |
+| Cunning Action     | Use the Dash, Disengage, or Hide action as a BNS ACT on your turn.                                                                                                                                           |
 | Roguish Archetype  | Unlocked at Level 3                                                                                                                                                                                          |
 
 ## 🧬 Race & Background Features
