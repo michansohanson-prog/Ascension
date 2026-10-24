@@ -42,8 +42,7 @@
 
 | NAME              | DESCRIPTION                      |
 | :---------------- | :------------------------------- |
-| Hit Points        | 10<br> _(1d8 BASE +2 CON)_       |
-| **TO DO**         | **ROLL FOR HP LVL 2**            |
+| Hit Points        | 16<br> _(1d8 BASE +2 CON)_       |
 | Armor Class       | 15<br> _(12 Light Armor +3 DEX)_ |
 | Initiative        | +3<br> _(+3 DEX)_                |
 | Speed             | 35 ft.<br> _(Fleet of Foot)_     |
@@ -65,20 +64,20 @@
 
 ## Class Features & Proficiencies
 
-| Feature            |                                                                                                                                                                                                              |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Dice           | 1d8 + CON                                                                                                                                                                                                    |
-| Armor Proficiency  | Light Armor                                                                                                                                                                                                  |
-| Weapon Proficiency | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, <br>or Shortswords                                                                                                                                   |
-| Tools              | Thieves' Tools <br>Add your PROF BNS to lockpicking or disarm traps                                                                                                                                          |
-| Saving Throws      | DEX and INT (CLASS)                                                                                                                                                                                          |
-| Skills             | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                                |
-| Crossbow Expert    | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
-| Expertise          | Stealth and Acrobatics                                                                                                                                                                                       |
-| Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
-| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
-| Cunning Action     | Use the Dash, Disengage, or Hide action as a BNS ACT on your turn.                                                                                                                                           |
-| Roguish Archetype  | Unlocked at Level 3                                                                                                                                                                                          |
+| Feature               |                                                                                                                                                                                                              |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hit Dice              | 1d8 + CON                                                                                                                                                                                                    |
+| Armor Proficiency     | Light Armor                                                                                                                                                                                                  |
+| Weapon Proficiency    | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, <br>or Shortswords                                                                                                                                   |
+| Tools                 | Thieves' Tools <br>Add your PROF BNS to lockpicking or disarm traps                                                                                                                                          |
+| Saving Throws         | DEX and INT (CLASS)                                                                                                                                                                                          |
+| Skills                | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                                |
+| Crossbow Expert       | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
+| Expertise             | Stealth and Acrobatics                                                                                                                                                                                       |
+| Sneak Attack          | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
+| Thieves' Cant         | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
+| Cunning Action        | Use the Dash, Disengage, or Hide action as a BNS ACT on your turn.                                                                                                                                           |
+| **Roguish Archetype** | _Unlocked at Level 3_                                                                                                                                                                                        |
 
 ## 🧬 Race & Background Features
 
