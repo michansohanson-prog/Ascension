@@ -1,4 +1,4 @@
-# Sicarious - Rogue (Level 1)
+# Sicarious - Rogue (Level 3 - NEED TO UPDATE)
 
 ![Sicarious](./Sicarious.webp)
 

@@ -1,4 +1,4 @@
-# Noa - Wizard (Level 1)
+# Noa - Wizard (Level 3 - NEED TO UPDATE)
 
 ![NoaTemp](./Noa3.webp)
 
