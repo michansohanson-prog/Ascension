@@ -48,19 +48,19 @@ h3 {
 h1 {
   color: #1d7117;
   font-size: large;
-  text-shadow: 2px 2px 3px #4d4c4c;
+  text-shadow: 2px 2px 20px #1aff00;
 }
 
 h2 {
   color: #0c500f;
   font-size: 1.5em;
-  text-shadow: 2px 2px 2px #525151;
+  text-shadow: 2px 2px 20px #00b118;
 }
 
 h3 {
   color: #2c8f66;
   font-size: 1.2em;
-  text-shadow: 2px 2px 2px #000;
+  text-shadow: 2px 2px 20px #004714;
 }
 
 /* ============================================

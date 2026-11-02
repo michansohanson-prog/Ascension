@@ -35,6 +35,7 @@ export default defineConfig({
               { text: "Opening Monologue", link: "/OpeningMono.md" },
               { text: "Session 1", link: "/Sessions/Session1" },
               { text: "Session 2", link: "/Sessions/Session2" },
+              { text: "Session 3", link: "/Sessions/Session3" },
             ],
           },
           {

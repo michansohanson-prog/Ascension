@@ -7,7 +7,7 @@ description: The Journey Continues
 
 ## 📋 Overview
 
-- **Date:** [Insert Date]
+- **Date:** October 24, 2026
 - **Location:** [Unknown at this time]
 - **Primary Objective:** [Unknown at this time]
 - **Party Status:** [Active / Healthy]
