@@ -141,72 +141,68 @@ THE PUMPAKIN KING APPEARS!
 
 ---
 
-# D&D Campaign Recap: The Path to Zanzibahar
+# The Chronicles of Ascendency: The Marsh and the Pumpkin King
 
-## The Celebration at Rockfall
+I. Celebrations at Rockfall
+The party arrived in Rockfall to a celebration following their successful rescue of a family. They were met by Joren (a druid?) and Aja Appleborn, who tentatively inquired about other survivors, perhaps hoping for news of her husband. During the festivities:
 
-Upon arriving at Rockfall, the party celebrated their successful rescue of a family. Joren (a druid?) and Aja Appleborn were waiting for the group's arrival; Aja asked somewhat vaguely and tentatively if there were any other survivors, as she may have been hoping to hear news regarding her husband. During the celebration, Herb gave Sicarious an Enzi-shaped pipe, which Sicarious took by saying "Yoink." As Herb lit up to smoke joints, he noticed that Sicarious was faking it, though Herb did not do anything about this observation. Silvie (a blue dragonborn?) smacked Herb and shooed him away before inviting the party to the Dreaming Dragon Inn, where she brought them vegetable soup and ale. Blaise played a tune to join the celebration.
+Herb gave Sicarious an Enzi-shaped pipe; Sicarious responded with a "Yoink!" Herb lit up to smoke joints, noticing Sicarious was only faking it, though he said nothing.
+Silvie (a blue dragonborn?) shooed Herb away and invited the party to the Dreaming Dragon Inn, providing vegetable soup and ale.
+Blaise played a celebratory tune.
+Amidst the crowd, the party observed a mini-Kuona. It drew significant attention as a magical creature. Noa attempted to feed it carrots and cream, but it showed no interest—however, it reacted enthusiastically to a sack of dirt. Moving to a private area for closer examination, the party noted the eye-less creature seemed to "look" at them and emitted a significantly reduced amount of divine magic energy. In an unexpected turn, the creature "ate" spell slots when touched by Blaise and "roughed up" friendly-ly by Cassius.
 
-The party observed a mini-Kuona sitting on a table; they noticed it was attracting a lot of attention from nearby people as it is clearly a magical creature. Noa felt the mini-Kuona squirming and tried to feed it some carrots and cream, but it showed no interest. Thinking about its origins, Noa tried showing it a sack of dirt, which the mini-Kuona liked.
+II. The Mission and Departure
+Joren approached the party with a task: transport sick passengers to Zanzibahar via the Swampy Pass using sledges pulled by the Swamp Stompers (FluffyBum, Stompy, and Magistrate Dagda). Aja noted that Zanzibahar would provide a reward for safe completion.
 
-Joren approached the party with a request: he asked them to transport some sick people to Zanzibahar using sledges and Swamp Stompers (named FluffyBum, Stompy, and Magistrate Dagda) via the Swampy Pass. Aja mentioned that she has a connection and that Zanzibahar will provide a reward for the safe completion of this mission.
+As the party prepared to leave:
 
-The group decided to move the examination of the mini-Kuona to a private area. Sitting on top of the dirt in its sack, the eye-less creature seemed content and appeared to look at them; it emitted a significantly reduced amount of divine magic energy. When Blaise touched it, the creature "ate" one of his spell slots. Cassius also "roughed it up" in an aggressive but friendly manner, which also caused it to eat one of his spell slots.
+Sicarious set up booby-traps; during the long rest, the traps were "super effective" (nothing happened).
+Joren, looking exhausted, provided coffee, soup, biscuits, and rations for the journey.
+The Sledges:
+Sledge 1 (Stompy): An injured woman and a baby.
+Sledge 2 (FluffyBum): A sick man with a wet cough.
+Sledge 3 (Magistrate Dagda): An unconscious man and a dog-like creature.
+Aja shared an awkward interaction with Blaise (potentially flirting) and warned of the dangerous, marshy terrain—noting the Swamp Stompers' floppy feet were essential for traversing it.
+A Ritual Mishap: A silver dragonborn acolyte from Noa’s hometown performed a rite. Blaise attempted to play along, but the acolyte cast Silence on him; Noa realized it was a funeral ritual, making Blaise's attempt an unintentional "jefk."
+Diplomacy: Aja gave Cassius a letter (on Rockfall Letterhead) and 15GP, declaring him an official delegate of Rockfall.
+Choosing the quicker, more dangerous marsh over the heavily traveled long road to Zanzibahar, the party pressed into the wilderness.
 
-## Departure into the Marsh
+III. The Marsh and the Singing Crickets
+The journey through the marsh saw Blaise flying behind the sledges, dodging webs, trees, and dive-bombing frog-like crickets. At camp:
 
-The party decided to sleep. Sicarious set up a watch and booby-traps to ward off potential miscreants, as he only needs 4 hours of meditation/trance. During the long rest, the trap was **super effective.** (nothing happened). In the morning, Joren appeared exhausted, as if he hadn't slept; he provided coffee, soup, biscuits, and enough rations to sustain the party's journey.
+Blaise joked about offering alcohol to the breastfeeding woman in Sledge 1, admitting, "'I must confess, 'tis soup!" before playing music to soothe the group.
+While Cassius maintained the carts, the mini-Kuona ate another of Noa's spell slots.
+A strange phenomenon emerged with the crickets. During the night watch:
 
-At the stables, the Swamp Stompers looked healthy but were skittish and lean. The sledges were in good condition and loaded with passengers:
+Blaise noticed a sudden silence.
+Barvin felt "heavy and empty" and heard a single distant cricket.
+Cassius saw swarms of crickets in the trees, watching the party. Sicarious felt deeply uneasy under their gaze.
+By morning, the crickets continued to follow. One harmonized with Blaise in a sound resembling a war march. Then, a "horrible lament" echoed through the swamp. The party perceived it differently: Blaise and Sicarious thought it sounded great; Cassius and Noa thought it was terrible; Barvin simply heard it as a song.
 
-- **Sledge 1:** Pulled by Stompy; carried an injured woman and a baby.
-- **Sledge 2:** Pulled by FluffyBum; carried a sick man with a wet cough.
-- **Sledge 3:** Pulled by Magistrate Dagda; carried an unconscious man and a dog-like creature.
+IV. Sir Incanus
+Scouting ahead, Cassius, Blaise, and Noa discovered Sir Incanus, a young Tabaxi wizard, caught in a tree trap. Once an ambitious but poor student with a chip on his shoulder, he had been looking rough from being submerged.
 
-Aja had an awkward interaction with Blaise (it was unclear if she was hitting on him) and warned the party that the Swamp Passage is dangerous. It was noted that the terrain is very marshy, which explains the floppy flappy feet of the Swamp Stompers that allow them to traverse it.
+The Rescue: Blaise cut him down, but Cassius fumbled the catch; both "splatted" on the ground as the trap broke. Incanus used prestidigitation to clean himself up.
+The Intel: Incanus blamed the Bullywugs for his plight and suggested an old shrink resides at a nearby shrine. He offered 200GP to escort them, noting he saw at least six Bullywugs there. He also mentioned that crickets can find anyone if you possess their pearl.
+As the party continued, Lily let Barvin hold the baby. The mini-Kuona began snuggling with Noa, enjoying her rock-like skin. That night, the crickets vanished again, and the sounds of something being killed in the distance were heard. Incanus remarked that the night's sounds resembled a Bullywug.
 
-Nearby, a silver dragonborn acolyte from Noa's home-town was performing a rite. Blaise tried to play along with the ritual, but the silver dragonborn did not like this and cast _Silence_ on him; Noa recognized that the rite was actually a funeral ritual, meaning Blaise had unintentionally been being a jefk.
+V. The Shrine and the Pumpkin King
+Approaching the shrine, the party hid the sledges and passengers in the bushes. They discovered a ruined temple decorated with pumpkins and a dead, ornately dressed Bullywug chieftain wearing an unusual necklace and a Warforged headpiece. Suddenly, a pumpkin ate the headpiece.
 
-As they departed for the wilderness, Cassius was given a letter from Aja along with 15GP, written on Rockfall Letterhead. She expressed her thanks and stated she wanted to help the party; she also declared Cassius an official delegate of Rockfall. As they pressed toward Zanzibahar, they saw the road diverge toward various destinations like Nyalima and Mayua. While there was some traffic, it was obvious that paths like Nyalima are less-frequently traveled, whereas the path to Zanzibahar is the most heavily traveled. Upon reaching a fork in the road between the long road to Zanzibhar and the quicker but more dangerous marsh, the party chose the marsh.
+Battle Log: The Shrine of Attack-o-Lanterns
+Enemies: Attack-o-Lanterns (Pumpkins) and Giant Spiders.
 
-## The Marshlands and the Crickets
-
-In the marsh, Cassius and Noa rode in Sledge 1, Barvin was in Sledge 2, Sicarious was in Sledge 3, and Blaise flew behind them, deftly dodging webs, trees, and numerous odd-seeming frog-like crickets that began to dive-bomb him. Cassius found a spot of dry land to set up camp. At camp, Blaise offered alcohol to the breastfeeding woman in sledge 1 before admitting, "'I must confess, 'tis soup!" He then soothed the group with music. They decided to take turns with night watch, starting with Sicarious. Cassius performed maintenance on the carts. Noa felt the mini-Kuona squirming and, upon examining it, found that it ate another of her spell slots.
-
-During the long rest, Blaise noticed the crickets had gone silent. Barvin felt heavy and empty, and at the end of his watch, he heard a single distant cricket. Cassius heard the crickets getting closer and saw a few; Noa had him stay awake to investigate, discovering swarms of crickets in the trees watching them. Sicarious felt very uneasy with the crickets watching him.
-
-In the morning, the crickets continued to follow and watch the party as the Swamp Stompers led the way. A cricket landed on Blaise, and they harmonized a sound similar to a war march. Then, a beautiful but horrible lament was heard; however, the perception of the song varied: Blaise and Sicarious thought it sounded GREAT; Cassius and Noa thought it sounded TERRIBLE; and Barvin just thought it sounded like a song.
-
-## Sir Incanus
-
-Cassius, Blaise, and Noa scouted ahead and found a Tabaxi man named Sir Incanus in a crude tree trap, warbling the song. He is a young wizard who was poor but made a name for himself among usually-rich students, which gave him a chip on his shoulder. He looked rough, as if he had been submerged several times. Blaise flew up to cut the ropes; Cassius attempted to catch him but fumbled, causing both to splat and the trap to break open. Sir Incanus then used _prestidigitation_ on himself. Noa recognized him as being egotistical and ambitious in school; Incanus noted he had heard of Blaise from Zanzibahar.
-
-Incanus explained that Bullywugs have taken up residence in the swamp—thinking it relates to the past—and said an old shrink is at a shrine. He offered 200GP to escort them there, noting he saw at least 6 bullywugs at the shrine and that crickets can find anyone if you possess their pearl. He estimated the journey to the shrine would take over a full day.
-
-Back at camp, Lily let Barvin hold the baby. Cassius "fed" the mini-Kuona another spell slot. During the night watch, Blaise and Barvin noticed the crickets were gone again, and they heard "something" in the distance, sounding like something was killed in the night. In the morning, the mini-Kuona crawled out of its dirt sack to snuggle with Noa, as it likes the rock-like surface of her skin. The crickets were still gone, but Blaise described the sound from the night to the party, and Incanus remarked that it sounded like a bullywug.
-
-## The Shrine Battle
-
-The party approached the shrine and hid the sledges and passengers in the nearby bushes before proceeding to the shrine. At the shrine—a ruined temple decorated with pumpkins—the Bullywugs appeared to be celebrating. They found a dead, ornately dressed Bullywug chieftain wearing a Warforged headpiece and an unusual necklace; suddenly, a pumpkin ate the headpiece.
-
----
-
-### **BATTLE LOG: The Shrine of Attack-o-Lanterns**
-
-**Enemies:** Attack-o-Lanterns (Pumpkins), Giant Spiders
-
-- **Barvin:** Quarterstaff attack $\rightarrow$ **super effective.** (Pumpkin explodes)
-- **Cassius:** Casts _Bless_ on Cassius, Barvin, and Sicarious.
-- **Blaise:** Casts _Faerie Fire_ $\rightarrow$ Succeeds on 2 of 3 targets.
-- **Sicarious:** Attacks yellow pumpkin $\rightarrow$ Lands a bonus critical attack, pinning it to the wall.
-- **Noa:** Casts _Starburst_ on blue pumpkin $\rightarrow$ **super effective.** (Pumpkin explodes)
-- **Incanus:** Attack $\rightarrow$ MISS.
-- **Giant Spider:** Attacks Barvin $\rightarrow$ CRITICAL HIT!
-- **Noa:** Uses Reaction to cast _Silvery Barbs_ $\rightarrow$ 100% success.
-- **Giant Spider:** Attacks Sicarious $\rightarrow$ Deals 6 piercing and 3 poison damage; Target is Prone and Grappled.
-- **Giant Spider:** Attacks Barvin $\rightarrow$ CRITICAL HIT! (Deals 13 + 6 + 12 damage). **Barvin has fallen.**
-- **Pumpkin:** Attacks Incanus $\rightarrow$ Deals 7 damage.
-- **Pumpkin:** Attacks Blaise $\rightarrow$ Spits a seed (deals 3 damage).
-- **Pumpkin (the one that swallowed the headpiece):** Backs off and disappears; potentially casts a spell.
-
-**[EVENT]: THE PUMPKIN KING APPEARS!**
+Barvin: Landed a super effective quarterstaff attack; pumpkin exploded.
+Cassius: Cast Bless on himself, Barvin, and Sicarious.
+Blaise: Cast Faerie Fire, successfully hitting 2 of 3 targets.
+Sicarious: Attacked a yellow pumpkin with a bonus critical attack, pinning it to the wall.
+Noa: Cast Starburst on a blue pumpkin (super effective); pumpkin exploded.
+Incanus: Missed his attack.
+Giant Spider: Critically hit Barvin.
+Noa (Reaction): Cast Silvery Barbs (100% success).
+Giant Spider: Attacked Sicarious (6 piercing, 3 poison damage); Sicarious is Prone and Grappled.
+Giant Spider: Landed a second Critical Hit on Barvin (13 + 6 + 12 damage). Barvin has fallen.
+Pumpkin: Attacked Incanus for 7 damage.
+Pumpkin: Spat a seed at Blaise (3 damage).
+The Headpiece Pumpkin: Backed off, disappeared, and seemingly cast a spell.
+[EVENT]: THE PUMPKIN KING APPEARS!
