@@ -1,4 +1,3 @@
-```markdown
 # Session 2: The Marsh and the Pumpakin King
 
 ## Tentative - needs further review and details; as well as fix broken links
@@ -108,4 +107,3 @@ _Status as of the end of Session 2_
 - [ ] **Agent Sebastian:** Speak with the agent at the Deluxe Dragon Detective Department about cases ignored by the Constable.
 - [ ] **Diddum was here:** Investigate the message written in the Thieves' Cant
 - [ ] **Magistrate's Complaint Box:** File a complaint, or speak with the Magistrate.
-```
