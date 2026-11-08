@@ -8,19 +8,19 @@
 
 ---
 
-## 📖 Narrative Summary
+## 📖 Session Summary
 
 ### Celebrations and New Commissions
 
-Following the victory in Rockfall, the party celebrated at the **Dreaming Dragon Inn**. During the festivities, [Herb](/NPCs/NPCs.md#Herb) gifted [Sicarious](/Characters/Sicarious.md) an Enzi-shaped pipe. The party also encountered a miniature **Kuona**, which emitted reduced divine magic energy and appeared to "look" at the party despite having no eyes; it inadvertently "ate" spell slots from [Blaise](/Characters/Blaise.md) and [Cassius](/Characters/Cassius.md).
+Following the victory in Rockfall, the party celebrated at the [Dreaming Dragon Inn](/Locations/Locations.md#The-Dreaming-Dragon-Inn). During the festivities, [Herb](/NPCs/NPCs.md#Herb) gifted [Sicarious](/Characters/Sicarious.md) an Enzi-shaped pipe. The party further examined the miniature [Kuona](/MinorArcana/MinorArcana.md#Kuona), which emitted reduced divine magic energy and appeared to "look" at the party despite having no eyes; it inadvertently "ate" spell slots from [Blaise](/Characters/Blaise.md) and [Cassius](/Characters/Cassius.md).
 
-As celebrations ended, [Joren](/NPCs/NPCs.md#Joren) commissioned the party to escort sick refugees through the **Swampy Pass** using **Swamp Stompers** Stompy, FluffyBum, and Magistrate Dagda. The refugees were distributed across three sledges: Sledge 1 carried an injured woman and baby; Sledge 2 carried a man with a persistent cough; and Sledge 3 carried an unconscious man and a dog-like creature.
+As celebrations ended, [Joren](/NPCs/NPCs.md#Constable-Joren) commissioned the party to escort sick refugees through the **Swampy Pass** using [Swamp Stompers](/NPCs/NPCs.md#Swamp-Stompers) Stompy, FluffyBum, and Magistrate Dagda. The refugees were distributed across three sledges: Sledge 1 carried an injured woman and baby; Sledge 2 carried a man with a persistent cough; and Sledge 3 carried an unconscious man and a dog-like creature.
 
 ### The Treacherous Marsh
 
 The journey through the marsh was marked by unsettling **Cricket Swarms** that followed the party, emitting a "horrible lamentation" perceived differently by everyone: Blaise and Sicarious found it great, while Cassius and Noa found it terrible. During the night, **Sanguine Lenegara** (mosquitoes) bit Noa, Cassius, and Blaise, causing 1hp loss each.
 
-While traveling, the group rescued **Sir Incanus**, an ambitious Tabaxi wizard (formerly poor), who had "splatted" on the ground during a clumsy rescue attempt; he used _prestidigitation_ to clean himself afterward. He noted that crickets can find anyone if one possesses their **pearl**. He promised 200 GP to be escorted to a nearby shrine.
+While traveling, the group rescued [Sir Incanus](/NPCs/NPCs.md#Sir-Incanus), an ambitious Tabaxi wizard (formerly poor), who had "splatted" on the ground during a clumsy rescue attempt; he used _prestidigitation_ to clean himself afterward. He noted that crickets can find anyone if one possesses their **pearl**. He promised 200 GP to be escorted to a nearby shrine.
 
 ### Battle at the Shrine of Attack-o-Lanterns
 

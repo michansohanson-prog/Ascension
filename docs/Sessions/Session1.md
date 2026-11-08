@@ -11,7 +11,7 @@ description: The Beginning of the Journey
 - **Location:** [Rockfall](/Locations/Locations.md#Rockfall) / [Enziret](/Locations/Locations.md#Enziret) Border
 - **Primary Objective:** Rescue the missing family from the shadow of Mount Enziret.
 
-## 📖 Narrative Summary
+## 📖 Session Summary
 
 ### The Shadow Over Rockfall
 

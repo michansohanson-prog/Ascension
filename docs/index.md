@@ -7,10 +7,10 @@ import cassiusImg from './images/CassiusIcon.webp'
 import blaiseImg from './images/Blaise.webp'
 import sicariousImg from './images/Sicarious.webp'
 import barvinImg from './images/Barvin.webp'
-import session2Img from './images/Session2.webp'
+import session2Img from './images/Session3.webp'
 
 const navLinks = [
-  { image: session2Img, link: withBase('/Sessions/Session1/') },
+  { image: session2Img, link: withBase('/Sessions/Session2/') },
   { image: noaImg, link: withBase('/Characters/Noa') },
   { image: cassiusImg, link: withBase('/Characters/Cassius') },
   { image: blaiseImg, link: withBase('/Characters/Blaise') },
