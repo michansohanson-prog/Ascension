@@ -207,7 +207,7 @@ Cassius casts a spell to try to identify the strange necklace: it's the soul cor
 Sicarious: investigates the body parts in more detail: this body is OLD. (historically, warforged have been guardians of temples. maybe this one once guarded this temple? There are pumpakin and Bullywog toothmarks all over it - it's ANCIENT).
 
 We decide to assemble the body parts: Cassius starts putting the body back together. Nothing happens, the soul core doesn't activate. Cassius kisses it.
-Incanus then says we should take it to Urusha if we want to fix it; or find Taranis.  
+Incanus then says we should take it to Urusha if we want to fix it; or find Taranis.
 We take the body with us.
 
 We return to camp and have a nice long rest:
@@ -230,7 +230,7 @@ Sicarious keeps his as a pet?
 
 In the morning: we press on with our group, eventually leaving the swamp for grass, road, and the ocean bay, and Zanzibahar.
 A mounted fire Genasi approaches us - takes the refugees.
-Incanus gives us 200GP, which is split evenly between the main party (40GP each).  
+Incanus gives us 200GP, which is split evenly between the main party (40GP each).
 We board our swamp stompers in Ilym's Exotic Animals - there they can rest and heal.
 
 We approach a message board:

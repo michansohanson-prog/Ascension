@@ -1,4 +1,4 @@
-# Sicarious - Rogue (Level 3 - NEED TO UPDATE)
+# Sicarious - Rogue LVL 3
 
 ![Sicarious](./Sicarious.webp)
 
@@ -40,18 +40,18 @@
 
 ## Combat Statisctics
 
-| NAME              | DESCRIPTION                      |
-| :---------------- | :------------------------------- |
-| Hit Points        | 16<br> _(1d8 BASE +2 CON)_       |
-| Armor Class       | 15<br> _(12 Light Armor +3 DEX)_ |
-| Initiative        | +3<br> _(+3 DEX)_                |
-| Speed             | 35 ft.<br> _(Fleet of Foot)_     |
-| Sneak Attack      | +1d6 Extra DMG                   |
-| Technique Points  | 0                                |
-| Proficiency Bonus | +2                               |
-| Attack Bonus      | +5<br> _(+3 DEX +2 PROF)_        |
-| Tech Save DC      | 13<br> _(8 +3 DEX +2 PROF)_      |
-| Spell Save DC     | 10<br> _(8 +0 WIS +2 PROF)_      |
+| NAME                            | DESCRIPTION                      |
+| :------------------------------ | :------------------------------- |
+| Hit Points<br>NEED LVL 3 UPDATE | 16<br> _(1d8 BASE +2 CON)_       |
+| Armor Class                     | 15<br> _(12 Light Armor +3 DEX)_ |
+| Initiative                      | +3<br> _(+3 DEX)_                |
+| Speed                           | 35 ft.<br> _(Fleet of Foot)_     |
+| Sneak Attack                    | +1d6 Extra DMG                   |
+| Technique Points                | 0                                |
+| Proficiency Bonus               | +2                               |
+| Attack Bonus                    | +5<br> _(+3 DEX +2 PROF)_        |
+| Tech Save DC                    | 13<br> _(8 +3 DEX +2 PROF)_      |
+| Spell Save DC                   | 10<br> _(8 +0 WIS +2 PROF)_      |
 
 ## ⚔️ Action Menu & Techniques
 
@@ -64,20 +64,35 @@
 
 ## Class Features & Proficiencies
 
-| Feature               |                                                                                                                                                                                                              |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Dice              | 1d8 + CON                                                                                                                                                                                                    |
-| Armor Proficiency     | Light Armor                                                                                                                                                                                                  |
-| Weapon Proficiency    | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, <br>or Shortswords                                                                                                                                   |
-| Tools                 | Thieves' Tools <br>Add your PROF BNS to lockpicking or disarm traps                                                                                                                                          |
-| Saving Throws         | DEX and INT (CLASS)                                                                                                                                                                                          |
-| Skills                | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                                |
-| Crossbow Expert       | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
-| Expertise             | Stealth and Acrobatics                                                                                                                                                                                       |
-| Sneak Attack          | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
-| Thieves' Cant         | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
-| Cunning Action        | Use the Dash, Disengage, or Hide action as a BNS ACT on your turn.                                                                                                                                           |
-| **Roguish Archetype** | _Unlocked at Level 3_                                                                                                                                                                                        |
+| Feature            |                                                                                                                                                                                                              |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hit Dice           | 1d8 + CON                                                                                                                                                                                                    |
+| Armor Proficiency  | Light Armor                                                                                                                                                                                                  |
+| Weapon Proficiency | Simple Weapons, Hand Crossbows,<br>Longswords, Rapiers, <br>or Shortswords                                                                                                                                   |
+| Tools              | Thieves' Tools <br>Add your PROF BNS to lockpicking or disarm traps                                                                                                                                          |
+| Saving Throws      | DEX and INT (CLASS)                                                                                                                                                                                          |
+| Skills             | Acrobatics, Sleight of Hand<br>Stealth, Investigation (CLASS)                                                                                                                                                |
+| Crossbow Expert    | Ignore loading property with proficient crossbows.<br>No disadvantage on being within 5 ft. of enemy.<br>On ATK, get a Bonus Action ATK with Hand Crossbow.                                                  |
+| Expertise          | Stealth and Acrobatics                                                                                                                                                                                       |
+| Sneak Attack       | Once per turn, deal extra 1d6 DMG if you have ADV.<br>Don't need ADV if ally is within 5 ft. of enemy.<br>Cannot have disadvantage. <br>Enemy must not be incapacitated.<br>Bonus DMG will scale with level. |
+| Thieves' Cant      | Super secret thieves' language takes 4x longer to<br>communicate in this cant. You also understand the<br>secret signs and symbols.                                                                          |
+| Cunning Action     | Use the Dash, Disengage, or Hide action as a BNS ACT on your turn.                                                                                                                                           |
+| Roguish Archetype  | PICK ONE: Thief, Arcane Trickster, or Assassin                                                                                                                                                               |
+
+**Pick One of These for your Roguish Archetype**
+| Subclass | Source | Level 3 Features & Mechanics |
+| :------------------- | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thief** | _PHB_ | **Fast Hands:** Use _Cunning Action_ bonus action to make a Sleight of Hand check, use thieves' tools, or take the **Use an Object** action.<br>**Second-Story Work:** Climbing costs no extra movement; running jump distance increases by your Dexterity modifier (in feet). |
+| **Assassin** | _PHB_ | **Bonus Proficiencies:** Gain proficiency with the **disguise kit** and **poisoner's kit**.<br>**Assassinate:** Advantage on attack rolls against any creature that hasn't taken a turn yet; any hit against a **surprised** creature is an automatic critical hit. |
+| **Arcane Trickster** | _PHB_ | **Spellcasting:** Learn 3 wizard cantrips (must include _Mage Hand_) and 3 1st-level wizard spells (mostly Enchantment/Illusion) using **Intelligence**.<br>**Mage Hand Legerdemain:** Spectral _Mage Hand_ is invisible; can stow/retrieve items on creatures or use thieves' tools at range as a _Cunning Action_ bonus action. |
+| **Swashbuckler** | _SCAG / XGtE_ | **Fancy Footwork:** Making a melee attack against a creature prevents it from making opportunity attacks against you for the rest of your turn.<br>**Rakish Audacity:** Add **Charisma** modifier to initiative; trigger Sneak Attack without advantage if within 5 ft. of target, no other creatures are within 5 ft. of you, and you don't have disadvantage. |
+| **Mastermind** | _SCAG / XGtE_ | **Master of Intrigue:** Gain proficiency with **disguise kit**, **forgery kit**, and one gaming set; learn two languages; mimic speech patterns/accents heard for 1+ minute.<br>**Master of Tactics:** Use the **Help** action as a bonus action; when aiding an ally's attack, the target can be within 30 ft. of you instead of 5 ft. |
+| **Inquisitive** | _XGtE_ | **Ear for Deceit:** Treat d20 rolls of 7 or lower as an 8 on Wisdom (Insight) checks to detect lies.<br>**Eye for Detail:** Bonus action to make a Perception check (spot hidden) or Investigation check (uncover clues).<br>**Insightful Fighting:** Bonus action Insight check vs. target's Deception; on success, Sneak Attack that target for 1 minute without needing advantage (unless you have disadvantage). |
+| **Scout** | _XGtE_ | **Skirmisher:** Use your reaction to move up to half your speed without provoking opportunity attacks when an enemy ends its turn within 5 ft. of you.<br>**Survivalist:** Gain proficiency and **Expertise** (double proficiency bonus) in both **Nature** and **Survival**. |
+| **Phantom** | _TCoE_ | **Whispers of the Dead:** Gain one floating skill or tool proficiency after finishing a short or long rest.<br>**Wails from the Grave:** Immediately after dealing Sneak Attack damage, deal necrotic damage equal to half your Sneak Attack dice (rounded up) to a second creature within 30 ft. of the first (uses = proficiency bonus per long rest). |
+| **Soulknife** | _TCoE_ | **Psionic Power:** Gain a pool of Psionic Energy dice (d6s, count = 2× proficiency bonus) to fuel **Psi-Bolstered Knack** (add die to failed proficient skill/tool check; spent only if it turns failure into success) and **Psychic Whispers** (telepathic link with allies up to 1 mile).<br>**Psychic Blades:** Attack action manifests a 1d6 psychic finesse blade (thrown 60 ft., leaves no mark) plus a 1d4 bonus-action blade attack if your off-hand is free. |
+
+**Also you need to pick your Elementaria Skills**
 
 ## 🧬 Race & Background Features
 

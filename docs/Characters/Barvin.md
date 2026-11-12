@@ -1,4 +1,4 @@
-# Barvin Vox - Monk (LVL 3 - NEED TO UPDATE)
+# Barvin Vox - Monk LVL 3
 
 ![Barvin Stats](./Barvin.webp)
 
@@ -42,13 +42,13 @@
 
 | NAME              | DESCRIPTION                                           |
 | :---------------- | :---------------------------------------------------- |
-| Hit Points        | 19<br>_(1d8 BASE +2 CON)_                             |
+| Hit Points        | 26<br>_(1d8 BASE +2 CON)_                             |
 | Armor Class       | 16<br>_(Unarmored Defense:<br>10 Base +3 DEX +3 WIS)_ |
 | Initiative        | +8<br>_(+3 DEX +5 ALERT)_                             |
 | Speed             | 40 ft.<br>_(+10 Unarmored Movement)_                  |
 | Martial Arts      | 1d4 DMG                                               |
 | Ki Points         | 2                                                     |
-| Technique Points  | 0                                                     |
+| Technique Points  | 1                                                     |
 | Proficiency Bonus | +2                                                    |
 | Attack Bonus      | +5 _(+3 DEX +2 PROF)_                                 |
 | Ki Save DC        | 13 _(8 +WIS +2 PROF)_                                 |
@@ -58,36 +58,39 @@
 
 ## ⚔️ Action Menu & Techniques
 
-| Action            | Cost                   | Range              | ATK or SAVE                   | Damage                     |
-| :---------------- | :--------------------- | ------------------ | ----------------------------- | -------------------------- |
-| Special Feature   | At Start<br>of Turn    |                    | D20 <= LVL                    |                            |
-| Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)              |
-| Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)               |
-| Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                |
-| Wind Bullet       | Action + <br>1 TECH PT | 120 ft.            | +5 ATK<br>(+1d4)<sup>\*</sup> | 3d12 Piercing              |
-| Concussive Force  | Action + <br>1 TECH PT | 10 ft.             | CON Save                      | 4d6 Thunder<sup>\*</sup>   |
-| Electrifying Dash | 1 TECH PT              | 5 ft.<sup>\*</sup> | DEX Save                      | 1d8 Lightning<sup>\*</sup> |
+| Action            | Cost                   | Range              | ATK or SAVE                   | Damage                          |
+| :---------------- | :--------------------- | ------------------ | ----------------------------- | ------------------------------- |
+| Special Feature   | At Start<br>of Turn    |                    | D20 <= LVL                    |                                 |
+| Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)                   |
+| Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)                    |
+| Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                     |
+| Wind Bullet       | Action + <br>1 TECH PT | 120 ft.            | +5 ATK<br>(+1d4)<sup>\*</sup> | 3d12 Piercing                   |
+| Concussive Force  | Action + <br>1 TECH PT | 10 ft.             | CON Save                      | 4d6 Thunder<sup>\*</sup>        |
+| Electrifying Dash | 1 TECH PT              | 5 ft.<sup>\*</sup> | DEX Save                      | 1d8 Lightning<sup>\*</sup>      |
+| Deflect Missiles  | Reaction               | Self               | N/A                           | Reduce 1d10 + 3 (DEX) + 3 (LVL) |
 
 ## Class Features & Proficiencies
 
-| Feature            |                                                                                                                                                                                                                     |
-| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Hit Dice           | 1d8 + CON                                                                                                                                                                                                           |
-| Armor Proficiency  | None                                                                                                                                                                                                                |
-| Weapon Proficiency | Simple weapons, Shortswords                                                                                                                                                                                         |
-| Tools              | Cartographer's tools (CLASS)                                                                                                                                                                                        |
-| Instrument         | Drums/Percussion (BKG)                                                                                                                                                                                              |
-| Saving Throws      | STR and DEX                                                                                                                                                                                                         |
-| Skills             | Acrobatics, Insight (CLASS)                                                                                                                                                                                         |
-| Alert (BKG)        | +5 bonus to Initiative<br>Can't be surprised while you are conscious<br>Can't be surprised while you are conscious<br>Other creatures don't gain ADV on ATK rolls against you<br>as a result of being unseen by you |
-| Unarmored DEF      | AC = 10 +DEX +WIS                                                                                                                                                                                                   |
-| Martial Arts       | Unarmed or Monk weapons use DEX for ATK and DMG<br>Use Martial Arts dice for DMG<br>Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK                                                                 |
-| Ki                 | Replenish on Long Rest<br>Must spend 30 min meditating                                                                                                                                                              |
-| Flurry of Blows    | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
-| Patient DEF        | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
-| Step of the Wind   | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
-| Unarmored MVT      | Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                                                    |
-| Special Feature    | Roll a D20. If SpecialFeature(roll <= CharLVL>) = Success!<br>Next turn gain "Energy Surge."                                                                                                                        |
+| Feature             |                                                                                                                                                                                                                     |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Hit Dice            | 1d8 + CON                                                                                                                                                                                                           |
+| Armor Proficiency   | None                                                                                                                                                                                                                |
+| Weapon Proficiency  | Simple weapons, Shortswords                                                                                                                                                                                         |
+| Tools               | Cartographer's tools (CLASS)                                                                                                                                                                                        |
+| Instrument          | Drums/Percussion (BKG)                                                                                                                                                                                              |
+| Saving Throws       | STR and DEX                                                                                                                                                                                                         |
+| Skills              | Acrobatics, Insight (CLASS)                                                                                                                                                                                         |
+| Alert (BKG)         | +5 bonus to Initiative<br>Can't be surprised while you are conscious<br>Can't be surprised while you are conscious<br>Other creatures don't gain ADV on ATK rolls against you<br>as a result of being unseen by you |
+| Unarmored DEF       | AC = 10 +DEX +WIS                                                                                                                                                                                                   |
+| Martial Arts        | Unarmed or Monk weapons use DEX for ATK and DMG<br>Use Martial Arts dice for DMG<br>Bonus Unarmed Strike after an Unarmed Strike or Monk Weapon ATK                                                                 |
+| Ki                  | Replenish on Long Rest<br>Must spend 30 min meditating                                                                                                                                                              |
+| Flurry of Blows     | Cost: 1 Ki Point<br>Immediately after ATK, make two Unarmed Strikes as BNS ACT<br>Open Hand unlocks additional effects at lvl 3                                                                                     |
+| Way of<br>Open Hand | Cost: 1 Ki Point<br>When you hit with Flurry of Blows<br>knock enemy prone (DEX save) or <br>push enemy 15 ft. (STR save) or<br>enemy loses reactions until<br>the end of your next turn.                           |
+| Patient DEF         | Cost: 1 Ki Point<br>Take the Dodge action as a BNS ACT                                                                                                                                                              |
+| Step of the Wind    | Cost: 1 Ki Point<br>Take the Disengage or Dash action as a BNS ACT<br>Jump distance is doubled                                                                                                                      |
+| Unarmored MVT       | Speed increases by 10 feet when Unarmored<br>Additional speed bonus and features as you level up                                                                                                                    |
+| Special Feature     | Roll a D20. If SpecialFeature(roll <= CharLVL>) = Success!<br>Next turn gain "Energy Surge."                                                                                                                        |
+| Deflect Missiles    | On hit with a ranged ATK use <br> reaction to mitigate 1d10 + 6 DMG<br> if DMG = 0 spend 1 Ki Point <br>to make ranged ATK with PROF<br>and counts as Monk Weapon<br>with range of 20 - 60 ft.                      |
 
 ## 🧬 Race & Background Features
 
