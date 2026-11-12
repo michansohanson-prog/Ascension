@@ -1,4 +1,4 @@
-# Blaise de La Mer - Bard (Sword Bard) (Level 3 - NEED TO UPDATE)
+# Blaise de La Mer - Bard (Sword Bard) LVL 3
 
 ![Blaise](./Blaise.webp)
 

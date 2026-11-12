@@ -1,4 +1,4 @@
-# Cassius - Cleric (Level 3 - NEED TO UPDATE)
+# Cassius - Cleric LVL 3
 
 ![Michael](./Cassius.webp)
 
