@@ -58,16 +58,16 @@
 
 ## ⚔️ Action Menu & Techniques
 
-| Action            | Cost                   | Range              | ATK or SAVE                   | Damage                          |
-| :---------------- | :--------------------- | ------------------ | ----------------------------- | ------------------------------- |
-| Special Feature   | At Start<br>of Turn    |                    | D20 <= LVL                    |                                 |
-| Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)                   |
-| Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)                    |
-| Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                     |
-| Wind Bullet       | Action + <br>1 TECH PT | 120 ft.            | +5 ATK<br>(+1d4)<sup>\*</sup> | 3d12 Piercing                   |
-| Concussive Force  | Action + <br>1 TECH PT | 10 ft.             | CON Save                      | 4d6 Thunder<sup>\*</sup>        |
-| Electrifying Dash | 1 TECH PT              | 5 ft.<sup>\*</sup> | DEX Save                      | 1d8 Lightning<sup>\*</sup>      |
-| Deflect Missiles  | Reaction               | Self               | N/A                           | Reduce 1d10 + 3 (DEX) + 3 (LVL) |
+| Action            | Cost                   | Range              | ATK or SAVE                   | Damage                             |
+| :---------------- | :--------------------- | ------------------ | ----------------------------- | ---------------------------------- |
+| Special Feature   | At Start<br>of Turn    |                    | D20 <= LVL                    |                                    |
+| Unarmed Strike    | Action or<br>BNS ACT   | Melee              | +5 ATK                        | 1d4 + 3 (DEX)                      |
+| Quarterstaff      | Action                 | Melee              | +5 ATK                        | 1d6 +3 (DEX)                       |
+| Thunderclap       | Action                 | 5 ft. Radius       | CON Save                      | 1d6 Thunder                        |
+| Wind Bullet       | Action + <br>1 TECH PT | 120 ft.            | +5 ATK<br>(+1d4)<sup>\*</sup> | 3d12 Piercing                      |
+| Concussive Force  | Action + <br>1 TECH PT | 10 ft.             | CON Save                      | 4d6 Thunder<sup>\*</sup>           |
+| Electrifying Dash | 1 TECH PT              | 5 ft.<sup>\*</sup> | DEX Save                      | 1d8 Lightning<sup>\*</sup>         |
+| Deflect Missiles  | Reaction               | Self               | N/A                           | Reduce 1d10<br>+ 3 (DEX) + 3 (LVL) |
 
 ## Class Features & Proficiencies
 
